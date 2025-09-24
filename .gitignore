@@ -1,2 +1,3 @@
 event_detection/filtered_news/*.csv
 event_detection/output_detection/*.jsonl
+.env
