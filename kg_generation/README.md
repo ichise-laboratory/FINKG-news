@@ -24,7 +24,7 @@ These provide fast deployment using only triple files (CSV format) without loadi
 ## Data & Resources
 
 - `csvTriples/`:  
-  Contains CSV files with subject-predicate-object triples for companies, events, news, etc. You can also generate these triples using the `createTriplesCSV()` method in the main code. Note that for the News and Event triples you will have to use other scripts in the `event_detection` section.
+  Contains CSV files with subject-predicate-object triples for companies, events, news, etc. You can also generate these triples using the `createTriplesCSV()` method in the main code. Note that for the triples containing News and Events you will have to use the [`event_detection_analysis.ipynb`](event_detection_analysis.ipynb) notebook in the `event_detection` section.
 
 - `data/`:  
   Contains supporting data files, including news/event metadata and mapping tables and csv file with seed companies for populating the graph.

@@ -114,8 +114,8 @@ class CoreKG:
         # self.company_cik_ticker_10kfilename = r"data/CompanyCikTicker10kFilename.csv"
         # self.company_cik_ticker_10kfilename ="data\CompanyCikTicker10kFilename_testing.csv"
         # self.company_cik_ticker_10kfilename = r"data/test.csv"
-        self.company_cik_ticker_10kfilename = r"data/CompanyCikTicker10kFilename_2000to2025_SP500_400_600.csv"
-        # self.company_cik_ticker_10kfilename = r"data\CompanyCikTicker10kFilename_2000to2025_SP500_400_600-REDUCED.csv"
+        # self.company_cik_ticker_10kfilename = r"data/CompanyCikTicker10kFilename_2000to2025_SP500_400_600.csv"
+        self.company_cik_ticker_10kfilename = r"data/CompanyCikTicker10kFilename_2000to2025_SP500_400_600-REDUCED.csv"
 
         # company ticker, CIK and title json file name
         self.company_ticker_cik_file = r"data/company_tickers.json"
@@ -339,16 +339,31 @@ class CoreKG:
                        'event_type': event['event_type']} for event in events]
             return events
 
+    def __quick_fix_encoding(self,text):  # helper function to correct the news text encoding
+        
+        replacements = {
+            "Ã¢ÂÂ": "'",
+            "Ã¢ÂÂ": '"',
+            "Ã¢ÂÂ": '"',
+            "ÃÂ": "",      # elimina el artefacto Â suelto
+        }
+        
+        if not isinstance(text, str):
+            return text
+        for bad, good in replacements.items():
+            text = text.replace(bad, good)
+        return text
+    
     def getNewsPairList(self):
         news_list = []
         with open(self.NewsMetadataPath, "r", encoding="utf-8") as f:
             for line in f:
                 record = json.loads(line)
-                print(record["news_id"], record["Article_title"])
+                # print(record["news_id"], record["Article_title"])
                 entity = {
                     'news_id': str(record["news_id"]),
-                    'title': record["Article_title"].replace('"', '\\"'),
-                    'text': record["Article"].replace('"', '\\"'),
+                    'title': self.__quick_fix_encoding(record["Article_title"]).replace('"', '\\"'),
+                    'text': self.__quick_fix_encoding(record["Article"]).replace('"', '\\"'),
                     'date': record["Date"],
                     'url': record["Url"]}
                 news_list.append(entity)
@@ -1164,7 +1179,7 @@ class CoreKG:
         "Url":"https:\/\/www.nasdaq.com\/articles\/bitcoin-stocks-get-new-member-cboe-launches-bitcoin-futures-sunday-dec-10-2017-12-07"}
         """
         news_pair_list = self.getNewsPairList()
-        print(news_pair_list)
+        # print(news_pair_list)
         
         # set news entity
         entity = { 'News' : news_pair_list }
@@ -2109,7 +2124,7 @@ if __name__ == "__main__":
     # download data from edgar
     coreKG.downloadDataFromEdgarAndDrawGraph(to_neo4j=True)
     
-    # coreKG.createEventImpactTriples(predicate_name="IMPACTS_CORRECT", triples_path="csvTriples\IMPACTS-CORRECT.csv")
+    coreKG.createEventImpactTriples(predicate_name="IMPACTS_CORRECT", triples_path="csvTriples\IMPACTS-CORRECT.csv")
     coreKG.createEventImpactTriples(predicate_name="IMPACTS_STRICT_CORRECT", triples_path="csvTriples\IMPACTS-91percThreshold-CORRECT.csv")
 
     # create news mentions company and event triples

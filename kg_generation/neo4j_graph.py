@@ -8,7 +8,8 @@ class Neo4jGraph:
     def __init__(self):
         # See https://neo4j.com/developer/aura-connect-driver/ for Aura specific connection URL.
         scheme = "bolt"  # connecting to Aura. use the "neo4j+s" URI scheme
-        host_name = "localhost"
+        # host_name = "localhost"
+        host_name = "172.17.96.1" # if running the code in wsl and neo4j in windows
 
         """
         host: neo4j://localhost:7687
@@ -25,7 +26,7 @@ class Neo4jGraph:
         # different os use different neo4j port
         if platform == "linux" or platform == "linux2":
             print(platform)
-            password = "nedo"
+            # password = "nedo"
             port = 7687
             # linux
         elif platform == "darwin":
@@ -47,7 +48,7 @@ class Neo4jGraph:
 
     def remove_relationships_nodes(self):
         with self.driver.session() as session:
-            session.execute_write(self._remove_relationships_nodes)
+            session.write_transaction(self._remove_relationships_nodes)
 
     @staticmethod
     def _remove_relationships_nodes(tx):
@@ -61,7 +62,7 @@ class Neo4jGraph:
     # remove the existing nodes
     def remove_nodes(self):
         with self.driver.session() as session:
-            session.execute_write(self._remove_nodes)
+            session.write_transaction(self._remove_nodes)
 
     @staticmethod
     def _remove_nodes(tx):
@@ -118,7 +119,7 @@ class Neo4jGraph:
     # create nodes
     def createNodes(self, entity):
         with self.driver.session() as session:
-            createNodeResult = session.execute_write(self._create_return_node, entity)
+            createNodeResult = session.write_transaction(self._create_return_node, entity)
             print(createNodeResult)
 
     @staticmethod
@@ -283,7 +284,7 @@ class Neo4jGraph:
             # neo4j session
             with self.driver.session() as session:
                 # create triple
-                session.execute_write(self._create_return_mainCompany, mainCompanySql=mainCompanySql)    
+                session.write_transaction(self._create_return_mainCompany, mainCompanySql=mainCompanySql)    
 
     @staticmethod
     def _create_return_mainCompany(tx, mainCompanySql):
@@ -308,19 +309,19 @@ class Neo4jGraph:
 
             if not subjectFlg and not objectFlg and not tripleFlg:
                 # create triple
-                session.execute_write(self._create_return_triple, tripleSql)
+                session.write_transaction(self._create_return_triple, tripleSql)
 
             elif subjectFlg and not objectFlg and not tripleFlg:
                 # create triple
-                session.execute_write(self._create_return_ot, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
+                session.write_transaction(self._create_return_ot, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
 
             elif subjectFlg and objectFlg and not tripleFlg:
                 # create triple
-                session.execute_write(self._create_return_t, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
+                session.write_transaction(self._create_return_t, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
 
             elif not subjectFlg and objectFlg and not tripleFlg:
                 # create triple
-                session.execute_write(self._create_return_st, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
+                session.write_transaction(self._create_return_st, subjectSql=subjectSql, predicateSql=predicateSql, objectSql=objectSql)
 
     @staticmethod
     def _create_return_st(tx, subjectSql, predicateSql, objectSql):
@@ -513,7 +514,7 @@ class Neo4jGraph:
     
     def remove_duplicated_nods(self, label, property):
         with self.driver.session() as session:
-            session.execute_write(self._remove_duplicated_nods, label, property)
+            session.write_transaction(self._remove_duplicated_nods, label, property)
 
 # main implement area
 if __name__ == "__main__":
