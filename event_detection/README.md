@@ -39,7 +39,7 @@ The event detection task requires a predefined list of events to identify in the
 **Notebook:** [`event_classification.ipynb`](event_classification.ipynb)
 
 The notebook performs event preprocessing:
-- Add semantic categories.
+- Add categories to the events, following the taxonomy available at ["Event_Type_Taxonomy.png"](Event_Type_Taxonomy.png).
 - Assign geographical locations.
 - Produce the main event list used for detection.
 
