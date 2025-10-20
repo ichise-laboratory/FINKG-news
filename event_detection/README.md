@@ -49,7 +49,7 @@ All input and output files for event preprocessing are in the `event_jsons/` dir
 
 | File | Description |
 |------|-------------|
-| `dict_wiki_timelines5_geo_country_event.json` | Original Wikidata event set (no preprocessing). Input to `event_classification.ipynb`. |
+| `dict_wiki_timelines5_geo_country_event.json` | Original Wikipedia event set (no preprocessing). Input to `event_classification.ipynb`. |
 | `new_events.json` | Main processed event list produced by `event_classification.ipynb`. Used for event detection. |
 | `new_events_with_ids.json` | Same events as `new_events.json` but with unique IDs. Required for creating triple files and building the knowledge graph. |
 
