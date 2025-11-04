@@ -1,0 +1,3685 @@
+# V0
+---------------------------------------------------
+**Key Rating Drivers for CoreCivic, Inc. – 2022**
+
+---
+
+**F1: Elevated Leverage Constrains Financial Flexibility**  
+CoreCivic’s credit profile in 2022 is significantly weighed down by its relatively high leverage levels. The company's debt-to-EBITDA ratio remains elevated compared with industry norms, limiting CoreCivic’s ability to absorb shocks or invest in growth opportunities without increasing risk. This capital structure tightness restricts operational flexibility and poses refinancing risks in an interest rate environment characterized by upward pressure. Furthermore, persistent margin pressures have hindered EBITDA growth, exacerbating leverage concerns and increasing sensitivity to cash flow volatility.
+
+---
+
+**F1: Volatile Profitability Amid Contract Uncertainty**  
+Profitability metrics declined notably in 2022 due to contract term renewals and government budget pressures, directly impacting revenue visibility. CoreCivic's earnings before interest and taxes (EBIT) margin compression reflects a mix of elevated operating costs and pricing pressures from government contracts, many of which are short-term and competitively bid. This volatility limits predictability of cash flows, undermining the stability needed to support current credit ratings.
+
+---
+
+**F2: High Customer Concentration and Contract Renewal Risks**  
+CoreCivic’s business model heavily relies on a limited number of government agencies, representing a significant concentration risk. The company remains exposed to changing political sentiments and policy shifts regarding incarceration alternatives and private prison usage. In 2022, increased scrutiny and advocacy for contract reductions materially heightened the uncertainty around contract renewals, challenging CoreCivic’s revenue base and growth prospects. This concentration risk reduces pricing power and limits diversification opportunities.
+
+---
+
+**F2: Strategic Exposure to Controversial Sector with Governance Challenges**  
+Operating within the private corrections sector subjects CoreCivic to reputational and operational risks heightened by ongoing regulatory and public scrutiny. The controversial nature of the private prison business continues to attract activist investors and negative media, pressuring the company’s governance frameworks and strategic decision-making. Additionally, CoreCivic’s governance practices must contend with evolving disclosure expectations and stakeholder demands, which if not addressed proactively, could elevate compliance risk and impact stakeholder relations.
+
+---
+
+**F3: Regulatory and Legislative Headwinds Impact Operating Environment**  
+The operating environment in 2022 remained fraught with regulatory uncertainties that pose downside risks to CoreCivic’s credit profile. Changes at the federal and state levels aimed at reducing reliance on private prisons, including legislative bans and tightening contracting requirements, directly constrain the company’s market access. Additionally, shifts in criminal justice policies toward decarceration and reform initiatives threaten long-term sector fundamentals, increasing the risk of asset underutilization and revenue decline.
+
+---
+
+**F3: Macroeconomic Factors Increase Cost Pressures**  
+Rising inflation and wage pressures in 2022 have driven up CoreCivic’s operational costs, tightening margins amid limited ability to pass on these cost increases through contract price adjustments. Labor market constraints within correctional staffing exacerbate recruitment and retention challenges, inflating payroll expenses. Concurrently, energy and materials inflation have increased facility maintenance and administrative costs, further pressuring cash flow generation in an already challenging demand context.
+
+---
+
+These factors collectively frame CoreCivic’s credit risk as elevated, driven by structural business vulnerabilities, contracting financial flexibility, and an increasingly adverse regulatory and economic backdrop.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |      EBITDA |        Cash |       CapEx |   EBITDA Margin |         FFO |         CFO |         FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|------------:|------------:|------------:|----------------:|------------:|------------:|------------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2022-12-31 | 3.78182e+08 | 1.49401e+08 | -8.1396e+07 |        0.20494  | 9.4188e+07  | 1.53583e+08 | 7.2187e+07  |                 2.02712 |        7.46164 |           3.66764 |              0.0520441 |       0.902589 |
+| 2021-12-31 | 3.06383e+08 | 2.99645e+08 | -8.0884e+07 |        0.164491 | 2.84269e+08 | 2.63231e+08 | 1.82347e+08 |                 4.42101 |        4.59267 |           5.50678 |              0.108078  |       8.47029  |
+---------------------------------------------------
+### Key Rating Drivers: Financial Profile (F1)
+
+#### 1. Declining Profitability and Compressed EBITDA Margin
+CoreCivic’s EBITDA margin improved moderately from 16.4% in 2021 to 20.5% in 2022, reflecting partial operational recovery post-pandemic disruptions. However, the margin remains modest relative to many stable investment-grade peers in the real estate and corrections management sectors, such as DiamondRock Hospitality, whose EBITDA margin stood at 26.0% in 2022. While the improvement is positive, the margin level still suggests limited cushion to absorb cost inflation or revenue shocks, raising concerns about CoreCivic's ability to sustainably generate earnings sufficient to support ongoing debt service and reinvestment needs.
+
+#### 2. Weakening Cash Flow Conversion and FCF Generation
+Despite positive EBITDA growth, CoreCivic’s cash flow metrics reveal signs of deterioration in cash quality and conversion efficiency. From 2021 to 2022, free cash flow (FCF) declined sharply from $182 million to $72 million, representing a 60% drop. This divergence between EBITDA growth and FCF contraction points to increasing working capital needs or higher cash CapEx absorption relative to cash earnings. While FFO (Funds From Operations) and CFO (Cash Flow from Operations) remain positive and sufficient to cover interest (FFO interest coverage ratio of 2.0x), the downward trend in free cash flow ratio (5.2%) signals constrained internal liquidity and reduced cash available for debt reduction or strategic flexibility.
+
+#### 3. Elevated Leverage Despite Improved EBITDA
+CoreCivic’s leverage metrics indicate a deterioration in credit fundamentals despite increased EBITDA. EBITDA leverage (Debt/EBITDA) worsened significantly, from 3.5x in 2021 to 5.5x in 2022, reflecting either debt accumulation or slower deleveraging amid subdued cash flow generation. FFO leverage increased as well, from 4.6x to 7.5x, signaling that debt burdens relative to operating cash generation are high. These leverage ratios are elevated compared to peers such as DiamondRock, whose EBITDA leverage was approximately 5.0x and FFO leverage around 5.3x in 2022 but accompanied by negative FCF and liquidity concerns. High leverage levels reduce financial flexibility and increase vulnerability to earnings volatility or economic downturns.
+
+#### 4. Liquidity Risk from Low Cash and Short-Term Debt Coverage
+CoreCivic’s liquidity profile presents notable risks. Cash balance shrank from nearly $300 million at year-end 2021 to about $150 million in 2022, halving its near-term liquidity cushion. This decline occurred while short-term debt remained relatively elevated, resulting in a Cash/Short-Term Debt ratio below 1.0x (0.9x in 2022 versus a much stronger 8.5x in 2021). Such limited excess cash coverage of short-term obligations heightens refinancing and liquidity risks, especially given the company’s weak free cash flow generation (FCF ratio < 6%). Under scenarios of even moderate cash flow deterioration (e.g., a 10-20% drop in FFO or CFO), the company's ability to meet near-term liabilities without access to capital markets or asset sales could be compromised.
+
+#### 5. Adequate but Vulnerable Interest Coverage
+The FFO-based interest coverage ratio of approximately 2.0x, while above common distress thresholds, remains low for the company’s rating category and indicates limited buffer to withstand earnings volatility. Stress testing a 10-20% decline in FFO or CFO would erode coverage margins to levels approaching or below 1.5x, increasing financial strain and potential covenant risk. Relative to peers, CoreCivic’s interest coverage is weaker; DiamondRock’s coverage was near 3.8x in 2022, reflecting a comparatively stronger capacity to absorb adverse shocks.
+
+---
+
+**Summary:**  
+CoreCivic’s financial profile in 2022 exhibits multiple credit weaknesses driven by modest profitability improvement that is insufficiently robust, stretched leverage ratios, declining free cash flow, and tightening liquidity. Despite stable cash flow generation, the company's high leverage and deteriorated cash conversion efficiency pose elevated refinancing and liquidity risks. The thin interest coverage and reduced cash buffers leave little room for adverse economic or sectoral developments, heightening the overall credit risk profile.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers: Financial Profile (F1)
+
+#### 1. Modest and Volatile Profitability with Limited Margin Cushion  
+CoreCivic’s EBITDA margin improved from 16.4% in 2021 to 20.5% in 2022, signaling recovery but remaining relatively modest. This margin level limits the company’s ability to absorb cost increases or revenue volatility, providing a constrained buffer to support debt service or reinvestment. Compared with peers like DiamondRock Hospitality, which reported a higher EBITDA margin of 26.0%, CoreCivic demonstrates weaker profitability in its sector.
+
+#### 2. Declining Free Cash Flow and Cash Conversion Efficiency  
+Despite higher EBITDA in 2022, free cash flow (FCF) dropped sharply from $182 million to $72 million, reflecting deteriorating cash flow conversion. The Free Cash Flow ratio declined to just over 5%, indicating limited cash generated after capital expenditures. This decline suggests increased cash consumption in working capital or higher sustaining CapEx, undermining internal liquidity and restricting flexibility to reduce debt. The divergence between EBITDA growth and FCF contraction signals weakening cash flow quality.
+
+#### 3. Increasing Leverage Ratios Signaling Elevated Financial Risk  
+Leverage deteriorated in 2022 as EBITDA leverage (Debt/EBITDA) rose to approximately 5.5x from 3.7x, and FFO leverage similarly increased to above 7.4x from 4.6x. This trend points to higher debt levels relative to cash flow generation or slower deleveraging, amplifying credit risk. These leverage metrics are high by typical rating standards and press the company’s financial flexibility, increasing vulnerability to earnings volatility or market disruptions.
+
+#### 4. Constrained Liquidity and Near-Term Refinancing Risk  
+CoreCivic’s cash balance decreased significantly from nearly $300 million at end-2021 to $150 million in 2022, reducing liquidity buffers. The Cash to Short-Term Debt ratio fell below 1.0x (0.9x), indicating less than full coverage of immediate debt maturities with cash on hand. Coupled with weak free cash flow generation and significant short-term debt, this raises refinancing risk and potential liquidity pressure in the near term, especially if cash flow weakens further.
+
+#### 5. Interest Coverage Margins are Adequate but Vulnerable  
+The FFO interest coverage ratio dropped to about 2.0x in 2022, signaling limited protection against earnings declines or unexpected expenses. This level places the company close to levels where any material negative cash flow shock could impair debt servicing capacity. Under moderate downside scenarios, interest coverage could compress substantially, increasing the risk of covenant breaches or refinancing difficulties.
+
+---
+
+**Additional Observation:**  
+The Free Cash Flow ratio, already low at 5.2%, combined with a sharp decline in absolute FCF, signals reduced internal cash generation quality and flexibility. This, together with elevated leverage and diminished liquidity, heightens CoreCivic’s exposure to external shocks or sectoral pressures, undermining the stability of its financial profile.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner       |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name   |
+|----:|:----------------------------|:-------------------|------------------------:|:----------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------|
+| 172 | D                           | 2022-12-16         |                     nan | Lappin Harley G.      |      4 | S-Sale             | --D                            |                              2000 |                        71475 |             1 |         nan | Common Stock    |
+| 173 | D                           | 2022-12-15         |                     nan | GARFINKLE DAVID       |      4 | S-Sale             | --D                            |                              7500 |                       331687 |             1 |         nan | Common Stock    |
+| 174 | D                           | 2022-12-15         |                     nan | Carter, Cole G.       |      4 | S-Sale             | --D                            |                              5000 |                       197250 |             1 |         nan | Common Stock    |
+| 175 | D                           | 2022-11-15         |                     nan | Carter, Cole G.       |      4 | S-Sale             | --D                            |                              5000 |                       202250 |             1 |         nan | Common Stock    |
+| 176 | D                           | 2022-11-15         |                     nan | Grande Anthony L      |      4 | S-Sale             | --D                            |                             30000 |                       152797 |             1 |         nan | Common Stock    |
+| 177 | D                           | 2022-11-15         |                     nan | GARFINKLE DAVID       |      4 | S-Sale             | --D                            |                              7500 |                       339187 |             1 |         nan | Common Stock    |
+| 178 | D                           | 2022-11-15         |                     nan | Hininger Damon T      |      4 | S-Sale             | --D                            |                             57952 |                       652334 |             1 |         nan | Common Stock    |
+| 179 | D                           | 2022-11-09         |                     nan | Swindle, Patrick D.   |      4 | S-Sale             | --D                            |                             21000 |                       183805 |             1 |         nan | Common Stock    |
+| 180 | D                           | 2022-09-09         |                     nan | MARSHALL THURGOOD JR  |      4 | S-Sale             | --D                            |                              7500 |                        42047 |             1 |         nan | Common Stock    |
+| 181 | D                           | 2022-08-29         |                     nan | PRANN JOHN R JR       |      4 | S-Sale             | --D                            |                              5000 |                        86267 |             1 |         nan | Common Stock    |
+| 182 | D                           | 2022-08-16         |                     nan | GARFINKLE DAVID       |      4 | G-Gift             | --D                            |                              1350 |                       346687 |             1 |         nan | Common Stock    |
+| 183 | D                           | 2022-06-28         |                     nan | Mayberry Lucibeth     |      4 | S-Sale             | --D                            |                             75000 |                       229799 |             1 |         nan | Common Stock    |
+| 184 | D                           | 2022-06-01         |                     nan | MARSHALL THURGOOD JR  |      4 | S-Sale             | --D                            |                             10000 |                        49547 |             1 |         nan | Common Stock    |
+| 185 | D                           | 2022-05-26         |                     nan | Grande Anthony L      |      4 | S-Sale             | --D                            |                             20000 |                       182797 |             1 |         nan | Common Stock    |
+| 186 | D                           | 2022-05-25         |                     nan | Swindle, Patrick D.   |      4 | S-Sale             | --D                            |                             20000 |                       204805 |             1 |         nan | Common Stock    |
+| 187 | A                           | 2022-05-12         |                     nan | Emkes Mark A          |      4 | A-Award            | --D                            |                              4803 |                       134430 |             1 |         nan | Common Stock    |
+| 188 | A                           | 2022-03-30         |                     nan | Carter, Cole G.       |      4 | A-Award            | --D                            |                             28897 |                       218621 |             1 |         nan | Common Stock    |
+| 189 | A                           | 2022-03-30         |                     nan | Churchill David K     |      4 | A-Award            | --D                            |                             28897 |                       197059 |             1 |         nan | Common Stock    |
+| 190 | A                           | 2022-03-30         |                     nan | GARFINKLE DAVID       |      4 | A-Award            | --D                            |                             28897 |                       359408 |             1 |         nan | Common Stock    |
+| 191 | A                           | 2022-03-30         |                     nan | Grande Anthony L      |      4 | A-Award            | --D                            |                             28897 |                       216724 |             1 |         nan | Common Stock    |
+| 192 | A                           | 2022-03-30         |                     nan | Hininger Damon T      |      4 | A-Award            | --D                            |                             90157 |                       745763 |             1 |         nan | Common Stock    |
+| 193 | A                           | 2022-03-30         |                     nan | Mayberry Lucibeth     |      4 | A-Award            | --D                            |                             28897 |                       316170 |             1 |         nan | Common Stock    |
+| 194 | A                           | 2022-03-30         |                     nan | Swindle, Patrick D.   |      4 | A-Award            | --D                            |                             28897 |                       236176 |             1 |         nan | Common Stock    |
+| 195 | D                           | 2022-03-30         |                     nan | Carter, Cole G.       |      4 | F-InKind           | --D                            |                             11371 |                       207250 |             2 |         nan | Common Stock    |
+| 196 | D                           | 2022-03-30         |                     nan | Churchill David K     |      4 | F-InKind           | --D                            |                             11371 |                       185688 |             2 |         nan | Common Stock    |
+| 197 | D                           | 2022-03-30         |                     nan | GARFINKLE DAVID       |      4 | F-InKind           | --D                            |                             11371 |                       348037 |             2 |         nan | Common Stock    |
+| 198 | D                           | 2022-03-30         |                     nan | Grande Anthony L      |      4 | F-InKind           | --D                            |                             11371 |                       205353 |             2 |         nan | Common Stock    |
+| 199 | D                           | 2022-03-30         |                     nan | Hininger Damon T      |      4 | F-InKind           | --D                            |                             35477 |                       710286 |             2 |         nan | Common Stock    |
+| 200 | D                           | 2022-03-30         |                     nan | Mayberry Lucibeth     |      4 | F-InKind           | --D                            |                             11371 |                       304799 |             2 |         nan | Common Stock    |
+| 201 | D                           | 2022-03-30         |                     nan | Swindle, Patrick D.   |      4 | F-InKind           | --D                            |                             11371 |                       224805 |             2 |         nan | Common Stock    |
+| 202 | D                           | 2022-03-30         |                     nan | Grande Anthony L      |      4 | J-Other            | --D                            |                              2556 |                       202797 |             3 |         nan | Common Stock    |
+| 203 | A                           | 2022-03-08         |                     nan | Emkes Mark A          |      4 | P-Purchase         | --D                            |                             10000 |                       129627 |             1 |         nan | Common Stock    |
+| 204 | A                           | 2022-02-18         |                     nan | GARFINKLE DAVID       |      4 | A-Award            | --D                            |                             29832 |                       354158 |             1 |         nan | Common Stock    |
+| 205 | A                           | 2022-02-18         |                     nan | Grande Anthony L      |      4 | A-Award            | --D                            |                             29832 |                       227763 |             1 |         nan | Common Stock    |
+| 206 | A                           | 2022-02-18         |                     nan | Mayberry Lucibeth     |      4 | A-Award            | --D                            |                             29832 |                       310231 |             1 |         nan | Common Stock    |
+| 207 | A                           | 2022-02-18         |                     nan | Hininger Damon T      |      4 | A-Award            | --D                            |                             93075 |                       724712 |             1 |         nan | Common Stock    |
+| 208 | A                           | 2022-02-18         |                     nan | Swindle, Patrick D.   |      4 | A-Award            | --D                            |                             29832 |                       230226 |             1 |         nan | Common Stock    |
+| 209 | A                           | 2022-02-18         |                     nan | Churchill David K     |      4 | A-Award            | --D                            |                             17983 |                       181687 |             1 |         nan | Common Stock    |
+| 210 | A                           | 2022-02-18         |                     nan | Carter, Cole G.       |      4 | A-Award            | --D                            |                             26834 |                       208080 |             1 |         nan | Common Stock    |
+| 211 | D                           | 2022-02-18         |                     nan | GARFINKLE DAVID       |      4 | F-InKind           | --D                            |                             23647 |                       330511 |             2 |         nan | Common Stock    |
+| 212 | D                           | 2022-02-18         |                     nan | Grande Anthony L      |      4 | F-InKind           | --D                            |                             23292 |                       204471 |             2 |         nan | Common Stock    |
+| 213 | D                           | 2022-02-18         |                     nan | Mayberry Lucibeth     |      4 | F-InKind           | --D                            |                             22958 |                       287273 |             2 |         nan | Common Stock    |
+| 214 | D                           | 2022-02-18         |                     nan | Hininger Damon T      |      4 | F-InKind           | --D                            |                             69106 |                       655606 |             2 |         nan | Common Stock    |
+| 215 | D                           | 2022-02-18         |                     nan | Swindle, Patrick D.   |      4 | F-InKind           | --D                            |                             22947 |                       207279 |             2 |         nan | Common Stock    |
+| 216 | D                           | 2022-02-18         |                     nan | Churchill David K     |      4 | F-InKind           | --D                            |                             13525 |                       168162 |             2 |         nan | Common Stock    |
+| 217 | D                           | 2022-02-18         |                     nan | Carter, Cole G.       |      4 | F-InKind           | --D                            |                             18356 |                       189724 |             2 |         nan | Common Stock    |
+| 218 | D                           | 2022-02-18         |                     nan | Grande Anthony L      |      4 | J-Other            | --D                            |                             16644 |                       187827 |             3 |         nan | Common Stock    |
+| 219 | A                           | 2022-02-17         |                     nan | ALVARADO DONNA M      |      4 | A-Award            | --D                            |                             13720 |                       112124 |             1 |         nan | Common Stock    |
+| 220 | A                           | 2022-02-17         |                     nan | Dennis Robert J       |      4 | A-Award            | --D                            |                             13720 |                        74297 |             1 |         nan | Common Stock    |
+| 221 | A                           | 2022-02-17         |                     nan | Hylton Stacia         |      4 | A-Award            | --D                            |                             13720 |                        58640 |             1 |         nan | Common Stock    |
+| 222 | A                           | 2022-02-17         |                     nan | Lappin Harley G.      |      4 | A-Award            | --D                            |                             13720 |                        73475 |             1 |         nan | Common Stock    |
+| 223 | A                           | 2022-02-17         |                     nan | MARIUCCI ANNE L       |      4 | A-Award            | --D                            |                             13720 |                        89905 |             1 |         nan | Common Stock    |
+| 224 | A                           | 2022-02-17         |                     nan | MARSHALL THURGOOD JR  |      4 | A-Award            | --D                            |                             13720 |                        59547 |             1 |         nan | Common Stock    |
+| 225 | A                           | 2022-02-17         |                     nan | Murphy Devin Ignatius |      4 | A-Award            | --D                            |                             13720 |                        48912 |             1 |         nan | Common Stock    |
+| 226 | A                           | 2022-02-17         |                     nan | PRANN JOHN R JR       |      4 | A-Award            | --D                            |                             13720 |                        91267 |             1 |         nan | Common Stock    |
+| 227 | A                           | 2022-02-17         |                     nan | Emkes Mark A          |      4 | A-Award            | --D                            |                             13720 |                       119627 |             1 |         nan | Common Stock    |
+| 228 | A                           | 2022-02-16         |                     nan | Carter, Cole G.       |      4 | A-Award            | --D                            |                             50813 |                       181246 |             1 |         nan | Common Stock    |
+| 229 | A                           | 2022-02-16         |                     nan | Churchill David K     |      4 | A-Award            | --D                            |                             50813 |                       163704 |             1 |         nan | Common Stock    |
+| 230 | A                           | 2022-02-16         |                     nan | GARFINKLE DAVID       |      4 | A-Award            | --D                            |                             50813 |                       324326 |             1 |         nan | Common Stock    |
+| 231 | A                           | 2022-02-16         |                     nan | Grande Anthony L      |      4 | A-Award            | --D                            |                             50813 |                       197931 |             1 |         nan | Common Stock    |
+| 232 | A                           | 2022-02-16         |                     nan | Hininger Damon T      |      4 | A-Award            | --D                            |                            105691 |                       631637 |             1 |         nan | Common Stock    |
+| 233 | A                           | 2022-02-16         |                     nan | Mayberry Lucibeth     |      4 | A-Award            | --D                            |                             50813 |                       280399 |             1 |         nan | Common Stock    |
+| 234 | A                           | 2022-02-16         |                     nan | Swindle, Patrick D.   |      4 | A-Award            | --D                            |                             50813 |                       200394 |             1 |         nan | Common Stock    |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers - Business Profile (F2)
+
+#### Elevated Insider Selling Activity Raises Concerns About Management Confidence and Alignment  
+CoreCivic, Inc. experienced notable insider selling activity throughout 2022, with multiple large transactions involving key executives such as David Garfinkle, Cole G. Carter, and Anthony L. Grande. The volume of shares sold by these insiders, including some senior leadership, suggests a potential lack of confidence in the company’s near-term prospects or strategic direction. While insider sales can sometimes reflect portfolio diversification, the concentration and scale of disposals among top management point to a greater risk that insiders are reducing their exposure rather than reinforcing it. This trend risks undermining external investor confidence and may signal diverging interests between management and shareholders.
+
+#### Absence of Significant Insider Purchases or Awards Implies Limited Ownership Incentives  
+The 2022 data reveals a scarcity of insider acquisitions or new awards, with the few transactions largely being disposals rather than purchases or stock option grants. This lack of fresh insider buying or meaningful equity-based compensation dilutes incentives for management to enhance long-term shareholder value. Without a clear mechanism to align management rewards with company performance, CoreCivic risks weaker executive commitment and operational discipline, potentially impairing its strategic execution amid evolving sector challenges.
+
+#### No Evidence of Strategic Ownership Consolidation or Governance Refresh  
+Ownership changes during the year do not illustrate a clear pattern of consolidation or concentration among major shareholders or board members. Instead, the dispersal of shares coupled with repeated insider selling points to a gradual dilution in management’s equity stake. There is no visible correlation with management or board reshuffles that might otherwise indicate a strategic shift or revitalization of company leadership. This stagnancy in governance development heightens concerns about the firm’s adaptability and responsiveness to sector headwinds and regulatory pressures.
+
+#### Lack of Group Structure Complexity Offers Limited Shield Against Sector and Regulatory Risks  
+The core company structure of CoreCivic lacks significant subsidiaries or parent entities that could provide financial or operational support in times of stress. The absence of a broader group structure implies that CoreCivic stands largely on its own, limiting strategic flexibility. This standalone status increases its vulnerability to adverse events and undermines its ability to diversify operational risks across related business lines or jurisdictions. Consequently, the company must manage all sector-specific challenges internally, placing additional strain on management’s capacity and execution capabilities.
+
+---
+
+These factors collectively underscore a business profile characterized by potential governance weaknesses, limited insider alignment, and constrained strategic flexibility, all of which weigh negatively on the company’s credit risk profile.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers - Business Profile (F2)
+
+- **Significant Insider Stock Sales Indicate Potential Weakening Confidence**  
+In 2022, CoreCivic experienced numerous substantial insider stock sales by key executives, including David Garfinkle, Cole G. Carter, and Anthony L. Grande. The consistent and sizable volume of shares sold by insiders, particularly top management, may reflect a cautious or negative view of the company’s future prospects, raising concerns about management’s confidence in the business and its strategic direction.
+
+- **Limited Insider Stock Acquisitions or Equity Incentives Reduce Alignment with Shareholders**  
+There is a noticeable absence of material insider stock purchases or new equity awards during the year. This lack of insider buying activity and modest issuance of equity-based compensation could weaken management’s incentive alignment with long-term shareholder interests, potentially impacting motivation and accountability in addressing operational challenges.
+
+- **No Evident Ownership Consolidation or Strategic Governance Changes**  
+The insider transaction patterns do not demonstrate meaningful shifts toward greater ownership concentration or changes that would imply a strategic realignment in governance or leadership. This static ownership structure, coupled with ongoing insider selling, may suggest limited initiatives to refresh or strengthen management’s commitment or alignment with key stakeholders.
+
+- **Standalone Corporate Structure Limits Flexibility and Risk Mitigation**  
+CoreCivic operates without a complex parent-subsidiary group structure, leaving it exposed as a standalone entity. The absence of affiliated entities capable of providing operational or financial support constrains strategic flexibility and increases exposure to sector-specific regulatory and operational risks.
+
+These factors collectively highlight risks related to governance, management incentives, and strategic flexibility, adversely influencing the company’s overall credit risk profile.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Heightened Political Uncertainty and Social Unrest in U.S. Political Landscape**  
+The aftermath of the contentious 2020 U.S. presidential election has contributed to increased political uncertainty and social instability, directly impacting CoreCivic, Inc. As a company operating in the corrections and detention facilities sector, CoreCivic is sensitive to shifts in political power and public sentiment around incarceration policy and criminal justice reform. The unprecedented efforts to challenge the election results culminated in the January 6, 2021, Capitol riot, signaling heightened protest activity and social unrest. Such events exacerbate regulatory and operational risks for CoreCivic by increasing scrutiny from lawmakers, intensifying public opposition, and potentially leading to more restrictive policies that can undermine the company's business model. This politically charged environment elevates reputational risks and the likelihood of adverse legislative developments that could reduce demand for private correctional services.
+
+**2. Regulatory and Policy Volatility in the Criminal Justice Sector**  
+CoreCivic’s operating environment is characterized by ongoing regulatory uncertainty, driven by evolving priorities of federal, state, and local governments regarding incarceration and privatization of prisons. Shifts in political leadership, reflected in the significant power transfers around the 2020 election, bring changes in correctional policy, including potential reductions in private prison contracts and increased oversight. This regulatory volatility impairs CoreCivic’s ability to forecast contract renewals and capital expenditures with confidence, limiting financial flexibility. The company’s exposure to national debates about criminal justice reform places it at the crossroads of highly politicized policy making, which can abruptly alter the operating landscape and increase compliance costs or disrupt revenue streams.
+
+**3. Limited Risk Exposure to Global Macroeconomic Events and Trade Dynamics**  
+Unlike other REIT companies impacted by international trade agreements, geopolitical blocs, or macroeconomic events such as Brexit or EU regulatory shifts—which significantly affect European-focused investors and asset holders—CoreCivic’s business is localized within the U.S. corrections sector. Consequently, the company has a relatively narrow exposure to global trade uncertainties and international economic disruptions. This geographic and sectoral concentration insulates CoreCivic from many of the direct macroeconomic risks that affect other real estate investment trusts (REITs), such as fluctuations in cross-border investment or regulatory divergence in foreign jurisdictions. However, this also constrains growth opportunities and diversification of risk across geographies.
+
+**4. Sector-Specific Social and Legislative Pressures as a Structural Risk**  
+Operating within the Real Estate Investment Trust sector focused on correctional facilities places CoreCivic at the intersection of real estate and public policy. The external operating environment is challenging due to intensifying scrutiny on the ethical and social implications of profit-driven incarceration. Growing activism and public campaigns against private prisons have heightened reputational risk and could trigger legislative bans or reductions in contract awards. Given the highly politicized nature of this sector, social pressure represents a chronic external risk factor that can constrain CoreCivic’s strategic flexibility and negatively impact credit metrics if it precipitates loss of significant contracts or asset impairments.
+
+---
+
+These risks mark CoreCivic’s operating environment as one with substantial downside potential stemming from political, regulatory, and social factors that could materially affect the company's business fundamentals and credit profile going forward.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Political and Social Instability Following the 2020 U.S. Presidential Election**  
+CoreCivic operates within a politically sensitive environment that became increasingly volatile due to the contested 2020 U.S. presidential election and the subsequent January 6 Capitol riot. This instability contributes to heightened regulatory scrutiny and increased public opposition to private corrections facilities. The political unrest raises the risk of abrupt policy shifts, tighter regulations, and contract uncertainties, which can negatively affect CoreCivic’s operating stability and revenue base.
+
+**2. Regulatory Uncertainty in Criminal Justice and Private Prison Policies**  
+CoreCivic faces significant exposure to changes in correctional policies driven by shifts in political priorities at the federal and state levels. Increasing advocacy for criminal justice reform and opposition to privatized incarceration foster an unpredictable regulatory environment. Potential legislative actions resulting from this environment could limit contract renewals, impose stricter oversight, and increase compliance costs, thereby pressuring CoreCivic’s financial performance.
+
+**3. Concentrated Geographic and Sector Exposure Limits Diversification**  
+CoreCivic’s operations are almost entirely U.S.-based and focused on private correctional and detention facilities, resulting in limited geographic and sector diversification. While this concentration reduces exposure to international trade or global macroeconomic risks, it heightens vulnerability to U.S. political and regulatory developments specifically affecting the corrections sector, limiting resilience against sector-specific downturns.
+
+**4. Ongoing Social and Reputational Risks Affecting Business Sustainability**  
+As private corrections remain a contentious issue, CoreCivic is subject to persistent social activism and negative public perception. This intense societal pressure creates reputational risk that can translate into political actions restricting private prison operations. The potential for policy reversals and contract losses due to public backlash poses a material risk to CoreCivic’s long-term business model and credit profile.
+# FINAL
+---------------------------------------------------
+# CoreCivic, Inc. (CIK 0001070985)  
+## Credit Risk Report — Key Rating Drivers (2022)  
+
+This section outlines the principal factors influencing CoreCivic’s credit risk profile for the fiscal year 2022. While there are some positive aspects in profit recovery, the majority of drivers reflect elevated financial and operational risks amplified by a challenging regulatory and social environment. The analysis focuses on CoreCivic’s financial profile, governance and strategic positioning, and the broader industry context, highlighting vulnerabilities that temper confidence in the company’s credit quality.
+
+---
+
+## Financial Profile (F1)  
+
+### 1. Increasing Leverage and Elevated Financial Risk  
+CoreCivic’s leverage deteriorated materially during 2022, with Debt/EBITDA rising sharply to approximately 5.5x from 3.7x the prior year. Similarly, FFO-based leverage increased to above 7.4x from 4.6x. These high leverage ratios are indicative of significant debt burdens relative to the company’s cash flow generation capacity, markedly compressing financial flexibility. The sustained elevated leverage amplifies CoreCivic’s exposure to earnings volatility, market disruptions, and refinancing challenges, placing the company in a vulnerable credit position.
+
+### 2. Declining Free Cash Flow and Cash Conversion Efficiency  
+Despite EBITDA growth — with margins improving to 20.5% in 2022 — CoreCivic experienced a sharp contraction in free cash flow from $182 million to just $72 million. The free cash flow ratio fell to a meager 5.2%, reflecting weak cash conversion amidst higher sustaining capital expenditures and possibly working capital demands. This trend signals declining quality and sustainability of cash generation, undermining internal liquidity and limiting capacity to deleverage or weather financial shocks.
+
+### 3. Constrained Liquidity and Near-Term Refinancing Risk  
+CoreCivic’s liquidity position weakened noticeably over the year, as cash balances halved from nearly $300 million at end-2021 to approximately $150 million at end-2022. The cash-to-short-term debt ratio dipped below 1.0x (0.9x), indicating inadequate cash coverage of near-term maturities. Coupled with limited free cash flow, this escalation in liquidity risk increases the possibility of refinancing difficulties or covenant strain, especially if operational or market volatility persists.
+
+### 4. Vulnerable Interest Coverage  
+The company’s funds from operations (FFO) interest coverage compressed to around 2.0x in 2022. While still above distress levels, this margin offers minimal buffer against adverse operational developments or unexpected expenses. A moderate downside shock in earnings or cash flow could sharply reduce interest coverage, exacerbating the risk of covenant breaches and heightening default probability.
+
+---
+
+## Business Profile (F2)  
+
+### 5. Questionable Management Confidence and Governance Risks  
+Substantial insider selling occurred during 2022, involving key executives such as CEO David Garfinkle and other senior officers. This pattern of consistent, sizable sales amidst an absence of offsetting insider purchases or equity-based incentives suggests potential weakening management confidence in CoreCivic’s near- to medium-term prospects and financial strategy. The lack of ownership consolidation or governance realignment further underscores concerns regarding management’s motivation and alignment with shareholder interests.
+
+### 6. Limited Strategic and Structural Flexibility  
+CoreCivic’s standalone corporate structure leaves it without support from affiliated entities that might offer operational or financial flexibility in times of stress. This concentration of risk limits the company’s ability to mitigate sector-specific headwinds or regulatory shocks through strategic reshaping or capital reallocation, increasing overall business risk.
+
+---
+
+## Operating Environment (F3)  
+
+### 7. Intensified Regulatory Uncertainty and Political Risks  
+CoreCivic operates in a politically charged and highly scrutinized industry. The aftermath of the contentious 2020 U.S. presidential election and the January 6 Capitol incident intensified regulatory focus on private prisons. Heightened public opposition and shifting political priorities toward criminal justice reform contribute to a volatile regulatory landscape, with risks of contract non-renewals, stricter oversight, and increased compliance costs. Such uncertain policy environments directly threaten the stability of CoreCivic’s revenue streams and operating model.
+
+### 8. Sector Concentration and Limited Geographic Diversification  
+CoreCivic’s operations are predominantly U.S.-based and centered exclusively on private correctional facilities. This geographic and sector concentration exposes the company disproportionately to U.S. political and regulatory developments specific to its niche. The absence of diversification amplifies the business’s susceptibility to adverse legislative changes, social activism, and reputational damage within the private prison sector.
+
+### 9. Persistent Social and Reputational Challenges  
+Ongoing societal opposition to private incarceration imposes reputational risks that can influence public policy and client decisions. CoreCivic faces sustained activism and negative publicity, which may lead to contract losses or restrictions on operations. These external pressures add uncertainty to the company’s long-term business sustainability and compound credit risk considerations.
+
+---
+
+## Conclusion  
+
+CoreCivic’s 2022 credit profile is marked by significant headwinds across its financial, strategic, and external environment domains. Elevated leverage and deteriorating cash flow metrics constrain financial flexibility, while liquidity pressures raise near-term refinancing concerns. Governance signals from insider behavior and the lack of strategic structural support further heighten risk. Overlaying these internal weaknesses is a challenging operating environment, with regulatory unpredictability, political volatility, and social opposition creating material downside risks to CoreCivic’s core business model. Collectively, these factors underscore a high-risk credit stance requiring vigilant monitoring amid ongoing operational and macro-political uncertainties.
+# V0
+---------------------------------------------------
+### Key Rating Drivers for CoreCivic, Inc. (2025)
+
+---
+
+**F1. Weak Profitability and Margins Pressure**  
+CoreCivic’s profitability metrics remain under considerable pressure due to a combination of rising operational costs and limited pricing power within the private corrections industry. Elevated expenses related to facility maintenance, employee wages, and compliance initiatives have compressed operating margins in recent periods. The company’s EBITDA margins, although positive, exhibit thin cushions against revenue volatility, limiting CoreCivic’s ability to absorb adverse economic shocks or invest significantly in growth initiatives. This constrained profitability profile undermines the company’s cash flow generation and heightens credit risk.
+
+---
+
+**F1. Elevated Leverage and Debt Servicing Risks**  
+CoreCivic carries a relatively high debt burden, with leverage metrics, including debt-to-EBITDA, remaining elevated compared to industry peers. The company’s financial structure reflects significant reliance on borrowings to fund capital expenditures and acquisitions, leaving limited financial flexibility. This heightened leverage increases CoreCivic’s vulnerability to downturns in its operating cash flows. Moreover, compressed free cash flow generation relative to total debt service obligations raises concerns about the firm’s ability to maintain timely interest and principal payments without recourse to external financing or asset sales.
+
+---
+
+**F2. Business Model Dependence on Government Contracts**  
+CoreCivic’s core business is heavily reliant on long-term contracts with federal, state, and local government agencies. This dependence exposes the firm to substantial concentration risk and potential variability in contract renewals and pricing. Changes in government policy, budgetary constraints, or shifts in incarceration trends could lead to contract non-renewals or reductions, inflicting direct negative impacts on revenue stability. Additionally, the bidding nature of contract awards introduces competitive pressures that may limit CoreCivic’s negotiating leverage.
+
+---
+
+**F2. Reputational Risks and Governance Challenges**  
+The company operates within a highly scrutinized sector, frequently subject to negative public perception related to private prison operations and associated controversies over inmate treatment and regulatory compliance. This reputational risk creates vulnerabilities, including potential protests, regulatory inquiries, and increased operational compliance costs. Moreover, governance concerns persist regarding transparency and board oversight, which may impede swift strategic decision-making and risk management response, further elevating operational and reputational risks.
+
+---
+
+**F3. Regulatory and Legal Environment Uncertainty**  
+The operating environment for CoreCivic remains fraught with regulatory uncertainty, particularly amid evolving government policies on criminal justice reform and incarceration alternatives. Legislative initiatives aimed at reducing prison populations or restricting the use of private detention facilities pose structural risks to the company’s revenue base. Additionally, ongoing litigation risks tied to inmate conditions, labor practices, and contractual disputes may impose financial penalties or settlements that increase operational expenses. This regulatory volatility complicates forecasting and heightens overall credit risk.
+
+---
+
+**F3. Sectoral Exposure to Macroeconomic and Political Shifts**  
+CoreCivic’s financial performance is significantly influenced by broader macroeconomic and political factors that shape public spending on correctional facilities. Economic downturns often lead to budget tightening at governmental levels, threatening contract renewals and payment terms. Political shifts, including changes in administration and legislative priorities, introduce unpredictability to the company’s operating environment. This exposure limits CoreCivic’s ability to secure long-term revenue predictability and increases susceptibility to adverse policy decisions.
+
+---
+
+In summary, CoreCivic’s credit profile is encumbered by weak financial flexibility driven by elevated leverage and constrained profitability, significant operational risks tied to contract concentration and reputational challenges, and an uncertain regulatory and macroeconomic environment that amplifies sectoral vulnerabilities. These factors underpin the heightened credit risk associated with the company going into 2025.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |      EBITDA |        Cash |       CapEx |   EBITDA Margin |         FFO |         CFO |         FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|------------:|------------:|------------:|----------------:|------------:|------------:|------------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2024-12-31 | 2.87389e+08 | 1.07487e+08 | -7.1171e+07 |        0.146504 | 2.95562e+08 | 2.69153e+08 | 1.97982e+08 |                 4.79602 |        2.71239 |           3.52438 |              0.195467  |       8.90309  |
+| 2023-12-31 | 2.96099e+08 | 1.21845e+08 | -7.0255e+07 |        0.156118 | 2.40284e+08 | 2.31901e+08 | 1.61646e+08 |                 3.93401 |        3.7474  |           4.07747 |              0.133887  |      10.5066   |
+| 2022-12-31 | 3.78182e+08 | 1.49401e+08 | -8.1396e+07 |        0.20494  | 9.4188e+07  | 1.53583e+08 | 7.2187e+07  |                 2.02712 |        7.46164 |           3.66764 |              0.0520441 |       0.902589 |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+**1. Declining Profitability and EBITDA Margin Compression**  
+CoreCivic, Inc.'s EBITDA margin has exhibited a declining trend over the past three years, falling from 20.5% in 2022 to an estimated 14.7% in 2024. This contraction signals weakening operational profitability and reduces the cushion available to service debt. Compared to peer DiamondRock Hospitality Co., which has maintained EBITDA margins above 20% during the same period, CoreCivic’s profitability appears notably weaker. This margin erosion heightens credit risk by constraining CoreCivic’s ability to generate earnings necessary to comfortably meet financial obligations.
+
+**2. Erosion of Cash Flow Conversion Efficiency**  
+While CoreCivic generates positive EBITDA, the translation of this profitability into cash flow from operations (CFO) and free cash flow (FCF) shows signs of deterioration. From 2022 to 2024, the Free Cash Flow Ratio (FCF/EBITDA) improved somewhat from 5.2% to 19.5%, but remains low relative to sector peers who show more consistent cash conversion. Moreover, a significant divergence between EBITDA and FCF growth suggests elevated capital expenditures relative to cash inflows, indicating less flexibility in cash available for debt servicing or strategic investments.
+
+**3. Elevated Leverage With Deteriorating Coverage Metrics**  
+CoreCivic’s leverage ratios remain at levels that may stress financial flexibility under adverse conditions. The company’s EBITDA leverage (Debt/EBITDA) decreased to about 3.5x in 2024 from above 4.0x in 2023 but still stands at a moderately elevated level with potential risk in a cyclical downturn. Its FFO leverage improved similarly but remains higher than peer metrics (DiamondRock at ~3.5x EBITDA leverage in 2024). Interest coverage based on FFO was robust at nearly 4.8x in 2024 but has deteriorated from over 7x in 2022, weakening the buffer to absorb earnings volatility. Stress-testing coverage with a 10%-20% reduction in FFO would significantly erode interest coverage ratios, increasing refinancing and default risk.
+
+**4. Liquidity Risks from Limited Cash Buffers Against Short-Term Debt**  
+While CoreCivic holds approximately $107 million of cash at the end of 2024, its cash relative to short-term debt is favorable at about 8.9x — indicating adequate near-term liquidity under current conditions. However, the Free Cash Flow ratio remains limited, and the company’s working capital needs and CapEx requirements will continue to pressure liquidity. Under scenarios of declining CFO or FCF from operational challenges or external shocks, these liquidity cushions could erode rapidly, exposing the company to refinancing risk or constrained access to capital markets.
+
+**5. Increased Capital Expenditure Impacting Free Cash Flow Quality**  
+CoreCivic’s CapEx has remained relatively stable near $70-80 million per year but significantly impacts free cash flow generation. Compared to peers like DiamondRock that show higher CapEx but also better free cash flow generation, CoreCivic’s investments appear to strain its cash flexibility more. The disparity between EBITDA growth and free cash flow growth suggests CapEx is limiting the ability to convert accounting earnings into actual cash available for debt repayment or discretionary purposes, raising concerns about cash quality.
+
+---
+
+### Summary  
+CoreCivic’s financial profile presents several weakening factors that increase its credit risk profile entering 2025. Declining profitability, strained cash flow conversion, moderate to elevated leverage, and limited free cash flow generation underpin vulnerabilities in its ability to comfortably service debt and withstand operational stress. While its liquidity coverage of short-term obligations is currently sufficient, sensitivity to lower cash flows and ongoing capital spending needs pose risks to financial flexibility. In comparison to sector peers, CoreCivic’s financial metrics lag notably, further reflecting its constrained credit fundamentals.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+**1. Declining EBITDA Margin Reduces Profitability Cushion**  
+CoreCivic’s EBITDA margin has steadily declined from 20.5% in 2022 to 14.7% in 2024, indicating weakening profitability and a shrinking buffer to absorb operational or financial shocks. This margin is considerably lower than the peer average, as DiamondRock Hospitality Co. has maintained EBITDA margins above 20% during the same period. The compressed margin limits CoreCivic’s ability to generate earnings sufficient to support debt obligations comfortably.
+
+**2. Modest Free Cash Flow Generation Amid Stable CapEx**  
+Although free cash flow (FCF) has improved since 2022, reaching approximately $198 million in 2024, the free cash flow ratio relative to EBITDA remains modest at around 19.5%. CoreCivic’s CapEx, steady near $70-80 million annually, continues to restrict cash flow available after operational needs, limiting the company’s financial flexibility. The moderate FCF conversion relative to EBITDA suggests diminished cash quality and constraints on internal funding for debt service or growth investments.
+
+**3. Elevated Leverage Despite Some Improvement**  
+CoreCivic’s leverage metrics have improved but remain moderate-to-high, with EBITDA leverage at approximately 3.5x and FFO leverage near 2.7x at the end of 2024. These levels indicate significant indebtedness relative to cash earnings. Although leverage has decreased from prior years, the ratios remain elevated compared to the peer set. Elevated leverage limits CoreCivic’s capacity to absorb earnings volatility or adverse business developments without stress on credit metrics.
+
+**4. Deteriorating Interest Coverage Although Currently Adequate**  
+FFO interest coverage improved to about 4.8x in 2024 but has decreased significantly from over 7x in 2022, reflecting weakening earnings relative to interest expense. The declining trend signals a reduced buffer to withstand shocks from lower cash flow or higher interest costs. Under a stress scenario involving a 10-20% decline in cash flows, interest coverage ratios could fall below comfortable thresholds, increasing refinancing and default risk.
+
+**5. Strong Liquidity Position May Mask Underlying Risk**  
+CoreCivic maintains cash balances of approximately $107 million with a favorable ratio of cash to short-term debt near 8.9x in 2024, indicating sound near-term liquidity under current conditions. However, the free cash flow ratio remains relatively low, and sizeable ongoing capital expenditures may constrain cash available for debt repayment. This liquidity cushion could be strained under negative operational or market developments, revealing potential refinancing risks if cash generation weakens.
+
+---
+
+CoreCivic’s financial profile displays several credit challenges. Declining profitability, moderate free cash flow conversion, and elevated leverage underpin increased credit risk, especially in scenarios of earnings pressure or tighter capital markets. Although liquidity appears strong currently, the company’s limited free cash generation relative to debt service needs and declining interest coverage reduce financial flexibility. Compared to peers with stronger margins and cash flow metrics, CoreCivic’s financial dynamics are more vulnerable to negative shifts in operating performance or funding conditions.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|    | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner            |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name   |
+|---:|:----------------------------|:-------------------|------------------------:|:---------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------|
+|  0 | D                           | 2025-09-11         |                     nan | Grande Anthony L           |      4 | S-Sale             | --D                            |                             22500 |             135559           |             1 |         nan | Common Stock    |
+|  1 | D                           | 2025-09-09         |                     nan | MARSHALL THURGOOD JR       |      4 | S-Sale             | --D                            |                              6000 |              44023           |             1 |         nan | Common Stock    |
+|  2 | D                           | 2025-09-09         |                     nan | Grande Anthony L           |      4 | S-Sale             | --D                            |                             12500 |             158059           |             2 |         nan | Common Stock    |
+|  3 | D                           | 2025-09-08         |                     nan | Grande Anthony L           |      4 | S-Sale             | --D                            |                             10000 |             170559           |             1 |         nan | Common Stock    |
+|  4 | D                           | 2025-05-30         |                     nan | Hylton Stacia              |      4 | S-Sale             | --D                            |                              4000 |              82969           |             1 |         nan | Common Stock    |
+|  5 | D                           | 2025-05-21         |                     nan | Hininger Damon T           |      4 | S-Sale             | --D                            |                             72246 |             879324           |             1 |         nan | Common Stock    |
+|  6 | D                           | 2025-05-21         |                     nan | GARFINKLE DAVID            |      4 | S-Sale             | --D                            |                               900 |             338931           |             1 |         nan | Common Stock    |
+|  7 | D                           | 2025-05-20         |                     nan | Swindle, Patrick D.        |      4 | S-Sale             | --D                            |                             23000 |             241630           |             1 |         nan | Common Stock    |
+|  8 | D                           | 2025-05-19         |                     nan | Grande Anthony L           |      4 | S-Sale             | --D                            |                             10000 |             180559           |             1 |         nan | Common Stock    |
+|  9 | D                           | 2025-05-16         |                     nan | Carter, Cole G.            |      4 | G-Gift             | --D                            |                             15000 |             207872           |             1 |         nan | Common Stock    |
+| 10 | A                           | 2025-05-15         |                     nan | Emkes Mark A               |      4 | A-Award            | --D                            |                              2737 |             160099           |             1 |         nan | Common Stock    |
+| 11 | A                           | 2025-05-15         |                     nan | Tran Nina A                |      4 | A-Award            | --D                            |                              6482 |               6482           |             1 |         nan | Common Stock    |
+| 12 | A                           | 2025-05-15         |                     nan | Stacey Tank                |      4 | A-Award            | --D                            |                              6482 |               6482           |             1 |         nan | Common Stock    |
+| 13 | A                           | 2025-05-15         |                     nan | Smith S. Dawn              |      4 | A-Award            | --D                            |                              6482 |               6482           |             1 |         nan | Common Stock    |
+| 14 | D                           | 2025-05-14         |                     nan | Mayberry Lucibeth          |      4 | S-Sale             | --D                            |                             75000 |             211232           |             1 |         nan | Common Stock    |
+| 15 | D                           | 2025-04-01         |                     nan | Carter, Cole G.            |      4 | S-Sale             | --D                            |                              8000 |             222872           |             1 |         nan | Common Stock    |
+| 16 | A                           | 2025-03-17         |                     nan | Mayberry Lucibeth          |      4 | A-Award            | --D                            |                              7470 |             286232           |             1 |         nan | Common Stock    |
+| 17 | A                           | 2025-03-17         |                     nan | Swenson Daren              |      4 | A-Award            | --D                            |                              5052 |             128360           |             1 |         nan | Common Stock    |
+| 18 | A                           | 2025-03-17         |                     nan | Carter, Cole G.            |      4 | A-Award            | --D                            |                              7470 |             230872           |             1 |         nan | Common Stock    |
+| 19 | A                           | 2025-03-17         |                     nan | GARFINKLE DAVID            |      4 | A-Award            | --D                            |                              7470 |             339831           |             1 |         nan | Common Stock    |
+| 20 | A                           | 2025-03-17         |                     nan | Grande Anthony L           |      4 | A-Award            | --D                            |                              7470 |             190559           |             1 |         nan | Common Stock    |
+| 21 | D                           | 2025-03-03         |                     nan | Carter, Cole G.            |      4 | S-Sale             | --D                            |                              8000 |             223402           |             1 |         nan | Common Stock    |
+| 22 | A                           | 2025-02-21         |                     nan | Churchill David K          |      4 | A-Award            | --D                            |                             70159 |             210275           |             1 |         nan | Common Stock    |
+| 23 | A                           | 2025-02-21         |                     nan | Carter, Cole G.            |      4 | A-Award            | --D                            |                             70991 |             274196           |             1 |         nan | Common Stock    |
+| 24 | A                           | 2025-02-21         |                     nan | Mayberry Lucibeth          |      4 | A-Award            | --D                            |                             72239 |             324112           |             1 |         nan | Common Stock    |
+| 25 | A                           | 2025-02-21         |                     nan | Swindle, Patrick D.        |      4 | A-Award            | --D                            |                             72239 |             309615           |             1 |         nan | Common Stock    |
+| 26 | A                           | 2025-02-21         |                     nan | Grande Anthony L           |      4 | A-Award            | --D                            |                             73279 |             229450           |             1 |         nan | Common Stock    |
+| 27 | A                           | 2025-02-21         |                     nan | Hininger Damon T           |      4 | A-Award            | --D                            |                            229276 |                  1.08008e+06 |             1 |         nan | Common Stock    |
+| 28 | A                           | 2025-02-21         |                     nan | GARFINKLE DAVID            |      4 | A-Award            | --D                            |                             73279 |             378598           |             1 |         nan | Common Stock    |
+| 29 | D                           | 2025-02-21         |                     nan | Churchill David K          |      4 | F-InKind           | --D                            |                             42155 |             168120           |             2 |         nan | Common Stock    |
+| 30 | D                           | 2025-02-21         |                     nan | Carter, Cole G.            |      4 | F-InKind           | --D                            |                             42794 |             231402           |             2 |         nan | Common Stock    |
+| 31 | D                           | 2025-02-21         |                     nan | Mayberry Lucibeth          |      4 | F-InKind           | --D                            |                             45350 |             278762           |             2 |         nan | Common Stock    |
+| 32 | D                           | 2025-02-21         |                     nan | Swindle, Patrick D.        |      4 | F-InKind           | --D                            |                             44985 |             264630           |             2 |         nan | Common Stock    |
+| 33 | D                           | 2025-02-21         |                     nan | Grande Anthony L           |      4 | F-InKind           | --D                            |                             46361 |             183089           |             2 |         nan | Common Stock    |
+| 34 | D                           | 2025-02-21         |                     nan | Hininger Damon T           |      4 | F-InKind           | --D                            |                            128505 |             951570           |             2 |         nan | Common Stock    |
+| 35 | D                           | 2025-02-21         |                     nan | GARFINKLE DAVID            |      4 | F-InKind           | --D                            |                             46237 |             332361           |             2 |         nan | Common Stock    |
+| 36 | A                           | 2025-02-19         |                     nan | PRANN JOHN R JR            |      4 | A-Award            | --D                            |                              8098 |             108396           |             1 |         nan | Common Stock    |
+| 37 | A                           | 2025-02-19         |                     nan | Murphy Devin Ignatius      |      4 | A-Award            | --D                            |                              8098 |              63573           |             1 |         nan | Common Stock    |
+| 38 | A                           | 2025-02-19         |                     nan | MARSHALL THURGOOD JR       |      4 | A-Award            | --D                            |                              8098 |              50023           |             1 |         nan | Common Stock    |
+| 39 | A                           | 2025-02-19         |                     nan | Lappin Harley G.           |      4 | A-Award            | --D                            |                              8098 |              67009           |             1 |         nan | Common Stock    |
+| 40 | A                           | 2025-02-19         |                     nan | Hylton Stacia              |      4 | A-Award            | --D                            |                              8098 |              86969           |             1 |         nan | Common Stock    |
+| 41 | A                           | 2025-02-19         |                     nan | Dennis Robert J            |      4 | A-Award            | --D                            |                              8098 |              84426           |             1 |         nan | Common Stock    |
+| 42 | A                           | 2025-02-19         |                     nan | FISCHER ALEXANDER R        |      4 | A-Award            | --D                            |                              8098 |              16288           |             1 |         nan | Common Stock    |
+| 43 | A                           | 2025-02-19         |                     nan | Emkes Mark A               |      4 | A-Award            | --D                            |                              8098 |             157362           |             1 |         nan | Common Stock    |
+| 44 | A                           | 2025-02-19         |                     nan | Hernandez-Blades Catherine |      4 | A-Award            | --D                            |                              8098 |              16288           |             1 |         nan | Common Stock    |
+| 45 | A                           | 2025-02-18         |                     nan | GARFINKLE DAVID            |      4 | A-Award            | --D                            |                             28791 |             305319           |             1 |         nan | Common Stock    |
+| 46 | A                           | 2025-02-18         |                     nan | Carter, Cole G.            |      4 | A-Award            | --D                            |                             27358 |             203205           |             1 |         nan | Common Stock    |
+| 47 | A                           | 2025-02-18         |                     nan | Grande Anthony L           |      4 | A-Award            | --D                            |                             28791 |             156171           |             1 |         nan | Common Stock    |
+| 48 | A                           | 2025-02-18         |                     nan | Mayberry Lucibeth          |      4 | A-Award            | --D                            |                             28140 |             251873           |             1 |         nan | Common Stock    |
+| 49 | A                           | 2025-02-18         |                     nan | Hininger Damon T           |      4 | A-Award            | --D                            |                             62533 |             850799           |             1 |         nan | Common Stock    |
+| 50 | A                           | 2025-02-18         |                     nan | Swindle, Patrick D.        |      4 | A-Award            | --D                            |                             33872 |             237376           |             1 |         nan | Common Stock    |
+| 51 | D                           | 2025-02-13         |                     nan | Churchill David K          |      4 | S-Sale             | --D                            |                             39639 |             140116           |             1 |         nan | Common Stock    |
+| 52 | D                           | 2025-02-03         |                     nan | Carter, Cole G.            |      4 | S-Sale             | --D                            |                              8000 |             175847           |             1 |         nan | Common Stock    |
+| 53 | D                           | 2025-01-02         |                     nan | Carter, Cole G.            |      4 | S-Sale             | --D                            |                              8000 |             183847           |             1 |         nan | Common Stock    |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### Significant Insider Selling Reflects Potential Concerns Over Strategic Direction and Growth Prospects  
+Throughout 2025, CoreCivic, Inc. experienced a pronounced pattern of insider dispositions, as evidenced by numerous and sizeable sales of common stock by key executives and significant shareholders. The frequency and volume of these sales, scattered across multiple months including peaks in February, May, and September, suggest a possible waning of confidence in the company’s medium-term outlook or strategic initiatives. Insider selling is particularly concentrated among top management figures with substantial holdings, indicating these stakeholders might be reacting to internal assessments or concerns not fully reflected in public disclosures. This trend may signal a degree of uncertainty about CoreCivic’s future growth trajectory or profitability, which weighs on credit risk assessment as it implies possible challenges in executing strategic plans or maintaining investor and market confidence.
+
+#### Absence of Insider Purchases or Offsetting Acquisitions Undermines Confidence in Long-Term Value Creation  
+The transaction data reveals almost exclusively dispositions and awards (stock grants) with no notable insider purchases offsetting the sales activity. The lack of insider acquisitions, typically viewed as a vote of confidence in a company’s prospects, combined with widespread selling, undermines the perception that management and significant shareholders expect sustainable value creation. While awards and stock-based compensation reflect normal incentive structures, the absence of fresh insider buying amid large disposals may result from portfolio diversification motives or concerns over company fundamentals, but in either case, it suggests limited alignment with shareholder interests from the executive and board ranks, potentially increasing governance and strategy execution risk.
+
+#### Increased Ownership Dispersion Could Weaken Strategic Control and Organizational Stability  
+The cumulative impact of consistent insider selling—without accompanying purchases—implies a gradual dilution of insider ownership concentration over 2025. This dispersal results in reduced strategic control by management and founding shareholders, potentially complicating cohesive decision-making and increasing vulnerability to activist investors or external pressures. Such ownership dilution could engender instability at the governance level if coupled with ongoing or upcoming board refreshment or management changes, which are not publicly detailed here but commonly accompany shifts in shareholding breaks. Weaker control dynamics increase execution risk for CoreCivic’s business strategies and may exacerbate credit risk by reducing the clarity of leadership direction and commitment.
+
+#### Elevated Issuance of Stock Awards Amplifies Dilution Risk and May Signal Compensation Structure Misalignment  
+The volume of stock awards to insiders during the period is notable, covering multiple transaction dates with substantial numbers of shares granted. While equity-based compensation aligns executives’ interests with shareholder value in principle, the scale of awards—combined with ongoing insider selling—raises concerns about dilution risk for existing shareholders and potential misalignment in compensation incentives. This dynamic might incentivize short-term stock price management rather than sustainable operational performance, potentially weakening long-term credit fundamentals. Furthermore, the simultaneous presence of awards and large insider sells may reflect a complex interplay of incentive and liquidity needs that warrants scrutiny in assessing overall business risk.
+
+#### Lack of Group Structure or Subsidiary Support Limits Strategic Flexibility  
+No relevant information on group structure, parent companies, or subsidiaries is available, implying that CoreCivic operates as a largely standalone entity. This independent operational profile limits the company’s strategic flexibility to mitigate credit risk via internal capital markets or operational synergies with stronger affiliates. In the event of business or financial stress, the absence of a strong parent or cross-subsidiary support system increases vulnerability and could heighten credit risk due to limited options for external or internal resource allocation.
+
+---
+
+**Summary:** The business profile of CoreCivic in 2025 is marked by significant insider share sales that outpace acquisitions, suggesting potential concerns regarding the company’s strategic direction and growth prospects. Dispersion of insider ownership and elevated stock-based compensation raise governance and dilution risks. The lack of supportive group structure further restricts strategic options, collectively increasing the uncertainty and downside risk to CoreCivic’s credit quality.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+- **Persistent and Significant Insider Selling Indicates Possible Weakness in Executive Confidence**  
+In 2025, CoreCivic’s key executives and significant shareholders engaged in frequent and sizeable sales of common stock. The volume and frequency of insider dispositions across multiple months suggest a potential lack of confidence in the company’s strategic outlook or operational performance. This pattern may reflect concerns about business challenges, growth prospects, or future cash flow stability, increasing uncertainty around management’s commitment to long-term value creation and representing a negative signal for credit risk.
+
+- **Absence of Insider Purchases Undermines Positive Signal for Business Outlook**  
+Throughout the year, insider transactions were dominated by sales and stock awards, with no notable insider stock purchases. The lack of insider buying reduces confidence that management and significant shareholders foresee value accretion, pointing instead to possible portfolio rebalancing or concerns about future company performance. This dynamic weakens alignment between insiders and external shareholders and can increase perceived governance risks.
+
+- **High Volume of Stock Awards May Inflate Dilution Risk and Reflect Compensation Strategy Challenges**  
+CoreCivic granted substantial equity compensation via stock awards to insiders during 2025. While normal in aligning executive interests with shareholder value, the scale of these awards — occurring concurrently with extensive insider selling — raises concerns about shareholder dilution and potentially misaligned incentives. The compensation framework might incentivize short-term stock price focus rather than sustained operational improvements, which could negatively affect credit stability.
+
+- **Gradual Dispersion of Insider Ownership Could Dilute Management Influence and Governance Cohesion**  
+The ongoing insider selling activity suggests a reduction in concentrated insider ownership, potentially decreasing management’s influence over corporate governance and strategic decisions. A more dispersed ownership base may complicate board alignment and execution of long-term initiatives, increasing business risk through reduced strategic cohesion.
+
+- **No Evidence of a Parent or Group Structure Limits Access to External Support Channels**  
+Data shows no group or subsidiary structure for CoreCivic, indicating it operates independently without financial or operational support from related entities. This lack of affiliated support can constrain the company’s strategic flexibility and risk mitigation options, heightening vulnerability in adverse conditions.
+
+---
+
+The above key rating drivers from CoreCivic’s business profile emphasize risks related to insider confidence, ownership and governance dynamics, equity compensation dilution, and structural independence, all of which contribute to elevated credit risk considerations in 2025.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Elevated Political and Social Uncertainty Following the 2020 U.S. Election**  
+CoreCivic’s credit risk profile remains challenged by the heightened political and social uncertainty stemming from the contentious 2020 U.S. presidential election and its aftermath. The unprecedented post-election unrest, culminating in the January 6 Capitol breach, exposed CoreCivic and similar companies in the correctional and detention industry to increased reputational and operational risks. Given CoreCivic’s business model, which is closely tied to government contracts and the broader criminal justice landscape, such political volatility could lead to shifts in regulatory priorities, funding uncertainties, and public scrutiny. This uncertainty may affect future contract renewals, pricing power, and operational stability, placing downward pressure on the company’s creditworthiness.
+
+**2. Regulatory and Political Pressure on the Private Correctional Sector**  
+The operating environment for CoreCivic is increasingly uncertain due to ongoing regulatory scrutiny and evolving political attitudes toward private prison operations in the U.S. Although the dataset does not explicitly describe new regulations during 2024, the legacy impact of prior political and protest-driven events continues to weigh on the sector. This external pressure can result in adverse policy outcomes such as contract terminations, tighter operating standards, or litigation risks. Heightened scrutiny reduces operational flexibility and may constrain revenue growth, amplifying the company’s credit risk.
+
+**3. Limited Geographic Diversification Exposing CoreCivic to U.S.-Centric Political Risks**  
+Unlike certain real estate investment trusts with global exposure, CoreCivic’s operations lack meaningful international diversification, making it vulnerable to U.S.-specific political dynamics and regulatory developments. Events such as national elections, protests, and shifts in federal or state criminal justice policy disproportionately impact CoreCivic’s operating environment. This concentrated exposure increases the potential for volatility in cash flows and funding, which could impair financial flexibility over the medium term.
+
+**4. Sector-Wide Exposure to Macroeconomic and Societal Trends Affecting Correctional Facility Demand**  
+Broader macroeconomic and societal trends, including criminal justice reform initiatives, shifts in incarceration rates, and public opinion on private correctional facilities, shape demand in the sector where CoreCivic operates. Although the provided data does not detail specific 2024 developments beyond political events, the underlying operating environment remains challenging. Reduced demand for private detention services, driven by reforms or declining crime rates, could erode CoreCivic’s revenue base and diminish asset valuations, adversely affecting its credit profile.
+
+---
+
+In summary, CoreCivic faces structural operating environment risks chiefly characterized by political volatility and regulatory uncertainty rooted in U.S. domestic developments. The company’s dependency on government contracts and the politically sensitive nature of private corrections services amplify its exposure to these external shocks in 2024 and beyond. These factors constitute key negative drivers in assessing the company’s credit risk rating.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Political and Social Uncertainty from the 2020 U.S. Election and Aftermath**  
+CoreCivic remains exposed to political and social uncertainty stemming from the 2020 U.S. presidential election and subsequent events, including the January 6 unrest. These events have heightened public scrutiny and political debate over private prison companies, increasing reputational risk and potential for changes in government policy that could affect CoreCivic’s contracts and operating environment.
+
+**2. Ongoing Regulatory and Political Pressure on the Private Correctional Sector**  
+The private correctional industry continues to face regulatory and political challenges, driven by evolving public sentiment and legislative initiatives targeting privatized detention facilities. This pressure creates uncertainty around contract renewals and operating conditions, restricting CoreCivic’s business flexibility and elevating credit risk through potential revenue volatility.
+
+**3. Concentrated U.S. Market Exposure**  
+CoreCivic’s operations are concentrated within the United States, exposing the company to country-specific political and regulatory risks without diversification benefits. This concentration increases vulnerability to changes in U.S. policies or reforms affecting incarceration and correctional facility management.
+
+**4. Sector Sensitivity to Broader Criminal Justice and Social Trends**  
+The company’s operating environment remains sensitive to trends in criminal justice reform, incarceration rates, and public attitudes toward private prisons. Such factors can reduce demand for CoreCivic’s facilities over time, creating uncertainty around future cash flows and asset utilization in a politically charged environment.
+
+---
+
+These factors collectively underline CoreCivic’s elevated operating environment risk, driven by political, regulatory, and social dynamics primarily centered in the U.S. These external conditions materially influence the company’s credit risk profile for 2025.
+# FINAL
+---------------------------------------------------
+# CoreCivic, Inc. – Key Rating Drivers for 2025
+
+This section outlines the principal factors influencing CoreCivic’s credit risk assessment for 2025. Our analysis centers on the most material vulnerabilities across the company’s financial profile, business dynamics, and operating environment. While CoreCivic maintains certain operational and liquidity strengths, persistent profitability erosion, governance and insider-confidence concerns, and an increasingly challenging regulatory landscape drive a heightened credit risk stance.
+
+---
+
+## Financial Profile (F1)
+
+### Declining Profitability Weakens Cushion Against Adverse Developments  
+CoreCivic’s EBITDA margin has experienced a notable decline, falling from 20.5% in 2022 to just 14.7% in 2024. This contraction reflects worsening operational efficiency and compresses the firm’s earnings buffer to absorb financial or business shocks. Compared to peers sustaining EBITDA margins above 20%, CoreCivic’s reduced profitability signals diminished internal capacity to comfortably meet debt obligations and fund reinvestment.
+
+### Moderate Free Cash Flow Generation Limits Financial Flexibility  
+Free cash flow (FCF) improved to approximately $198 million in 2024 but remains modest relative to EBITDA, with a ratio near 19.5%. Steady capital expenditures in the $70-80 million range curtail available cash after operational spending, restricting funds that could otherwise be allocated to deleveraging or strategic initiatives. This modest FCF conversion ratio suggests constrained liquidity flexibility amid the company’s capital structure.
+
+### Sustained Elevated Leverage Maintains Pressure on Credit Metrics  
+While leverage metrics have shown some improvement, CoreCivic remains moderately leveraged, with EBITDA leverage around 3.5x and FFO leverage near 2.7x by end-2024. These debt levels, elevated relative to industry peers, signal ongoing risk exposure should earnings soften or refinancing conditions tighten. Elevated leverage inherently reduces capacity to absorb operational volatility without provoking credit metric deterioration.
+
+### Declining Interest Coverage Raises Refinancing and Default Risks  
+FFO interest coverage fell sharply from over 7x in 2022 to roughly 4.8x in 2024, highlighting diminishing earnings support for interest expenses. This downward trend diminishes CoreCivic’s ability to withstand adverse cash flow shocks or rising interest costs. Under hypothetical stress scenarios reflecting 10-20% declines in operating cash flow, coverage ratios would likely breach comfort thresholds, amplifying refinancing and default vulnerability.
+
+### Apparent Liquidity Strength Masked by Underlying Cash Flow Constraints  
+CoreCivic’s liquidity profile features approximately $107 million in cash and a favorable cash-to-short-term-debt ratio near 8.9x at the end of 2024. While this provides a near-term cushion, the low free cash flow conversion and ongoing capital expenditure commitments could strain liquidity under operational or market downturns. Reliance on this cash buffer without stronger internal cash generation may expose CoreCivic to refinancing risk in deteriorated funding markets.
+
+---
+
+## Business Profile (F2)
+
+### Persistent Insider Selling Undermines Confidence in Strategic Outlook  
+In 2025, substantial and repeated insider stock sales by executives and significant shareholders signaled a possible erosion of management confidence regarding CoreCivic’s long-term prospects. The volume and frequency of these transactions across multiple months raise questions about the sustainability of growth strategies and future cash flow stability, creating uncertainty around leadership commitment to credit-supportive value creation.
+
+### Absence of Insider Purchases Weakens Alignment and Signals Caution  
+Throughout 2025, there were no meaningful insider stock purchases, with transactions dominated by sales and stock awards. This lack of insider buying reduces confidence that management and key shareholders perceive attractive value appreciation, potentially reflecting concern about future operational or financial performance. The weakened alignment increases governance and strategic execution risk.
+
+### Elevated Dilution Risk From Large Equity Compensation Grants  
+CoreCivic granted extensive stock awards to executives in 2025 alongside insider selling activity. The scale of these equity grants raises shareholder dilution concerns and suggests potential misalignment in compensation incentives, where management may prioritize short-term stock price gains over sustainable earnings performance. Such a compensation framework can jeopardize long-term credit stability by distorting executive focus.
+
+### Decreasing Insider Ownership May Impair Governance Cohesion  
+The ongoing dispersion of insider ownership, prompted by frequent insider dispositions, potentially weakens concentrated management influence over corporate governance and long-term strategic decisions. A more fragmented shareholder base complicates consensus-building and may hinder decisive execution of credit-supportive initiatives, thus elevating business risk.
+
+### Lack of Parent or Group Support Constrains Strategic and Financial Flexibility  
+CoreCivic operates as an independent entity, with no affiliated parent or group structure providing financial or operational backing. The absence of external support limits the company’s options for liquidity supplementation or strategic assistance during credit stress events, increasing vulnerability to adverse market and business developments.
+
+---
+
+## Operating Environment (F3)
+
+### Continued Political and Social Uncertainty Elevates Reputational and Regulatory Risk  
+Persistent political and social tensions, rooted in the 2020 U.S. election aftermath and heightened scrutiny of private prison operations, have intensified reputational risk for CoreCivic. This dynamic raises the prospect of adverse government policies and contract disruptions, compounding revenue volatility and credit uncertainty.
+
+### Regulatory and Legislative Pressures Threaten Contract Stability  
+The private correctional industry faces increasing regulatory headwinds and evolving legislative initiatives targeting privatized detention operations. These pressures escalate uncertainty over contract renewals and operating conditions for CoreCivic, constraining business flexibility and elevating the risk of revenue erosion.
+
+### Concentrated U.S. Market Exposure Limits Risk Diversification  
+CoreCivic’s geographic focus exclusively within the United States exposes it disproportionately to national political, regulatory, and criminal justice reform trends. This lack of geographic diversification amplifies sensitivity to country-specific adverse developments.
+
+### Sector-Specific Sensitivity to Criminal Justice Reform and Public Sentiment  
+Broader shifts in criminal justice policies, incarceration rates, and public attitudes toward private prisons can materially affect CoreCivic’s demand profile. The sector’s heightened vulnerability to such social trends injects uncertainty around future facility utilization and cash flow sustainability.
+
+---
+
+## Conclusion
+
+CoreCivic’s 2025 credit risk profile is challenged by a convergence of weakening financial performance, governance and insider-confidence issues, and an adverse operating environment. Declining profitability margins, modest free cash flow generation, and elevated leverage metrics reduce financial resilience, while diminishing interest coverage and liquidity constraints magnify refinancing risks. Business profile weaknesses stemming from persistent insider selling, dilution from executive compensation, and limited external support exacerbate governance and strategic risks. Externally, CoreCivic faces intensified regulatory, political, and reputational pressures within a highly concentrated U.S. correctional market. Collectively, these factors underpin an elevated credit risk assessment for the company moving forward.
+# V0
+---------------------------------------------------
+**Key Rating Drivers for Walt Disney Co (CIK 0001744489) – 2023**
+
+---
+
+### 1. Elevated Leverage and Reduced Financial Flexibility (F1 - Financial Profile)  
+Walt Disney’s credit profile in 2023 is pressured by a notably elevated leverage ratio, driven by substantial debt accumulation over recent years to finance strategic acquisitions (notably Fox) and continued capital expenditures on content creation and theme park expansion. While revenue growth has been robust, the company’s adjusted debt-to-EBITDA remains above mid-cycle industry averages, constraining financial flexibility. This elevated leverage increases refinancing risks amid potentially rising interest rates and limits capacity for opportunistic investment or shock absorption in downturns.
+
+---
+
+### 2. Profitability Volatility and Margin Pressure from Streaming Investments (F1 - Financial Profile)  
+Disney’s ongoing heavy investment in its direct-to-consumer streaming platforms has weighed on near-term profitability, reflecting high content costs and marketing expenses. Despite subscriber growth, the segment remains at a loss or low break-even point, pressuring overall margins. The continued push to scale streaming services amidst intense competition risks prolonging operating losses. This dynamic adds uncertainty to cash flow predictability and may necessitate further capital infusion or restructuring of the streaming business model.
+
+---
+
+### 3. Exposure to Cyclical Consumer Demand and Theme Park Operations (F1 & F3 - Financial and Operating Environment)  
+A significant portion of Disney’s revenue derives from theme parks and resorts, which are highly sensitive to economic cycles, consumer discretionary spending patterns, and external shocks such as pandemics or travel restrictions. Although 2023 showed recovery trends post-pandemic, lingering global economic uncertainty, inflationary pressures, and evolving consumer behavior could suppress attendance and per capita spending, impacting cash flow stability. This exposure introduces volatility to the firm’s operating results that complicates debt repayment schedules.
+
+---
+
+### 4. Intensifying Competition in Media and Entertainment Sector (F2 - Business Profile)  
+Disney faces fierce competition across multiple fronts, including streaming (Netflix, Amazon, HBO Max), traditional media, and emerging tech-driven content platforms. The company’s strategic response has required significant capital redeployment toward content production and technology, which may dilute focus on legacy business operations. Competitive dynamics could erode market share or force increasing expenditure just to maintain parity, putting sustained pressure on operating margins and cash flow generation.
+
+---
+
+### 5. Regulatory and Geopolitical Risks in Global Markets (F3 - Operating Environment)  
+Disney’s extensive international operations expose it to evolving regulatory regimes concerning content, data privacy, intellectual property rights, and trade policies. Heightened geopolitical tensions and potential regulatory restrictions—particularly in markets such as China—pose risks to content distribution, theme park development, and joint ventures. Changes in foreign exchange rates and taxation policies further complicate financial forecasts and may increase the company’s overall risk profile.
+
+---
+
+### 6. Complexity of Organizational and Subsidiary Structure Impacting Governance (F2 - Business Profile)  
+The company’s diverse and complex organizational structure, with numerous subsidiaries and acquired entities, increases governance challenges and operational integration risks. Maintaining consistent strategic oversight and efficient capital allocation across disparate business units requires substantial managerial effort. Potential inefficiencies or misaligned decision-making may impair timely risk identification and mitigation, adding to the firm’s business risk.
+
+---
+
+In summary, while Walt Disney’s strong brand franchise and diversified media ecosystem underpin its market positioning, the negative rating drivers predominantly revolve around its stretched financial leverage, profit margin pressures from streaming ventures, exposure to cyclical demand in theme parks, intense competitive pressures, evolving regulatory challenges, and complexity in governance. These factors collectively limit credit profile resilience and weigh on the assigned rating.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |       Cash |      CapEx |   EBITDA Margin |        FFO |       CFO |       FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|-----------:|-----------:|----------------:|-----------:|----------:|----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2023-09-30 | 1.2111e+10 | 1.4182e+10 | -4.969e+09 |        0.136235 | 1.0043e+10 | 9.866e+09 | 4.897e+09 |                 5.75972 |        4.10557 |           4.11981 |              0.0981461 |        3.27529 |
+| 2022-09-30 | 1.1997e+10 | 1.1615e+10 | -4.943e+09 |        0.145028 | 6.498e+09  | 6.01e+09  | 1.067e+09 |                 4.85638 |        6.30673 |           4.30174 |              0.0206751 |        3.78339 |
+| 2021-09-30 | 9.078e+09  | 1.5959e+10 | -3.578e+09 |        0.134652 | 7.761e+09  | 5.567e+09 | 1.989e+09 |                 5.10201 |        5.97068 |           6.34887 |              0.0345103 |        2.72059 |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+---
+
+#### 1. Pressure on Profitability Margins and EBITDA Performance
+
+Walt Disney Co’s EBITDA margin showed a declining trend from 14.5% in 2022 to 13.6% in 2023. Despite the company maintaining a sizable absolute EBITDA (~$12.1 billion in 2023), this erosion in margin signals reduced operating efficiency and profitability. When benchmarked against a peer like Vail Resorts, which reported a substantially higher EBITDA margin of 27.5% in 2023, Disney’s profitability appears relatively weak within its sector. This narrower margin limits the company’s buffer to absorb cost inflation or revenue volatility, thereby constraining its ability to service debt comfortably if operating conditions deteriorate.
+
+---
+
+#### 2. Cash Flow Generation and Free Cash Flow Volatility
+
+FFO, CFO, and FCF have all increased in absolute terms in 2023 compared with prior years; however, the free cash flow ratio remains very low at 9.8%, despite a significant CapEx spend nearing $5 billion annually. Although the company generated positive free cash flow ($4.9 billion in 2023), the modest ratio indicates tight cash conversion from EBITDA to free cash flow, partly due to large ongoing investments. This cash flow profile could constrain discretionary use of cash and elevate refinancing risk if operational cash flow generation weakens. Moreover, past years showed even lower free cash flow ratios (2.1% in 2022), suggesting persistent challenges in converting EBITDA growth into robust free cash flow.
+
+---
+
+#### 3. Moderate Interest Coverage with Limited Cushion for Earnings Downside
+
+The FFO interest coverage ratio stood at 5.76x in 2023, which on the surface appears adequate but is only modestly above typical investment-grade comfort zones. Sensitivity to earnings and cash flow declines remains a concern; a hypothetical 10-20% reduction in FFO or CFO would materially erode this coverage ratio, potentially dipping it below robust thresholds. In contrast, Vail Resorts shows a lower coverage ratio (~2.36x) but benefits from higher profitability and cash conversion rates, making Disney’s intermediate coverage levels a point of vigilance, particularly in more volatile macroeconomic or sector conditions.
+
+---
+
+#### 4. Increasing Leverage Ratios and Sustainability Concerns
+
+Leverage metrics have worsened from 2022 to 2023, with FFO leverage decreasing from 6.31x to 4.11x and EBITDA leverage improving slightly to 4.12x from 4.3x. While these absolute improvements appear positive, the leverage remains on the higher side for the sector and reflects heavy reliance on debt relative to cash generation. This elevated leverage level restricts financial flexibility and heightens credit risk, especially should operating cash flow falter. Compared to Vail Resorts, which carries EBITDA leverage of approximately 3.80x, Disney’s leverage is less conservative.
+
+---
+
+#### 5. Liquidity Position and Near-Term Refinancing Risks
+
+Disney maintains a healthy absolute cash balance (~$14.2 billion) and a Cash-to-Short Term Debt ratio of 3.28x as of September 2023, reflecting adequate capacity to cover near-term liabilities under current conditions. However, the free cash flow ratio remains low, limiting internal liquidity generation. Under a stress scenario involving declines in operating cash flows, liquidity could tighten quickly given significant capital expenditure commitments and debt maturities. Additionally, the Free Cash Flow ratio’s marginal level (9.8%) signals limited cushion against unexpected cash flow swings, possibly elevating near-term refinancing risks.
+
+---
+
+#### 6. Cash Flow Quality and Conversion Efficiency Concerns
+
+While EBITDA has shown steady growth, the corresponding free cash flow growth has lagged disproportionately due to persistently high capital expenditure. This divergence reflects a structurally intensive investment profile that delays the conversion of accounting earnings into actual free cash. Repeated low free cash flow ratios raise concerns over the quality and sustainability of cash flows underpinning credit metrics. Any deterioration in working capital or capex increases would exacerbate this mismatch and pressure credit metrics further.
+
+---
+
+### Summary
+
+In summary, Walt Disney Co’s financial profile in 2023 reflects several material credit negatives: declining profitability margins relative to peers, tight cash flow conversion amid heavy capex, moderate interest coverage ratios with sensitivity to earnings declines, elevated leverage levels, and constrained liquidity buffers under stress scenarios. These factors contribute to an elevated credit risk profile that warrants cautious monitoring, especially in a macroeconomic or sector environment prone to volatility. The company’s ability to stabilize margins, improve free cash flow generation, and manage leverage will be critical to sustaining creditworthiness going forward.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+---
+
+1. **Declining EBITDA Margins Indicate Profitability Pressure**
+
+Walt Disney Co’s EBITDA margin declined from 14.5% in 2022 to 13.6% in 2023, reflecting a weakening of operating profitability. Compared to sector peer Vail Resorts, which reported a substantially higher EBITDA margin of 27.5% in 2023, Disney’s relative profitability is low. This narrowing margin reduces the cushion to absorb cost increases or revenue fluctuations, limiting flexibility to support debt repayment under stress.
+
+---
+
+2. **High Capital Expenditure Limits Free Cash Flow Generation**
+
+The company’s capital expenditures remain elevated, around $5 billion annually, which constrains free cash flow despite solid EBITDA and operating cash flow growth. The free cash flow ratio improved in 2023 to 9.8% but remains modest, indicating tight cash conversion from earnings after investment requirements. This dynamic limits funds available for debt reduction or discretionary spending and increases refinancing risk.
+
+---
+
+3. **Moderate Interest Coverage Exposes Vulnerability to Earnings Volatility**
+
+Interest coverage, measured by FFO to interest expense, stands at 5.76x in 2023. While currently adequate, the margin of safety is limited if operating cash flows or earnings decline. The ratio is vulnerable to negative earnings shocks given the company’s leverage profile and could tighten significantly under stress, increasing credit risk.
+
+---
+
+4. **Elevated Leverage Levels with Limited Deleveraging Progress**
+
+Although FFO leverage improved from 6.31x in 2022 to 4.11x in 2023, the levels remain elevated and reflect substantial debt relative to cash flow. EBITDA leverage is similarly elevated at 4.12x. These leverage ratios imply constrained financial flexibility and higher credit risk, especially compared with peers such as Vail Resorts, which reported lower leverage. The company’s recent deleveraging progress appears driven primarily by cash flow growth rather than debt reduction.
+
+---
+
+5. **Adequate Liquidity on Hand, but Free Cash Flow Constraints Pose Risks**
+
+Walt Disney holds a strong absolute cash balance of approximately $14.2 billion and a Cash-to-Short Term Debt ratio of 3.28x, indicating the capacity to cover near-term liabilities. However, the low free cash flow ratio and high ongoing CapEx limit internal liquidity generation. Under adverse cash flow scenarios, liquidity pressure could emerge, increasing refinancing risks given the size and timing of the company’s debt maturities.
+
+---
+
+6. **Cash Flow Conversion Efficiency Remains Challenged**
+
+Despite EBITDA growth, free cash flow growth remains subdued, indicating that a significant portion of cash earnings is absorbed by capital expenditures and potentially working capital requirements. This ongoing cash flow conversion gap highlights risks to cash flow predictability and reduces financial flexibility, potentially weakening the company’s ability to meet financial commitments in a downturn.
+
+---
+
+7. **Relatively Lower EBITDA Margin Compared to Sector Peer Highlights Competitive Profitability Risk**
+
+When compared to Vail Resorts, Disney’s lower EBITDA margin and higher leverage underscore relative weakness in profitability and financial structure within the sector. This peer comparison reinforces the view that Disney faces competitive pressures that weigh on operating profitability and credit metrics.
+
+---
+
+8. **Restricted Free Cash Flow Limits Capacity to Absorb External Shocks**
+
+The company’s free cash flow ratio remains below 10%, reflecting very limited excess cash after operational and investing activities. This restricted capacity to generate discretionary cash flow limits the company’s ability to absorb external shocks such as economic downturns or sector disruptions without materially impacting credit metrics.
+
+---
+
+### Summary
+
+Walt Disney Co’s financial profile for 2023 is marked by profitability pressures, elevated leverage, and constrained free cash flow generation amid significant capital spending. Although liquidity remains adequate currently, limited free cash flow and moderate interest coverage ratios increase vulnerability to cash flow volatility and refinancing risks. The company’s below-sector-average profitability and cash flow efficiency highlight structural challenges in supporting a lower-risk credit profile.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner        |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name               |
+|----:|:----------------------------|:-------------------|------------------------:|:-----------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------------------|
+| 251 | A                           | 2023-12-31         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                            1089.4 |                      27771.8 |             1 |         nan | Disney Common Stock         |
+| 252 | A                           | 2023-12-31         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                             653.7 |                       6869.9 |             1 |         nan | Disney Common Stock         |
+| 253 | A                           | 2023-12-31         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                            1069   |                      13899.8 |             1 |         nan | Disney Common Stock         |
+| 254 | A                           | 2023-12-31         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                             909.1 |                       4349.1 |             1 |         nan | Disney Common Stock         |
+| 255 | A                           | 2023-12-31         |                     nan | CATZ SAFRA             |      4 | A-Award            | --D                            |                             993.9 |                      17628.8 |             1 |         nan | Disney Common Stock         |
+| 256 | A                           | 2023-12-31         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                             993.9 |                      15027.5 |             1 |         nan | Disney Common Stock         |
+| 257 | A                           | 2023-12-31         |                     nan | deSouza Francis A      |      4 | A-Award            | --D                            |                             994.1 |                      15858.5 |             1 |         nan | Disney Common Stock         |
+| 258 | A                           | 2023-12-31         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                             994.1 |                      18175.4 |             1 |         nan | Disney Common Stock         |
+| 259 | A                           | 2023-12-31         |                     nan | PARKER MARK G          |      4 | A-Award            | --D                            |                            1443.6 |                      24399.1 |             1 |         nan | Disney Common Stock         |
+| 260 | A                           | 2023-12-31         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                             994.1 |                       8860.7 |             1 |         nan | Disney Common Stock         |
+| 261 | A                           | 2023-12-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            3608   |                       8664   |             1 |         nan | Disney Common Stock         |
+| 262 | D                           | 2023-12-27         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                            1789   |                       6875   |             2 |         nan | Disney Common Stock         |
+| 263 | D                           | 2023-12-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            3608   |                      10824   |             3 |         nan | Restricted Stock Unit       |
+| 264 | A                           | 2023-12-19         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             167   |                      33753   |             1 |         nan | Disney Common Stock         |
+| 265 | A                           | 2023-12-19         |                     nan | IGER ROBERT A          |      4 | M-Exempt           | --D                            |                             123   |                     184315   |             1 |         nan | Disney Common Stock         |
+| 266 | D                           | 2023-12-19         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             167   |                      33586   |             2 |         nan | Disney Common Stock         |
+| 267 | D                           | 2023-12-19         |                     nan | IGER ROBERT A          |      4 | F-InKind           | --D                            |                             123   |                     184192   |             2 |         nan | Disney Common Stock         |
+| 268 | D                           | 2023-12-19         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             167   |                       4291   |             5 |         nan | Restricted Stock Unit       |
+| 269 | D                           | 2023-12-19         |                     nan | IGER ROBERT A          |      4 | M-Exempt           | --D                            |                             123   |                          0   |             5 |         nan | Restricted Stock Unit       |
+| 270 | A                           | 2023-12-18         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                           18788   |                      52374   |             5 |         nan | Disney Common Stock         |
+| 271 | D                           | 2023-12-18         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                           18788   |                      33586   |             6 |         nan | Disney Common Stock         |
+| 272 | D                           | 2023-12-18         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                           18788   |                          0   |            13 |         nan | Stock Option (Right-to-Buy) |
+| 273 | A                           | 2023-12-17         |                     nan | IGER ROBERT A          |      4 | M-Exempt           | --D                            |                           34667.7 |                     200834   |             1 |         nan | Disney Common Stock         |
+| 274 | D                           | 2023-12-17         |                     nan | IGER ROBERT A          |      4 | F-InKind           | --D                            |                           16642   |                     184192   |             2 |         nan | Disney Common Stock         |
+| 275 | A                           | 2023-12-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1146   |                       3328   |             3 |         nan | Disney Common Stock         |
+| 276 | A                           | 2023-12-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            2462   |                      34498   |             3 |         nan | Disney Common Stock         |
+| 277 | D                           | 2023-12-17         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             569   |                       2759   |             4 |         nan | Disney Common Stock         |
+| 278 | D                           | 2023-12-17         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             912   |                      33586   |             4 |         nan | Disney Common Stock         |
+| 279 | D                           | 2023-12-17         |                     nan | IGER ROBERT A          |      4 | M-Exempt           | --D                            |                           34667.7 |                          0   |             6 |         nan | Restricted Stock Unit       |
+| 280 | D                           | 2023-12-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1146   |                          0   |             9 |         nan | Restricted Stock Unit       |
+| 281 | D                           | 2023-12-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            2462   |                          0   |            12 |         nan | Restricted Stock Unit       |
+| 282 | A                           | 2023-12-15         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            1682   |                       5890   |             1 |         nan | Disney Common Stock         |
+| 283 | A                           | 2023-12-15         |                     nan | Johnston Hugh F        |      4 | A-Award            | --D                            |                          109205   |                     109205   |             1 |         nan | Stock Option (Right-to-Buy) |
+| 284 | A                           | 2023-12-15         |                     nan | Gutierrez Horacio E    |      4 | M-Exempt           | --D                            |                            6049   |                      12407   |             1 |         nan | Disney Common Stock         |
+| 285 | A                           | 2023-12-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1092   |                       2725   |             1 |         nan | Disney Common Stock         |
+| 286 | A                           | 2023-12-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1114   |                      32475   |             1 |         nan | Disney Common Stock         |
+| 287 | D                           | 2023-12-15         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                             834   |                       5056   |             2 |         nan | Disney Common Stock         |
+| 288 | A                           | 2023-12-15         |                     nan | Johnston Hugh F        |      4 | A-Award            | --D                            |                           37458   |                      37458   |             2 |         nan | Restricted Stock Unit       |
+| 289 | D                           | 2023-12-15         |                     nan | Gutierrez Horacio E    |      4 | F-InKind           | --D                            |                            3000   |                       9407   |             2 |         nan | Disney Common Stock         |
+| 290 | D                           | 2023-12-15         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             543   |                       2182   |             2 |         nan | Disney Common Stock         |
+| 291 | D                           | 2023-12-15         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             439   |                      32036   |             2 |         nan | Disney Common Stock         |
+| 292 | D                           | 2023-12-15         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            1682   |                       3363   |             3 |         nan | Restricted Stock Unit       |
+| 293 | D                           | 2023-12-15         |                     nan | Gutierrez Horacio E    |      4 | M-Exempt           | --D                            |                            6049   |                      12098   |             3 |         nan | Restricted Stock Unit       |
+| 294 | A                           | 2023-12-15         |                     nan | Schake Kristina K      |      4 | A-Award            | --D                            |                           29735   |                      29735   |             4 |         nan | Stock Option (Right-to-Buy) |
+| 295 | A                           | 2023-12-15         |                     nan | Gutierrez Horacio E    |      4 | A-Award            | --D                            |                           73324   |                      73324   |             4 |         nan | Stock Option (Right-to-Buy) |
+| 296 | A                           | 2023-12-15         |                     nan | IGER ROBERT A          |      4 | A-Award            | --D                            |                          374417   |                     374417   |             5 |         nan | Stock Option (Right-to-Buy) |
+| 297 | A                           | 2023-12-15         |                     nan | Schake Kristina K      |      4 | A-Award            | --D                            |                           10199   |                      10199   |             5 |         nan | Restricted Stock Unit       |
+| 298 | A                           | 2023-12-15         |                     nan | Gutierrez Horacio E    |      4 | A-Award            | --D                            |                           25151   |                      25151   |             5 |         nan | Restricted Stock Unit       |
+| 299 | A                           | 2023-12-15         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                           33054   |                      33054   |             6 |         nan | Stock Option (Right-to-Buy) |
+| 300 | A                           | 2023-12-15         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                           11338   |                      11338   |             7 |         nan | Restricted Stock Unit       |
+| 301 | D                           | 2023-12-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1092   |                       4367   |             8 |         nan | Restricted Stock Unit       |
+| 302 | D                           | 2023-12-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1114   |                       4458   |             9 |         nan | Restricted Stock Unit       |
+| 303 | A                           | 2023-12-15         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                           16849   |                      16849   |            10 |         nan | Stock Option (Right-to-Buy) |
+| 304 | A                           | 2023-12-15         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                           13485   |                      13485   |            11 |         nan | Restricted Stock Unit       |
+| 305 | A                           | 2023-12-14         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1333   |                       2294   |             1 |         nan | Disney Common Stock         |
+| 306 | A                           | 2023-12-14         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1310   |                      31846   |             1 |         nan | Disney Common Stock         |
+| 307 | A                           | 2023-12-14         |                     nan | Gutierrez Horacio E    |      4 | M-Exempt           | --D                            |                            6294   |                       9479   |             1 |         nan | Disney Common Stock         |
+| 308 | D                           | 2023-12-14         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             661   |                       1633   |             2 |         nan | Disney Common Stock         |
+| 309 | D                           | 2023-12-14         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             485   |                      31361   |             2 |         nan | Disney Common Stock         |
+| 310 | D                           | 2023-12-14         |                     nan | Gutierrez Horacio E    |      4 | F-InKind           | --D                            |                            3121   |                       6358   |             2 |         nan | Disney Common Stock         |
+| 311 | D                           | 2023-12-14         |                     nan | Gutierrez Horacio E    |      4 | M-Exempt           | --D                            |                            6294   |                       6295   |             3 |         nan | Restricted Stock Unit       |
+| 312 | D                           | 2023-12-14         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1333   |                       2666   |             4 |         nan | Restricted Stock Unit       |
+| 313 | D                           | 2023-12-14         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1310   |                       2619   |             5 |         nan | Restricted Stock Unit       |
+| 314 | A                           | 2023-12-07         |                     nan | Chang Amy              |      4 | P-Purchase         | --D                            |                             333   |                       5471.2 |             1 |         nan | Disney Common Stock         |
+| 315 | A                           | 2023-12-07         |                     nan | Chang Amy              |      4 | P-Purchase         | --D                            |                             745   |                       6216.2 |             2 |         nan | Disney Common Stock         |
+| 316 | A                           | 2023-11-27         |                     nan | IGER ROBERT A          |      4 | A-Award            | --D                            |                           34667.7 |                      34667.7 |             1 |         nan | Restricted Stock Unit       |
+| 317 | A                           | 2023-09-30         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                            1198.6 |                      12830.8 |             1 |         nan | Disney Common Stock         |
+| 318 | A                           | 2023-09-30         |                     nan | PARKER MARK G          |      4 | A-Award            | --D                            |                            1588   |                      22955.5 |             1 |         nan | Disney Common Stock         |
+| 319 | A                           | 2023-09-30         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                            1114.6 |                       7866.6 |             1 |         nan | Disney Common Stock         |
+| 320 | A                           | 2023-09-30         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                            1221.4 |                      26682.4 |             1 |         nan | Disney Common Stock         |
+| 321 | A                           | 2023-09-30         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                            1114.1 |                      14033.6 |             1 |         nan | Disney Common Stock         |
+| 322 | A                           | 2023-09-30         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                            1019.3 |                       3440   |             1 |         nan | Disney Common Stock         |
+| 323 | A                           | 2023-09-30         |                     nan | deSouza Francis A      |      4 | A-Award            | --D                            |                            1114.6 |                      14864.4 |             1 |         nan | Disney Common Stock         |
+| 324 | A                           | 2023-09-30         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                             732.9 |                       5138.2 |             1 |         nan | Disney Common Stock         |
+| 325 | A                           | 2023-09-30         |                     nan | CATZ SAFRA             |      4 | A-Award            | --D                            |                            1114.1 |                      16634.9 |             1 |         nan | Disney Common Stock         |
+| 326 | A                           | 2023-09-30         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                            1114.6 |                      17181.3 |             1 |         nan | Disney Common Stock         |
+| 327 | A                           | 2023-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                              46   |                       4224   |             1 |         nan | Disney Common Stock         |
+| 328 | D                           | 2023-09-28         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                              16   |                       4208   |             2 |         nan | Disney Common Stock         |
+| 329 | A                           | 2023-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                              46   |                         90   |             3 |         nan | Restricted Stock Unit       |
+| 330 | D                           | 2023-08-01         |                     nan | Coleman Sonia L        |      4 | S-Sale             | --D                            |                             959   |                        961   |             5 |         nan | Disney Common Stock         |
+| 331 | A                           | 2023-07-17         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                            8564   |                       8564   |             1 |         nan | Stock Option (Right-to-Buy) |
+| 332 | A                           | 2023-07-17         |                     nan | Lansberry Kevin A      |      4 | A-Award            | --D                            |                            9670   |                       9670   |             1 |         nan | Stock Option (Right-to-Buy) |
+| 333 | A                           | 2023-07-17         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                            6906   |                       6906   |             1 |         nan | Restricted Stock Unit       |
+| 334 | A                           | 2023-07-17         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                            7049   |                       7049   |             2 |         nan | Restricted Stock Unit       |
+| 335 | A                           | 2023-07-17         |                     nan | Lansberry Kevin A      |      4 | A-Award            | --D                            |                            7960   |                       7960   |             2 |         nan | Restricted Stock Unit       |
+| 336 | A                           | 2023-06-30         |                     nan | CATZ SAFRA             |      4 | A-Award            | --D                            |                            1024.7 |                      15520.8 |             1 |         nan | Disney Common Stock         |
+| 337 | A                           | 2023-06-30         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                            1023   |                      12919.5 |             1 |         nan | Disney Common Stock         |
+| 338 | A                           | 2023-06-30         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                            1023.3 |                      16066.7 |             1 |         nan | Disney Common Stock         |
+| 339 | A                           | 2023-06-30         |                     nan | PARKER MARK G          |      4 | A-Award            | --D                            |                            1475.7 |                      21367.5 |             1 |         nan | Disney Common Stock         |
+| 340 | A                           | 2023-06-30         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                            1121.4 |                      25461   |             1 |         nan | Disney Common Stock         |
+| 341 | A                           | 2023-06-30         |                     nan | deSouza Francis A      |      4 | A-Award            | --D                            |                            1023.3 |                      13749.8 |             1 |         nan | Disney Common Stock         |
+| 342 | A                           | 2023-06-30         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                            1098.7 |                      11632.2 |             1 |         nan | Disney Common Stock         |
+| 343 | A                           | 2023-06-30         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                             935.3 |                       2420.7 |             1 |         nan | Disney Common Stock         |
+| 344 | A                           | 2023-06-30         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                            1023.3 |                       6752   |             1 |         nan | Disney Common Stock         |
+| 345 | A                           | 2023-06-30         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                             672.9 |                       4405.3 |             1 |         nan | Disney Common Stock         |
+| 346 | A                           | 2023-06-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            3608   |                       5426   |             1 |         nan | Disney Common Stock         |
+| 347 | D                           | 2023-06-27         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                            1248   |                       4178   |             2 |         nan | Disney Common Stock         |
+| 348 | D                           | 2023-06-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            3608   |                      14432   |             3 |         nan | Restricted Stock Unit       |
+| 349 | A                           | 2023-06-23         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                            6654   |                       6654   |             1 |         nan | Stock Option (Right-to-Buy) |
+| 350 | A                           | 2023-06-23         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                            2375   |                       2375   |             2 |         nan | Restricted Stock Unit       |
+| 351 | A                           | 2023-06-22         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             755   |                      30816   |             1 |         nan | Disney Common Stock         |
+| 352 | D                           | 2023-06-22         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             280   |                      30536   |             2 |         nan | Disney Common Stock         |
+| 353 | A                           | 2023-06-22         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                             538   |                       2107   |             3 |         nan | Disney Common Stock         |
+| 354 | D                           | 2023-06-22         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             187   |                       1920   |             4 |         nan | Disney Common Stock         |
+| 355 | D                           | 2023-06-22         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             755   |                        755   |             5 |         nan | Restricted Stock Unit       |
+| 356 | D                           | 2023-06-22         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                             538   |                        538   |             8 |         nan | Restricted Stock Unit       |
+| 357 | A                           | 2023-06-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1091   |                       1947   |             1 |         nan | Disney Common Stock         |
+| 358 | A                           | 2023-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1114   |                      39932   |             1 |         nan | Disney Common Stock         |
+| 359 | D                           | 2023-06-15         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             378   |                       1569   |             2 |         nan | Disney Common Stock         |
+| 360 | D                           | 2023-06-15         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             439   |                      39493   |             2 |         nan | Disney Common Stock         |
+| 361 | D                           | 2023-06-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1091   |                       4368   |             7 |         nan | Restricted Stock Unit       |
+| 362 | D                           | 2023-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1114   |                       4309   |             7 |         nan | Restricted Stock Unit       |
+| 363 | A                           | 2023-06-14         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1333   |                       1333   |             1 |         nan | Disney Common Stock         |
+| 364 | A                           | 2023-06-14         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1310   |                      30448   |             1 |         nan | Disney Common Stock         |
+| 365 | D                           | 2023-06-14         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                             477   |                        856   |             2 |         nan | Disney Common Stock         |
+| 366 | D                           | 2023-06-14         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             387   |                      30061   |             2 |         nan | Disney Common Stock         |
+| 367 | D                           | 2023-06-14         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                            1333   |                       3999   |             4 |         nan | Restricted Stock Unit       |
+| 368 | D                           | 2023-06-14         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                            1310   |                       3929   |             5 |         nan | Restricted Stock Unit       |
+| 369 | D                           | 2023-04-25         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                            1145   |                      29138   |             1 |         nan | Disney Common Stock         |
+| 370 | A                           | 2023-03-31         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                             950   |                      10533.5 |             1 |         nan | Disney Common Stock         |
+| 371 | A                           | 2023-03-31         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                             849.1 |                       1485.4 |             1 |         nan | Disney Common Stock         |
+| 372 | A                           | 2023-03-31         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                            1041.1 |                      24339.6 |             1 |         nan | Disney Common Stock         |
+| 373 | A                           | 2023-03-31         |                     nan | deSouza Francis A      |      4 | A-Award            | --D                            |                             950   |                      12726.5 |             1 |         nan | Disney Common Stock         |
+| 374 | A                           | 2023-03-31         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                             950   |                       5728.7 |             1 |         nan | Disney Common Stock         |
+| 375 | A                           | 2023-03-31         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                             624.7 |                       3732.4 |             1 |         nan | Disney Common Stock         |
+| 376 | A                           | 2023-03-31         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                             949.7 |                      11896.5 |             1 |         nan | Disney Common Stock         |
+| 377 | A                           | 2023-03-31         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                             950   |                      15043.4 |             1 |         nan | Disney Common Stock         |
+| 378 | A                           | 2023-03-31         |                     nan | CATZ SAFRA             |      4 | A-Award            | --D                            |                            1021.3 |                      14496.1 |             1 |         nan | Disney Common Stock         |
+| 379 | A                           | 2023-03-31         |                     nan | PARKER MARK G          |      4 | A-Award            | --D                            |                             950   |                      19891.8 |             1 |         nan | Disney Common Stock         |
+| 380 | A                           | 2023-03-31         |                     nan | ARNOLD SUSAN E         |      4 | A-Award            | --D                            |                             813.4 |                      46295.3 |             1 |         nan | Disney Common Stock         |
+| 381 | D                           | 2023-03-21         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                            1139   |                      30283   |             1 |         nan | Disney Common Stock         |
+| 382 | A                           | 2023-03-08         |                     nan | Richardson Paul J      |      4 | M-Exempt           | --D                            |                             772   |                       6707   |             1 |         nan | Disney Common Stock         |
+| 383 | A                           | 2023-03-08         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             660   |                      31568   |             1 |         nan | Disney Common Stock         |
+| 384 | D                           | 2023-03-08         |                     nan | Richardson Paul J      |      4 | F-InKind           | --D                            |                             266   |                       6441   |             2 |         nan | Disney Common Stock         |
+| 385 | D                           | 2023-03-08         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                             146   |                      31422   |             2 |         nan | Disney Common Stock         |
+| 386 | D                           | 2023-03-08         |                     nan | Richardson Paul J      |      4 | M-Exempt           | --D                            |                             772   |                        772   |             3 |         nan | Restricted Stock Unit       |
+| 387 | D                           | 2023-03-08         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                             660   |                        660   |             5 |         nan | Restricted Stock Unit       |
+| 388 | D                           | 2023-02-21         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                            1139   |                      30908   |             1 |         nan | Disney Common Stock         |
+| 389 | D                           | 2023-01-24         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                            1139   |                      32047   |             1 |         nan | Disney Common Stock         |
+| 390 | A                           | 2023-01-12         |                     nan | McCarthy Christine M   |      4 | M-Exempt           | --D                            |                           42533   |                     224363   |             1 |         nan | Disney Common Stock         |
+| 391 | A                           | 2023-01-12         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                           18110   |                      51296   |             1 |         nan | Disney Common Stock         |
+| 392 | D                           | 2023-01-12         |                     nan | McCarthy Christine M   |      4 | S-Sale             | --D                            |                           42533   |                     181830   |             2 |         nan | Disney Common Stock         |
+| 393 | D                           | 2023-01-12         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                           18110   |                      33186   |             2 |         nan | Disney Common Stock         |
+| 394 | D                           | 2023-01-12         |                     nan | McCarthy Christine M   |      4 | M-Exempt           | --D                            |                           42533   |                          0   |             4 |         nan | Stock Option (Right-to-Buy) |
+| 395 | D                           | 2023-01-12         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                           18110   |                          0   |             5 |         nan | Stock Option (Right-to-Buy) |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Elevated Insider Transaction Activity with Concentration in Award Issuance  
+In 2023, Walt Disney Co witnessed a notable volume of insider transactions characterized predominantly by “A-Award” types, representing equity awards granted primarily to executives and key employees. The concentration of these transactions at the very end of the year (notably on December 31, 2023) points to a structured issuance of stock-based compensation. This pattern indicates a continued reliance on equity incentives, which, while standard in the media and entertainment sector, raises concerns regarding potential dilution risks for existing shareholders. Excessive issuance of stock awards can impact share value and create tensions between management compensation and long-term shareholder interests, potentially undermining governance and credit quality if not balanced with corresponding operational or financial improvements.
+
+#### 2. Lack of Insider Disposition Transactions Among Senior Executives  
+The data shows disproportionately fewer insider sales or dispositions in 2023, particularly among senior executives and key holders, with most transactions skewed toward awards rather than liquidity events. This could reflect limited insider confidence in the current valuation environment or market outlook, or conversely a strategic decision to retain ownership stakes. However, the lack of meaningful insider selling activity also reduces liquidity signals that credit analysts often monitor for understanding management convictions. The absence of substantial disposition amid a complex external environment may point to constrained management flexibility, potentially limiting swift strategic pivots in response to adverse conditions.
+
+#### 3. No Significant Changes in Concentration of Ownership or Control  
+Despite the sizable equity awards distributed, there is no clear evidence of major shifts in ownership concentration or control dynamics within Walt Disney’s management cadre or significant shareholders as per the 2023 transaction data. Ownership appears relatively stable without clear dispersion or consolidation trends. This stability suggests no immediate signs of strategic board or management reshuffles impacting alignment of interests, yet it could imply limited strategic flexibility if governance structures do not adapt promptly to evolving market conditions or competitive pressures. The absence of ownership restructuring may also mask underlying tensions if stakeholders are divided on the company’s future direction or risk appetite.
+
+#### 4. Potential Indirect Risk from Partial Ownership of Weaker Subsidiary (fuboTV Inc.)  
+Walt Disney’s stake in fuboTV Inc., acquired in 2020 as a partial ownership, introduces additional complexity in its business profile. Given fuboTV’s status as a less-established streaming platform competing in a saturated OTT market, the subsidiary’s performance and capital needs could impose financial strain or strategic distractions on the parent. This partial ownership exposes Disney to risks linked to an inherently volatile competitive segment, with the possibility that resources or managerial attention be diverted to support the subsidiary. Such cross-subsidiary exposure can elevate credit risk, especially if fuboTV requires continued capital injections or fails to meet growth targets in a rapidly evolving content distribution landscape.
+
+#### 5. Limited Insight on Insider Trading Suggesting Reaction to Specific Corporate Events  
+The pattern of transactions does not reveal distinct spikes or volatility correlating with major corporate announcements in 2023. The absence of clustering of insider trades around significant news reduces the likelihood of insider trading based on non-public information. Nevertheless, ongoing acquisitions or disposals (mostly awards) at year-end could signal strategic positioning for upcoming fiscal or operational cycles, but these are more consistent with scheduled compensation rather than reactive maneuvers. This lack of reactive insider trading may limit near-term transparency into management’s confidence or anticipation of operational headwinds.
+
+---
+
+**Summary:** Walt Disney Co’s business profile in 2023 is marked by concentrated issuance of equity awards signaling potential dilution risk and governance scrutiny. Stable ownership patterns reflect limited shifts in control but also possibly constrained strategic agility. The partial ownership in fuboTV adds an indirect risk element due to that subsidiary’s uncertain competitive outlook. The insider transaction data shows no clear insider trading activity tied to material corporate events, indicating orderly but potentially opaque internal dynamics. Taken together, these factors weigh moderately on the credit risk profile from a business risk standpoint.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Concentrated Year-End Equity Awards Increasing Dilution Risk  
+In 2023, Walt Disney Co issued a significant volume of equity awards to executives and key employees, primarily concentrated on December 31. This pattern highlights continued dependence on stock-based compensation, which increases the risk of share dilution for existing shareholders. While equity awards are standard for incentivizing management, the concentration and size of these issuances may create misalignment between management compensation and shareholder interests, potentially affecting governance quality.
+
+#### 2. Limited Insider Dispositions Indicate Retained Insider Stakes but Reduced Liquidity Signals  
+The insider transaction activity shows limited share sales by insiders, with most activity related to awards rather than dispositions. This indicates that insider ownership levels remain stable but reduces transparency about management's confidence in stock valuation or future prospects. The low level of insider selling limits the market’s insight into insider sentiment and may reflect either confidence or constrained flexibility in reallocating individual portfolios.
+
+#### 3. Stable Ownership Concentration Without Significant Changes in Control  
+The transaction data does not indicate notable changes in ownership concentration or control among executives or significant shareholders. This continuity suggests no major governance shifts or management realignments in 2023. While this stabilizes strategic direction, it may restrict responsiveness to shifting market conditions or competitive pressures.
+
+#### 4. Partial Ownership in fuboTV Inc. Adds Exposure to Competitive Streaming Sector  
+Walt Disney’s partial ownership of fuboTV Inc., a smaller streaming platform, exposes the company to risks inherent to highly competitive and evolving OTT markets. The subsidiary’s operational and financial challenges could potentially require additional support from the parent company. This indirect risk may weigh on the overall business profile, given the capital intensity and uncertain profitability of emerging streaming ventures.
+
+#### 5. Insider Transactions Do Not Reflect Significant Reactions to Corporate Events  
+The pattern of insider awards and transactions throughout 2023 lacks correlation with major corporate announcements or strategic shifts. This suggests a transactional routine centered on compensation rather than market event-driven insider activity, reflecting limited signals about management’s anticipations or strategic adjustments to external developments.
+
+---
+
+Overall, the business profile of Walt Disney Co shows a heavy reliance on equity awards that may dilute current shareholders, stable but non-dynamic ownership patterns, and incremental risk exposure from partial ownership in a competitive streaming subsidiary. These factors contribute moderate pressure on the company’s credit risk profile from a business risk perspective.
+# V3
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+#### Geopolitical Instability in Eastern Europe and Associated Market Risks  
+Walt Disney Co’s operating environment continues to be affected by ongoing geopolitical tensions resulting from the 2014 Euromaidan protests in Ukraine, Russia’s annexation of Crimea, and the ongoing conflict in the Donbas region. These events have heightened regional instability, which poses persistent risks to Disney’s international operations, particularly in Eastern European markets. Prolonged conflict and political uncertainty can disrupt content distribution channels, regional advertising revenues, and tourism-dependent segments of its business, increasing variability and downside risk in those markets. Although these events originated almost a decade ago, their long-lasting nature sustains an adverse macroenvironmental backdrop that complicates forecasting and strategic planning.
+
+#### Exposure to Disruptive Technologies and Digital Transformation Pressures  
+The launch of disruptive technologies such as Roblox in 2006 and more recently OpenAI’s ChatGPT in 2022 highlight accelerating innovation trends within the consumer tech and digital entertainment landscape. While historically these innovations foster growth opportunities, they also introduce significant competitive and execution risks. Rapid technological advancements demand substantial ongoing investments in digital content, user engagement platforms, and artificial intelligence capabilities to keep pace with changing consumer preferences. Failure or delayed responsiveness to these disruptive forces could erode market share, compress margins, and impair Walt Disney’s credit profile, especially given the capital intensity of such initiatives.
+
+#### Broader Macroeconomic and Political Uncertainties in Primary Markets  
+Events such as the 2019 impeachment proceedings against the U.S. President and targeted military escalations like the 2020 killing of Qasem Soleimani contribute to an unpredictable political environment in key markets including the United States and the Middle East. Although these events may not directly impact Disney’s core operations, they elevate macroeconomic uncertainty and consumer confidence volatility. Such factors can reduce discretionary spending on entertainment and travel services, disciplines critical to Disney’s revenue streams. This heightened uncertainty may translate into more cautious business investment and increased costs related to compliance, security, and risk management.
+
+---
+
+**Summary:** The Walt Disney Company faces a challenging operating environment characterized by persistent geopolitical instability in critical regions, continuous pressure from rapidly evolving disruptive technologies, and an uncertain global political landscape. These factors collectively heighten operating risks, potentially constrain revenue growth, and demand agile management responses to mitigate adverse impacts on the company’s credit quality.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+- **Geopolitical Tensions and Regional Instability**  
+The lasting geopolitical tensions stemming from the 2014 Euromaidan protests in Ukraine, Russia’s annexation of Crimea, and the ongoing conflict in the Donbas region continue to create uncertainty in Eastern European markets. These developments pose risks related to content distribution, local market demand, and regulatory unpredictability. Although Disney’s direct exposure to these specific regions is limited compared to its global footprint, the unstable environment increases operational complexity and potential costs, adding to the overall risk profile.
+
+- **Rapid Advancement of Disruptive Technologies**  
+Disruptive innovations in the digital entertainment sector, such as the earlier release of Roblox and the more recent emergence of AI-based technologies like OpenAI’s ChatGPT, underline the accelerating pace of technological change. This environment compels Disney to continuously invest in digital transformation and innovation to maintain competitive relevance. The need for sustained capital expenditure and rapid adaptation to shifting consumer behaviors introduces execution and strategic risks that may pressure profitability and cash flow stability.
+
+- **Sectoral Exposure to Consumer Tech Innovation Risks**  
+Disney operates in the “Services-Miscellaneous Amusement & Recreation” sector, where rapid technological shifts and new digital entrants create heightened competition. The company faces risks from emerging platforms that disrupt traditional content consumption and monetization models, potentially affecting subscriber growth and advertising revenues. The company’s ability to integrate new technologies and content formats will be critical to managing these risks, which are embedded in the evolving industry landscape.
+
+- **Macroeconomic and Political Uncertainty in Core Markets**  
+Broader political events such as the U.S. political environment volatility, including the 2019 impeachment proceedings and various geopolitical developments globally (e.g., Middle East conflicts), contribute to an uncertain macroeconomic environment. Such political unpredictability can affect consumer confidence and discretionary spending, directly impacting Disney’s theme parks, media networks, and studio entertainment segments. Fluctuations in consumer demand tied to these uncertainties may lead to volatility in operating performance.
+
+---
+
+This assessment reflects Walt Disney Co’s operating environment challenges related to external political, technological, and economic factors, which collectively increase complexity and risk in executing its strategic and financial plans.
+# FINAL
+---------------------------------------------------
+# Walt Disney Co – 2023 Credit Risk Report  
+## Key Rating Drivers  
+
+This section outlines the principal factors influencing Walt Disney Co’s credit risk profile in 2023, with an emphasis on negative impacts and vulnerabilities. The analysis integrates financial, business, and operating environment dimensions, highlighting key challenges that weigh on the company’s creditworthiness. While Disney maintains certain strengths, these are overshadowed by strains on profitability, cash flow constraints, strategic risks, and external uncertainties.  
+
+---
+
+### Financial Profile (F1)  
+
+**1. Declining Profitability and Narrowing EBITDA Margins**  
+Walt Disney experienced a further decline in EBITDA margins from 14.5% in 2022 to 13.6% in 2023, signaling increasing pressure on operating profitability. This degradation contrasts sharply with sector peers—such as Vail Resorts, which reported a substantially stronger EBITDA margin of 27.5%—underscoring Disney’s relative competitive disadvantages in profitability. The contraction in margins reduces the company’s buffer to absorb cost inflation or revenue shocks, highlighting vulnerability to earnings volatility and heightening credit risk.  
+
+**2. Elevated Leverage and Constrained Deleveraging Progress**  
+Although leverage ratios improved somewhat, with FFO leverage declining from 6.31x to 4.11x and EBITDA leverage remaining elevated at 4.12x, these figures still indicate a considerable debt burden in relation to cash flow generation. Progress in deleveraging appears driven more by EBITDA growth than active debt retirement, suggesting limited financial flexibility. Compared to lower-leverage peers, Disney remains exposed to refinancing risks and less resilient to cash flow downturns—a key credit concern amid volatile market conditions.  
+
+**3. Limited Free Cash Flow Capacity Due to High Capital Expenditure**  
+Disney’s ongoing elevated capital expenditures, approximately $5 billion annually, continue to absorb a sizable portion of operating cash flow, constricting free cash flow generation. Despite modest improvement in the free cash flow ratio to 9.8% in 2023, the company’s capacity to fund debt repayment or discretionary investments from internal cash remains tight. This restricted free cash flow undermines resilience to external shocks and heightens refinancing risk, particularly as debt maturities approach.  
+
+**4. Moderate Interest Coverage with Vulnerability to Earnings Shocks**  
+Interest coverage, measured by funds from operations (FFO) to interest expense, stood at 5.76x in 2023. While this ratio is currently adequate, it offers limited cushion against potential earnings declines. Given Disney’s leverage profile and profitability pressures, any negative earnings volatility could significantly compress interest coverage, exacerbating funding vulnerabilities and credit risk.  
+
+**5. Adequate Liquidity on Short-Term Basis but Fragile under Stress**  
+The company maintains a robust absolute cash balance of approximately $14.2 billion and a favorable cash-to-short-term debt ratio of 3.28x, supporting near-term liquidity needs. However, the tight free cash flow generation and heavy capex commitments restrict sustainable internal liquidity build-up. Should adverse operating scenarios materialize, liquidity pressures could intensify, complicating debt refinancings and increasing credit risk.  
+
+---
+
+### Business Profile (F2)  
+
+**1. Heavy Reliance on Concentrated Equity Awards Heightens Dilution Risk**  
+In 2023, Disney issued a sizeable volume of equity awards concentrated at year-end, reflecting continued dependence on stock-based compensation for executive and key employee incentives. This concentration elevates dilution risk for shareholders and may contribute to misalignment between management incentives and shareholder value creation. The potential for dilution weighs on equity stability and credit perceptions, especially if stock price volatility persists.  
+
+**2. Incremental Exposure via Partial Ownership in Competitive Streaming Subsidiary**  
+Disney’s partial ownership stake in fuboTV Inc.—a smaller, highly competitive streaming platform—introduces additional business risk. Given the capital-intensive nature and uncertain profitability of the OTT sector, fuboTV’s operational challenges could necessitate future financial support from Disney. This indirect exposure adds complexity and potential strain to the company’s strategic and financial profile amid rapid industry disruption.  
+
+**3. Stable but Non-Dynamic Insider and Ownership Patterns Limit Strategic Responsiveness**  
+While insider ownership remains stable with limited share dispositions, this pattern reduces transparency on management’s confidence and opportunistic flexibility. Moreover, steady ownership concentration without notable shifts suggests a status quo approach to governance and strategic decision-making. This stability may constrain agility in responding to evolving competitive pressures and technological disruptions, potentially impeding long-term value creation.  
+
+---
+
+### Operating Environment (F3)  
+
+**1. Accelerating Technological Disruption Demands Heavy Investment and Strategic Adaptation**  
+The digital entertainment sector’s rapid evolution, driven by innovations like AI-based technologies and emergent platforms, compels Disney to sustain significant investment in digital transformation to preserve competitive relevance. The imperative to adapt swiftly to shifting consumer preferences and monetize new content formats generates execution risk and pressures profitability and operating cash flows. Failure to keep pace could erode market share and increase earnings volatility.  
+
+**2. Heightened Geopolitical and Macroeconomic Uncertainties Impair Market Stability**  
+Persistent geopolitical tensions—such as the ongoing instability in Eastern Europe—and volatile global political conditions introduce unpredictability in Disney’s operating territories. While direct exposure to troubled regions remains limited, the broader economic and regulatory ripple effects create operational complexities, potential cost increases, and demand fluctuations. Similarly, U.S. political volatility and global conflicts may dampen consumer spending in key segments like theme parks and media networks, intensifying revenue uncertainty.  
+
+**3. Sectoral Risk from Intensifying Competitive Pressures in Amusement & Recreation**  
+Disney’s exposure to the sector undergoing rapid technological and consumer behavior shifts—“Services-Miscellaneous Amusement & Recreation”—subjects it to fierce competition from digital-first entrants disrupting traditional content consumption and monetization models. This environment elevates risks related to subscriber retention, advertising revenue declines, and margin compression, challenging Disney’s ability to sustain stable cash flows and credit metrics.  
+
+---
+
+## Conclusion  
+
+Walt Disney Co’s 2023 credit risk profile is predominantly shaped by weakening profitability, elevated leverage, and constrained free cash flow amidst robust capital expenditure demands. The company’s moderate interest coverage and liquidity cushions provide only partial protection against earnings volatility and refinancing challenges. On the business front, concentrated equity award programs and indirect exposure to emerging but unprofitable streaming ventures introduce additional complexity and dilution risk. Externally, accelerating technological disruption, geopolitical uncertainties, and intensifying competitive dynamics further exacerbate operational and financial uncertainties. These converging factors emphasize structural and cyclical vulnerabilities that limit Disney’s credit resilience under adverse conditions, warranting cautious credit assessment despite its leading market position.
+# V0
+---------------------------------------------------
+**Key Rating Drivers for Walt Disney Co – 2025**
+
+**F1. Elevated Leverage and Cash Flow Volatility**  
+Walt Disney’s credit profile is pressured by its relatively high leverage, driven by substantial capital expenditures and acquisitions aimed at expanding its streaming and content capabilities. The company’s net debt to EBITDA ratio remains elevated compared to industry peers, limiting financial flexibility. Additionally, cash flow volatility persists, influenced by cyclical box office revenues and fluctuating advertising spending, which constrains Disney’s ability to rapidly deleverage or absorb shocks.
+
+**F1. Profitability Challenges Amid Rising Cost Pressures**  
+Profit margins have been compressed due to increased content production costs, licensing fees, and investments in technology platforms. The transition toward direct-to-consumer (DTC) streaming services requires ongoing significant spending to maintain subscriber growth and engagement, weighing on earnings before interest and taxes (EBIT). This margin pressure reduces internal cash generation strength, weakening overall creditworthiness.
+
+**F2. Execution Risks in Streaming and Digital Transformation Strategy**  
+Disney’s strategic pivot toward streaming faces execution risks, including intense competition from well-capitalized peers like Netflix and Amazon, rapidly evolving consumer preferences, and content saturation. The sustainability of subscriber growth and profitability remains uncertain, and any failure to effectively monetize the Disney+ platform could negatively impact long-term credit metrics. Furthermore, integrating acquired assets and balancing legacy media operations adds complexity to management’s agenda.
+
+**F2. High Operational and Geo-Political Exposure**  
+Disney’s diversified global operations expose the company to operational risks including geopolitical tensions, regulatory scrutiny, and varying degrees of market maturity, especially in key international markets. Regulatory developments around data privacy, content censorship, and antitrust enforcement could constrain business flexibility and growth prospects, with potential financial and reputational repercussions.
+
+**F3. Macroeconomic Uncertainty Impacting Consumer Demand**  
+The broader operating environment poses significant risks, including inflationary pressures adversely affecting discretionary consumer spending on theme parks, merchandise, and entertainment services. Economic downturns or recessions could dampen visitor volumes and reduce advertising revenues, pressuring top-line growth and cash flow stability. Additionally, renewed COVID-19 variants or other health crises may disrupt park operations and theatrical releases, adding unpredictability to earnings.
+
+**F3. Intensified Sectoral Competition and Rapid Technological Change**  
+The media and entertainment sector is characterized by swift technological innovation and disruptive competitive dynamics, challenging Disney’s ability to maintain market share. Emerging platforms and shifting content consumption patterns require continuous investment in technology and content, increasing capital intensity and execution risk. Failure to adapt quickly could weaken Disney’s competitive positioning and margin profile over the medium term.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |       Cash |      CapEx |   EBITDA Margin |        FFO |        CFO |       FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|-----------:|-----------:|----------------:|-----------:|-----------:|----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2024-09-30 | 1.4629e+10 | 6.002e+09  | -5.412e+09 |        0.160123 | 1.2358e+10 | 1.3971e+10 | 8.559e+09 |                 4.53086 |        3.07372 |           3.33194 |              0.175594  |       0.876844 |
+| 2023-09-30 | 1.2111e+10 | 1.4182e+10 | -4.969e+09 |        0.136235 | 1.0043e+10 | 9.866e+09  | 4.897e+09 |                 5.75972 |        4.10557 |           4.11981 |              0.0981461 |       3.27529  |
+| 2022-09-30 | 1.1997e+10 | 1.1615e+10 | -4.943e+09 |        0.145028 | 6.498e+09  | 6.01e+09   | 1.067e+09 |                 4.85638 |        6.30673 |           4.30174 |              0.0206751 |       3.78339  |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Declining EBITDA Margin Signals Pressure on Profitability and Debt Servicing Capacity  
+Walt Disney Co’s EBITDA margin has shown a mixed and somewhat weakening trend in recent years, rising slightly from 13.6% in 2023 to 16.0% in 2024, but still remaining modest relative to industry leaders like Vail Resorts which consistently report margins above 27%. The comparatively low margin constrains Disney’s ability to generate strong operating profitability essential for sustaining debt repayment, especially given the scale and ongoing investments the company undertakes. This margin profile, below peer benchmarks, indicates limited cushion against earnings volatility or macroeconomic shocks that could compress profitability further.
+
+#### 2. Moderation in Cash Flow Generation and Free Cash Flow Conversion Efficiency Raises Concerns  
+While Walt Disney’s funds from operations (FFO) and cash flow from operations (CFO) demonstrate generally consistent positive cash generation, the conversion of EBITDA to CFO and subsequently to free cash flow (FCF) highlights weakening efficiency. From 2022 to 2024, the free cash flow ratio (FCF/EBITDA) improved from approximately 2.1% to 17.6%, a positive sign, however, the absolute FCF growth is significantly outpaced by CapEx increases (rising from approximately $4.94 billion to $5.41 billion), constraining discretionary cash available. Additionally, CFO to EBITDA conversion, while stable, does not show strong improvement, thus limiting the company’s flexibility to build liquidity buffers or deleverage.
+
+#### 3. Elevated Leverage Metrics Compared to Peers Pose Medium-Term Credit Stress Risks  
+Disney’s leverage, measured as FFO leverage (Debt/FFO) and EBITDA leverage, has increased noticeably from approximately 3.07x and 3.33x in 2024 compared to over 6.3x and 4.3x in 2022 respectively, reflecting growing debt usage to support business expansion and capital expenditure. Although leverage is trending downward recently due to improved earnings, these levels remain higher and more volatile than notable peers such as Vail Resorts (FFO leverage ranging around 2.6x to 3.4x). Elevated leverage combined with a still modest EBITDA margin exposes Disney to potential debt servicing pressure if cash flows were to decline under stress scenarios.
+
+#### 4. Deterioration in Interest Coverage Ratios Limits Earnings Shock Absorption Capacity  
+The funds from operations interest coverage ratio has declined from 5.76x in 2023 to 4.53x in 2024, indicating a diminished buffer to absorb potential reductions in earnings or increases in debt servicing costs. Under reasonably adverse scenarios, such as a 10-20% decrease in FFO, coverage ratios could fall below 4x, heightening risk of covenant breaches or refinancing difficulties. This notably contrasts with Vail Resorts’ more stable coverage near 2-3x but with substantially lower absolute debt levels and smaller capital commitments.
+
+#### 5. Liquidity and Short-Term Debt Protection Constraints Highlight Refinancing Vulnerabilities  
+Despite maintaining approximately $6.0 billion in cash as of Q3 2024, Disney’s cash relative to short-term debt (Cash/ST Debt ratio of 0.88x) is materially weaker compared to previous years and well below peer levels (Vail Resorts at 0.73x but with far lower absolute debt). The declining free cash flow ratio (remaining below 0.18x) combined with high near-term capex commitments amplifies refinancing and liquidity risk, especially in an uncertain interest rate environment or market downturn. A sudden deterioration in cash flow generation could put immediate strain on liquidity buffers.
+
+#### 6. Substantial Capital Expenditure Requirements Sustain Cash Flow Strain and Limit Financial Flexibility  
+Capital expenditure remains elevated and is outpacing free cash flow generation, with CapEx increasing to $5.41 billion in 2024 from $4.97 billion in 2023. This ongoing high investment level—while supporting strategic growth—is a significant drain on free cash flow, restricting Disney’s ability to deleverage or accumulate cash reserves. The sustained CapEx burden increases financial risk if growth initiatives underperform or market conditions deteriorate, reducing operational cash inflows.
+
+---
+
+**Summary**: Walt Disney’s financial profile exhibits a combination of moderate profitability, elevated leverage, and constrained cash generation efficiency with capital expenditure pressures. The company’s debt servicing capacity and liquidity headroom remain vulnerable to cash flow volatility and adverse macroeconomic or sectoral conditions. Relative to peers, Disney’s weaker margins and interest coverage metrics underline potential credit risk challenges ahead, warranting a cautious credit outlook given the material refinancing and operational cash flow dependencies.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Moderate and Volatile EBITDA Margin Limits Profitability Cushion  
+Walt Disney’s EBITDA margin, although improving to 16.0% in 2024 from around 13.6% in 2023, remains moderate for a diversified media and entertainment company. This margin level offers limited buffer to absorb operational or macroeconomic shocks, particularly compared to higher-margin peers in related sectors. The margin recovery is fragile and sensitive to market conditions, limiting confidence in stable profitability to underpin debt servicing.
+
+#### 2. Elevated Leverage Ratios Reflect Substantial Debt Burden  
+Leverage metrics remain significant, with FFO leverage at approximately 3.07x and EBITDA leverage at 3.33x in 2024. While these represent improvement from peak levels in prior years (FFO leverage above 6x in 2022), they still indicate material indebtedness relative to cash flow generation. The leverage ratios are higher than those of relevant peers, signaling sustained financial risk and pressure on credit metrics, especially if cash flow deteriorates.
+
+#### 3. Interest Coverage Has Weakened, Reducing Earnings Shock Absorption  
+Funds from operations interest coverage declined from 5.76x in 2023 to 4.53x in 2024, indicating reduced capacity to absorb earnings volatility or interest cost increases. This downward trend tightens financial flexibility and may constrain the company’s ability to weather economic downturns or sector-specific pressures without affecting credit quality.
+
+#### 4. Liquidity Position Shows Decline Relative to Near-Term Debt Obligations  
+Cash on hand decreased materially from $14.18 billion in 2023 to $6.0 billion in 2024, while the ratio of cash to short-term debt fell sharply to 0.88x. This signals increased refinancing risk and tighter liquidity in the near term, given the company’s sizable upcoming debt maturities and continued capital expenditure requirements. A weak liquidity buffer is a notable credit risk under scenarios of cash flow disruption.
+
+#### 5. High Capital Expenditures Limit Free Cash Flow and Financial Flexibility  
+CapEx rose modestly to $5.41 billion in 2024, sustaining pressure on free cash flow generation. Although the company’s free cash flow of $8.56 billion in 2024 shows improvement over prior years, the free cash flow ratio (FCF/EBITDA) remains below 18%, reflecting a significant portion of cash flow allocated to growth investments. This limits discretionary cash available for debt reduction or liquidity reserve building.
+
+#### 6. Cash Flow Conversion from EBITDA to CFO and FCF Remains Moderate  
+While funds from operations and cash flow from operations exhibit solid positive values, the conversion of EBITDA into cash flow shows moderate efficiency, with the free cash flow ratio improving but remaining constrained by ongoing CapEx. There is some risk that working capital changes or investment requirements could impair cash flow quality, affecting credit metrics.
+
+---
+
+This financial profile highlights the key risks related to Walt Disney’s profitability, leverage, coverage, liquidity, and investment intensity. The company faces ongoing challenges managing elevated debt levels amid moderate margins and sizeable capital expenditure needs, which collectively compress financial flexibility and increase susceptibility to adverse earnings or cash flow shocks.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|    | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner        |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name               |
+|---:|:----------------------------|:-------------------|------------------------:|:-----------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------------------|
+|  0 | A                           | 2025-09-30         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                           844.4   |                    26702.3   |             1 |         nan | Disney Common Stock         |
+|  1 | A                           | 2025-09-30         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                           947.9   |                    20576.5   |             1 |         nan | Disney Common Stock         |
+|  2 | A                           | 2025-09-30         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                           869.2   |                    21201.2   |             1 |         nan | Disney Common Stock         |
+|  3 | A                           | 2025-09-30         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                           959.4   |                    34644.7   |             1 |         nan | Disney Common Stock         |
+|  4 | A                           | 2025-09-30         |                     nan | GORMAN JAMES P         |      4 | A-Award            | --D                            |                          1122.2   |                    26518     |             1 |         nan | Disney Common Stock         |
+|  5 | A                           | 2025-09-30         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                           766.6   |                     9884.5   |             1 |         nan | Disney Common Stock         |
+|  6 | A                           | 2025-09-30         |                     nan | Darroch Jeremy         |      4 | A-Award            | --D                            |                           818.4   |                     7073     |             1 |         nan | Disney Common Stock         |
+|  7 | A                           | 2025-09-30         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                           960.4   |                    24588.7   |             1 |         nan | Disney Common Stock         |
+|  8 | A                           | 2025-09-30         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                           844.4   |                    12952.5   |             1 |         nan | Disney Common Stock         |
+|  9 | A                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                           249     |                    16158     |             1 |         nan | Disney Common Stock         |
+| 10 | D                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                            90     |                    16068     |             2 |         nan | Disney Common Stock         |
+| 11 | A                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            45     |                    16113     |             3 |         nan | Disney Common Stock         |
+| 12 | D                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                            17     |                    16096     |             4 |         nan | Disney Common Stock         |
+| 13 | D                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                           249     |                        0     |             5 |         nan | Restricted Stock Unit       |
+| 14 | D                           | 2025-09-28         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                            45     |                        0     |             6 |         nan | Restricted Stock Unit       |
+| 15 | A                           | 2025-09-23         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1085     |                    52822     |             1 |         nan | Disney Common Stock         |
+| 16 | D                           | 2025-09-23         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           294     |                    52528     |             2 |         nan | Disney Common Stock         |
+| 17 | D                           | 2025-09-23         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1085     |                     1086     |             5 |         nan | Restricted Stock Unit       |
+| 18 | A                           | 2025-09-19         |                     nan | Schake Kristina K      |      4 | A-Award            | --D                            |                            77.571 |                      249.397 |             1 |         nan | Restricted Stock Unit       |
+| 19 | D                           | 2025-08-25         |                     nan | Coleman Sonia L        |      4 | S-Sale             | --D                            |                          1971     |                        0     |             1 |         nan | Disney Common Stock         |
+| 20 | A                           | 2025-07-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1147     |                    51990     |             1 |         nan | Disney Common Stock         |
+| 21 | A                           | 2025-07-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1167     |                     2390     |             1 |         nan | Disney Common Stock         |
+| 22 | D                           | 2025-07-17         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           253     |                    51737     |             2 |         nan | Disney Common Stock         |
+| 23 | D                           | 2025-07-17         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                           419     |                     1971     |             2 |         nan | Disney Common Stock         |
+| 24 | D                           | 2025-07-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1167     |                     2335     |             4 |         nan | Restricted Stock Unit       |
+| 25 | D                           | 2025-07-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1147     |                     2295     |             5 |         nan | Restricted Stock Unit       |
+| 26 | A                           | 2025-07-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1930     |                    51313     |             1 |         nan | Disney Common Stock         |
+| 27 | D                           | 2025-07-15         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           470     |                    50843     |             2 |         nan | Disney Common Stock         |
+| 28 | D                           | 2025-07-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1930     |                     9652     |             5 |         nan | Restricted Stock Unit       |
+| 29 | A                           | 2025-06-30         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                           821.6   |                    19628.6   |             1 |         nan | Disney Common Stock         |
+| 30 | A                           | 2025-06-30         |                     nan | Darroch Jeremy         |      4 | A-Award            | --D                            |                           764     |                     6254.6   |             1 |         nan | Disney Common Stock         |
+| 31 | A                           | 2025-06-30         |                     nan | GORMAN JAMES P         |      4 | A-Award            | --D                            |                          1046.7   |                    25395.8   |             1 |         nan | Disney Common Stock         |
+| 32 | A                           | 2025-06-30         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                           816.3   |                    23628.3   |             1 |         nan | Disney Common Stock         |
+| 33 | A                           | 2025-06-30         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                           764     |                    12108.1   |             1 |         nan | Disney Common Stock         |
+| 34 | A                           | 2025-06-30         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                           805.7   |                    20332     |             1 |         nan | Disney Common Stock         |
+| 35 | A                           | 2025-06-30         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                           764     |                    25857.9   |             1 |         nan | Disney Common Stock         |
+| 36 | A                           | 2025-06-30         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                           784.9   |                    33685.3   |             1 |         nan | Disney Common Stock         |
+| 37 | A                           | 2025-06-30         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                           698.6   |                     9117.9   |             1 |         nan | Disney Common Stock         |
+| 38 | A                           | 2025-06-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                          3675     |                    17224     |             1 |         nan | Disney Common Stock         |
+| 39 | D                           | 2025-06-27         |                     nan | Schake Kristina K      |      4 | F-InKind           | --D                            |                          1315     |                    15909     |             2 |         nan | Disney Common Stock         |
+| 40 | D                           | 2025-06-27         |                     nan | Schake Kristina K      |      4 | M-Exempt           | --D                            |                          3675     |                        0     |             3 |         nan | Restricted Stock Unit       |
+| 41 | A                           | 2025-06-23         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                           801     |                     1510     |             1 |         nan | Disney Common Stock         |
+| 42 | D                           | 2025-06-23         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                           287     |                     1223     |             2 |         nan | Disney Common Stock         |
+| 43 | D                           | 2025-06-23         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                           801     |                      801     |             4 |         nan | Restricted Stock Unit       |
+| 44 | A                           | 2025-06-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1105     |                     1105     |             1 |         nan | Disney Common Stock         |
+| 45 | A                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1088     |                    47919     |             1 |         nan | Disney Common Stock         |
+| 46 | D                           | 2025-06-15         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                           396     |                      709     |             2 |         nan | Disney Common Stock         |
+| 47 | D                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           240     |                    47679     |             2 |         nan | Disney Common Stock         |
+| 48 | A                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          2185     |                    49864     |             3 |         nan | Disney Common Stock         |
+| 49 | D                           | 2025-06-15         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1105     |                     1107     |             4 |         nan | Restricted Stock Unit       |
+| 50 | D                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           481     |                    49383     |             4 |         nan | Disney Common Stock         |
+| 51 | D                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1088     |                     1088     |             7 |         nan | Restricted Stock Unit       |
+| 52 | D                           | 2025-06-15         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          2185     |                     6555     |             8 |         nan | Restricted Stock Unit       |
+| 53 | D                           | 2025-05-13         |                     nan | WOODFORD BRENT         |      4 | S-Sale             | --D                            |                          1000     |                    46831     |             1 |         nan | Disney Common Stock         |
+| 54 | A                           | 2025-03-31         |                     nan | Barra Mary T           |      4 | A-Award            | --D                            |                          1032.4   |                    22812     |             1 |         nan | Disney Common Stock         |
+| 55 | A                           | 2025-03-31         |                     nan | Chang Amy              |      4 | A-Award            | --D                            |                           961     |                    11344.1   |             1 |         nan | Disney Common Stock         |
+| 56 | A                           | 2025-03-31         |                     nan | Darroch Jeremy         |      4 | A-Award            | --D                            |                           932     |                     5490.6   |             1 |         nan | Disney Common Stock         |
+| 57 | A                           | 2025-03-31         |                     nan | Everson Carolyn        |      4 | A-Award            | --D                            |                           870.5   |                     8419.3   |             1 |         nan | Disney Common Stock         |
+| 58 | A                           | 2025-03-31         |                     nan | Froman Michael B. G.   |      4 | A-Award            | --D                            |                           995.2   |                    19526.3   |             1 |         nan | Disney Common Stock         |
+| 59 | A                           | 2025-03-31         |                     nan | GORMAN JAMES P         |      4 | A-Award            | --D                            |                          1265.7   |                    24349.1   |             1 |         nan | Disney Common Stock         |
+| 60 | A                           | 2025-03-31         |                     nan | LAGOMASINO MARIA ELENA |      4 | A-Award            | --D                            |                          1141.2   |                    32900.4   |             1 |         nan | Disney Common Stock         |
+| 61 | A                           | 2025-03-31         |                     nan | MCDONALD CALVIN        |      4 | A-Award            | --D                            |                           961     |                    25093.9   |             1 |         nan | Disney Common Stock         |
+| 62 | A                           | 2025-03-31         |                     nan | Rice Derica W          |      4 | A-Award            | --D                            |                          1073     |                    18807     |             1 |         nan | Disney Common Stock         |
+| 63 | D                           | 2025-01-22         |                     nan | Coleman Sonia L        |      4 | S-Sale             | --D                            |                           689     |                        0     |             1 |         nan | Disney Common Stock         |
+| 64 | A                           | 2025-01-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1166     |                     1166     |             1 |         nan | Disney Common Stock         |
+| 65 | A                           | 2025-01-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1147     |                    48084     |             1 |         nan | Disney Common Stock         |
+| 66 | D                           | 2025-01-17         |                     nan | Coleman Sonia L        |      4 | F-InKind           | --D                            |                           477     |                      689     |             2 |         nan | Disney Common Stock         |
+| 67 | D                           | 2025-01-17         |                     nan | WOODFORD BRENT         |      4 | F-InKind           | --D                            |                           253     |                    47831     |             2 |         nan | Disney Common Stock         |
+| 68 | D                           | 2025-01-17         |                     nan | Coleman Sonia L        |      4 | M-Exempt           | --D                            |                          1166     |                     3502     |             4 |         nan | Restricted Stock Unit       |
+| 69 | D                           | 2025-01-17         |                     nan | WOODFORD BRENT         |      4 | M-Exempt           | --D                            |                          1147     |                     3442     |             5 |         nan | Restricted Stock Unit       |
+| 70 | A                           | 2025-01-15         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                         24607     |                    24607     |             1 |         nan | Stock Option (Right-to-Buy) |
+| 71 | A                           | 2025-01-15         |                     nan | Gutierrez Horacio E    |      4 | A-Award            | --D                            |                         66659     |                    66659     |             1 |         nan | Stock Option (Right-to-Buy) |
+| 72 | A                           | 2025-01-15         |                     nan | Johnston Hugh F        |      4 | A-Award            | --D                            |                         80490     |                    80490     |             1 |         nan | Stock Option (Right-to-Buy) |
+| 73 | A                           | 2025-01-15         |                     nan | Schake Kristina K      |      4 | A-Award            | --D                            |                         22669     |                    22669     |             1 |         nan | Stock Option (Right-to-Buy) |
+| 74 | A                           | 2025-01-15         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                         14193     |                    14193     |             1 |         nan | Stock Option (Right-to-Buy) |
+| 75 | A                           | 2025-01-15         |                     nan | Coleman Sonia L        |      4 | A-Award            | --D                            |                          8606     |                     8606     |             2 |         nan | Restricted Stock Unit       |
+| 76 | A                           | 2025-01-15         |                     nan | Gutierrez Horacio E    |      4 | A-Award            | --D                            |                         23313     |                    23313     |             2 |         nan | Restricted Stock Unit       |
+| 77 | A                           | 2025-01-15         |                     nan | Johnston Hugh F        |      4 | A-Award            | --D                            |                         28150     |                    28150     |             2 |         nan | Restricted Stock Unit       |
+| 78 | A                           | 2025-01-15         |                     nan | Schake Kristina K      |      4 | A-Award            | --D                            |                          7928     |                     7928     |             2 |         nan | Restricted Stock Unit       |
+| 79 | A                           | 2025-01-15         |                     nan | WOODFORD BRENT         |      4 | A-Award            | --D                            |                         11582     |                    11582     |             2 |         nan | Restricted Stock Unit       |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+---
+
+#### 1. Elevated Insider Selling Activity Suggests Potential Governance Concerns and Strategic Uncertainty
+
+The issuer transactions data for Walt Disney Co in 2025 show a notably high volume of insider sales, primarily through "A-Award" transactions, indicative of stock awards and related dispositions. The number of securities transacted by multiple insiders, including senior executives such as the CFO and CEO-equivalents, is substantial, often in the thousands or tens of thousands of shares per transaction. This persistent and concentrated pattern of selling—without any corresponding acquisitions or offsetting insider purchases—may reflect a reduced long-term confidence in the company’s strategic direction or prospects. While some divestitures can be attributed to routine portfolio diversification or standard compensation exercises, the absence of insider acquisitions raises concerns about possible negative outlooks within senior management ranks or potential governance misalignments.
+
+---
+
+#### 2. Lack of Insider Buying and Concentrated Disposition Raises Questions on Strategic Alignment
+
+The absence of insider purchasing activity combined with multiple instances of large-scale award-based transactions followed by immediate sell-offs implies dilution risk and potentially deteriorating insider commitment. This is especially significant since key insiders—who typically have superior knowledge of strategic initiatives—are reducing their net holdings. Such a pattern may indicate divergence between management’s incentives and long-term shareholder value creation, undermining confidence in strategic initiatives, particularly in a highly competitive and rapidly evolving media and entertainment sector. The continued issuance of awards leading to share-selling pressures could also exacerbate shareholder dilution concerns, potentially weakening the company’s internal alignment and raising risks related to compensation governance.
+
+---
+
+#### 3. No Significant Shifts in Ownership Concentration but Potentially Weakened Managerial Commitment
+
+Despite the volume of insider transactions, ownership among key executives appears to remain relatively stable without clear evidence of rising ownership concentration or significant shifts in control. However, the steady flow of shares out of insiders’ hands without meaningful purchases reflects a potential shift towards ownership dispersion and diluted managerial influence. This trend could impact decision-making agility and strategic coherence at a time when the company faces heightened competitive and technological disruptions. The data suggest a possible waning of insider alignment that traditionally supports long-term strategic stability, which may translate into slower or less decisive responses to emerging industry challenges.
+
+---
+
+#### 4. Limited Impact of Group Structure on Business Profile but Exposure to Subsidiary Risk Exists
+
+Walt Disney Co maintains partial ownership of fuboTV Inc., indicating some degree of involvement in higher-risk or emerging streaming ventures. While this minority ownership might limit direct financial and operational risk from the subsidiary, the exposure highlights potential strategic complexity and resource allocation challenges. The subsidiaries operate in capital-intensive, low-margin competitive environments which may require ongoing investment support from the parent. If the parent company faces strategic or financial setbacks, this could constrain support to subsidiaries, elevating overall credit risk. Conversely, any weakening in subsidiary performance could weigh on the broader group’s reputation and cash flow generation.
+
+---
+
+#### Summary
+
+In sum, the business profile of Walt Disney Co in 2025 is marked by indications of weakened insider confidence and governance friction, stemming primarily from elevated insider selling and dilution-related pressures. These factors, combined with the operational complexities related to partial stakes in volatile streaming subsidiaries, suggest heightened strategic risks that weigh negatively on credit quality. The absence of insider buying activity and possible internal misalignment may impair the company’s ability to sustain a cohesive strategic direction during a challenging industry transition phase.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+---
+
+1. Elevated insider selling primarily through award-related transactions signals potential governance and incentive misalignment risks. A high volume of shares awarded to insiders followed by significant sales may create dilution pressure on existing shareholders and suggests limited insider conviction in the company’s near-term outlook.
+
+2. The data reveal no insider purchases to offset disposals, indicating weakened insider commitment and alignment with long-term shareholder value creation. This trend raises concerns over management’s confidence in executing strategic initiatives amidst evolving industry dynamics.
+
+3. Insider ownership remains broadly stable without signs of increasing concentration, yet the steady selling of awarded shares contributes to ownership dispersion. This can dilute managerial influence and reduce alignment between management and shareholders, potentially impairing strategic decisiveness.
+
+4. Walt Disney Co holds a partial ownership interest in fuboTV Inc., exposing it to the operational and financial risks inherent in the competitive and capital-intensive streaming sector. This minority stake adds complexity to the group’s business profile and could require continued resource allocation to support growth in an uncertain environment.
+
+5. The absence of major insider transactions linked to corporate events or restructuring suggests that insider activity is primarily compensation-related rather than driven by strategic shifts; however, ongoing high-volume sales tied to awards may pressure stock valuation and investor perception.
+
+---
+
+Overall, the business profile reflects potential challenges in governance, incentive alignment, and subsidiary risk exposure—all of which contribute to increased credit risk considerations for Walt Disney Co heading into 2025.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+#### 1. Escalating Geopolitical Instability and Regional Conflicts  
+Walt Disney Co faces ongoing risks from geopolitical tensions, particularly stemming from conflicts such as the 2014 Ukraine crisis involving Russia’s annexation of Crimea and the war in Donbas. These events have contributed to an unpredictable global operating environment, heightening risks to Disney’s international business operations, content distribution, and market penetration strategies in affected regions. Political instability can disrupt supply chains, increase operational costs, and limit growth opportunities in strategically important markets, thereby constraining Disney’s geographic diversification and revenue stability.
+
+#### 2. Rapid Technological Disruption in Consumer Entertainment  
+The emergence of advanced disruptive technologies, including AI chatbots like OpenAI's ChatGPT (2022) and platforms such as Roblox (released in 2006 but rapidly evolving as a digital entertainment ecosystem), presents ongoing challenges to Walt Disney’s traditional business models. These digital innovations are reshaping consumer preferences towards interactive, user-generated, and AI-driven content, creating pressure on Disney to accelerate digital transformation and innovation. Failure or delay in adapting to these disruptive technologies may erode Disney’s competitive positioning, revenues, and profitability over the medium term.
+
+#### 3. Socio-Political Volatility in Key Markets  
+Walt Disney is exposed to the risks arising from socio-political unrest and power transfers, exemplified by events like the 2019 US presidential impeachment proceedings and broader political polarization in major markets. These developments contribute to an uncertain regulatory and consumer sentiment environment, potentially impacting advertising spending, consumer discretionary expenditures, and regulatory oversight on entertainment content. This volatility may increase the risk of sudden regulatory changes, content censorship, or consumer boycotts, thereby affecting revenue predictability.
+
+#### 4. Macroeconomic Pressures from Global Military Escalations  
+Military escalations and terrorist incidents, such as the targeted killing of Qasem Soleimani in 2020, exacerbate global economic uncertainty and elevate geopolitical risks. Such events can lead to fluctuations in consumer confidence, travel, and entertainment spending, all of which weigh negatively on Disney’s theme parks, resorts, and media networks revenue streams. Heightened geopolitical tensions also risk impacting cross-border investment and complicate strategic partnerships and content distribution agreements.
+
+---
+
+### Summary  
+Walt Disney’s operating environment in 2025 is characterized by elevated geopolitical risks, rapid technological disruptions, and socio-political volatility in key markets. These external factor challenges introduce material risks to Disney’s international expansion, innovation adoption curve, regulatory compliance, and consumer engagement stability, which weigh on the company’s credit risk profile despite its market stature. Management’s ability to effectively navigate these complex operating environment dynamics will be critical to sustaining financial flexibility and creditworthiness.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+#### 1. Geopolitical Risks and Regional Conflicts  
+Walt Disney remains exposed to geopolitical instability, particularly linked to events such as the 2014 Ukraine crisis involving Russia’s annexation of Crimea and ongoing conflict in Donbas. These tensions heighten operational risks in affected regions, potentially disrupting content distribution, local market performance, and supply chains. Prolonged conflicts and political uncertainty in key international markets could limit Disney’s growth potential and increase costs related to regulatory compliance and risk management.
+
+#### 2. Disruptive Technological Advances in Digital Entertainment  
+The rise of disruptive digital platforms and technologies, exemplified by the launch of Roblox and AI innovations like OpenAI’s ChatGPT, continues to transform consumer engagement in the entertainment sector. These developments place pressure on Disney to adapt its content creation, distribution, and technological infrastructure rapidly. Failure to keep pace with evolving consumer preferences towards interactive, AI-driven, and user-generated content may reduce Disney’s market share and revenue growth prospects in the increasingly digital entertainment landscape.
+
+#### 3. Heightened Socio-Political Uncertainty in Major Markets  
+Ongoing socio-political instability—including power transfers and political polarization—creates an uncertain regulatory environment for Disney in its largest markets. Although the 2019 US impeachment event is historical, the broader category of political instability reflects continued risks of regulatory changes, shifts in consumer sentiment, and potential restrictions on content. These factors may lead to volatility in advertising revenues, disruptions in consumer spending on discretionary entertainment, and reputational risks.
+
+#### 4. Sector-Specific Vulnerability to Global Macroeconomic and Security Shocks  
+While direct recent military escalations (e.g., 2020 Qasem Soleimani event) may not have had a sustained impact, such macroeconomic shocks increase overall uncertainty and risk aversion among consumers globally. This environment can depress attendance at Disney’s theme parks and resorts, reduce advertising budgets, and constrain discretionary spending on entertainment. Persistent global security risks amplify challenges to stable cash flows and operational predictability.
+
+---
+
+Overall, Walt Disney’s credit risk profile is adversely influenced by persistent geopolitical uncertainties, accelerating technological disruption, and socio-political volatility within its key operating regions. These external pressures require sustained strategic focus and capital allocation to mitigate risks, maintain competitive positioning, and safeguard long-term financial stability.
+# FINAL
+---------------------------------------------------
+**Walt Disney Co – Credit Risk Report 2025**  
+**Section: Key Rating Drivers**
+
+---
+
+This section outlines the principal factors shaping Walt Disney Co’s credit risk profile as of 2025. While the company benefits from a strong brand and diversified entertainment portfolio, significant risks persist, particularly related to its financial leverage, profitability volatility, governance concerns, and the challenging external operating environment. The following key rating drivers focus predominantly on negative impacts and vulnerabilities drawn from recent financial performance, strategic decisions, and macroeconomic conditions.
+
+---
+
+### Financial Profile (F1)
+
+**1. Elevated Leverage Ratios Sustain Material Debt Burden**  
+Despite some deleveraging from historic peaks, Walt Disney’s financial structure remains highly leveraged with FFO leverage near 3.1x and EBITDA leverage above 3.3x in 2024. This indebtedness level exceeds that of many peers and contributes to elevated credit risk, as ongoing debt servicing demands constrain cash flow flexibility. The company’s sizeable debt stock also limits room to maneuver in downturn scenarios, increasing refinancing and liquidity pressures.
+
+**2. Declining Interest Coverage Weakens Earnings Shock Absorption**  
+Funds from operations (FFO) interest coverage has deteriorated from 5.76x in 2023 to approximately 4.53x in 2024. This decline reduces the company's ability to absorb income volatility or rising interest expense, heightening vulnerability to adverse macroeconomic shocks or operational setbacks. The shrinking coverage ratio signals tightening financial flexibility, impacting credit quality under stress.
+
+**3. Moderate and Volatile Profitability Margins Limit Cushion Against Shocks**  
+The company’s EBITDA margin, though on a recovery trajectory to 16.0% in 2024 (from 13.6% in 2023), remains moderate by industry standards. Such margins afford limited earnings resilience against operational disruptions or economic downturns. Given continued margin volatility and competitive pressures, sustained stable profitability is uncertain, posing risks to sustained debt coverage.
+
+**4. Liquidity Position Has Eroded Significantly Relative to Short-Term Obligations**  
+Walt Disney’s cash reserves contracted sharply from $14.18 billion in 2023 to $6.0 billion in 2024, while the coverage ratio of cash to short-term debt fell below parity at 0.88x. This drop signals increased near-term refinancing risk and raises concerns about the adequacy of liquidity buffers in the face of upcoming maturities and ongoing capital expenditures. Weaker liquidity heightens the risk profile during periods of operational stress or capital market volatility.
+
+**5. High Capital Expenditures Continue to Strain Free Cash Flow Generation**  
+Sustained elevated CapEx—$5.41 billion in 2024—limits Walt Disney’s free cash flow (FCF) conversion and overall financial flexibility. Although free cash flow improved to $8.56 billion, the FCF-to-EBITDA ratio remains below 18%, underscoring heavy reinvestment requirements that reduce discretionary cash for debt reduction or liquidity enhancement. Persistent capital spend demands constrain the company’s ability to de-lever or build financial cushions in uncertain environments.
+
+---
+
+### Business Profile (F2)
+
+**1. Governance and Incentive Misalignment Reflected in Elevated Insider Share Selling**  
+Recent patterns of significant insider selling—mainly from award-related share disposals without offsetting insider purchases—highlight potential misalignment between management incentives and long-term shareholder interests. This dynamic may impair governance quality and raises questions about management’s confidence in executing strategic objectives amid evolving market challenges. The selling may also contribute to shareholder dilution and downward pressure on stock valuation.
+
+**2. Minority Stake in fuboTV Adds Exposure to Competitive Streaming Sector Risks**  
+Walt Disney’s partial ownership of fuboTV exposes the firm to the operational volatility and capital intensity of the streaming industry, a segment marked by fierce competition and uncertain path to profitability. Continued support for this subsidiary could divert resources and add complexity to corporate strategy execution, exacerbating business risk within Disney’s broader portfolio.
+
+**3. Dilution of Insider Ownership and Dispersed Managerial Influence**  
+Stable but non-increasing insider ownership levels, coupled with ongoing share disposals, contribute to ownership dispersion. This reduces the concentration of managerial influence, potentially weakening decisive strategic governance and lowering alignment with shareholder value creation over the long term.
+
+---
+
+### Operating Environment (F3)
+
+**1. Persistent Geopolitical Risks Heighten Operational and Financial Uncertainty**  
+Ongoing geopolitical tensions, notably linked to Russia-Ukraine conflicts and other regional instabilities, continue to impair Disney’s operations in affected international markets. Elevated risk of supply chain disruptions, regulatory interventions, and market access restrictions increase the cost of doing business and limit growth prospects abroad. These factors amplify uncertainty in cash flow stability and investment returns.
+
+**2. Accelerating Technological Disruption Challenges Content and Distribution Models**  
+Rapid advances in AI, user-generated content platforms (e.g., Roblox), and digital entertainment innovation place substantial pressure on Disney to continuously adapt its product offerings and technological infrastructure. Failure to swiftly respond to shifting consumer preferences or disruptive competitors may erode Disney’s market share and revenue growth potential, increasing strategic execution risks.
+
+**3. Heightened Socio-Political and Regulatory Volatility in Key Markets**  
+Political polarization, regulatory shifts, and social unrest in major markets, including the United States, inject regulatory and reputational risks. These conditions create an unpredictable commercial landscape, potentially disrupting advertising revenues, consumer demand patterns, and content approval processes. Such volatility could impair earnings predictability and heighten operational risk.
+
+**4. Sector-Specific Vulnerability to Macroeconomic and Security Shocks**  
+Global macroeconomic uncertainty, compounded by episodic security incidents, continues to dampen discretionary consumer spending on entertainment and leisure. This cyclicality affects attendance at Disney’s theme parks and resorts, advertising budgets, and media revenues, resulting in fluctuating earnings and cash flow volatility. Persistent exposure to these shocks constrains long-term financial stability.
+
+---
+
+### Conclusion
+
+Walt Disney Co’s credit risk profile entering 2025 is principally shaped by persistent financial vulnerabilities—namely elevated leverage, compressing profitability margins, and weakening liquidity—and compounded by governance concerns and challenging external conditions. The company faces a delicate balance of maintaining growth investments amid intensifying technological disruption and geopolitical uncertainties, all while managing significant debt burdens. These factors collectively heighten credit risk and reduce financial flexibility, underscoring the need for disciplined operational and financial management to safeguard credit quality going forward.
+# V0
+---------------------------------------------------
+### Key Rating Drivers for ALASKA AIR GROUP, INC. – 2022
+
+#### F1 – Financial Profile: Elevated Leverage and Moderate Profitability Constrain Financial Flexibility  
+Alaska Air Group’s financial profile remains pressured by elevated leverage levels stemming from sustained capital expenditure programs and recovery investments following the COVID-19 pandemic. Although operating cash flow has improved in 2022 with the rebound in travel demand, the company's adjusted debt-to-EBITDAR ratio remains elevated relative to investment-grade peers, limiting headroom for additional leverage or liquidity shocks. Profitability metrics, while recovering, have not yet reached pre-pandemic levels, resulting in moderate EBITDA margins that constrain internal cash generation capacity. Additionally, exposure to volatile fuel prices and potential interest rate increases poses further risk to margins and cash flow stability. These factors collectively reduce the company’s financial flexibility, making it vulnerable to unexpected operational disruptions or economic downturns.
+
+#### F2 – Business Profile: Highly Cyclical and Competitive Operating Segment with Limited Diversification  
+Alaska Air Group operates within the highly cyclical and capital-intensive U.S. airline industry, which remains intensely competitive amid ongoing capacity discipline by larger network carriers and the aggressive expansion of low-cost rivals. The company’s relatively concentrated route network on the U.S. West Coast and reliance on passenger travel volumes expose it to fluctuations in consumer demand and regional economic conditions. Constraints on network diversification and limited scale relative to major competitors restrict Alaska Air’s pricing power and ability to absorb cost inflation. Furthermore, strategic decisions to resume and expand capacity post-pandemic increase operational leverage and risk if demand weakens. Governance and management quality are generally sound but must navigate complex labor relations and regulatory scrutiny, adding layers of operational uncertainty.
+
+#### F3 – Operating Environment: Continued Macroeconomic Uncertainty and Regulatory Challenges  
+The operating environment for Alaska Air Group remains challenging due to persistent macroeconomic and sectoral headwinds. Inflationary pressures continue to elevate operating costs, notably labor and jet fuel expenses, while ongoing supply chain disruptions threaten smooth aircraft maintenance and parts availability. Macroeconomic uncertainty, including risks of recession and volatile consumer confidence, could dampen discretionary travel demand, directly impacting revenues. Moreover, evolving regulatory frameworks focusing on environmental sustainability impose further compliance costs and necessitate capital investments in fleet modernization and carbon emissions reduction initiatives. Additionally, heightened security measures and fluctuating international travel restrictions add complexity to operational planning, thereby increasing the company’s risk exposure in an already fragile sector.
+
+---
+
+The cumulative impact of these factors justifies a cautious credit risk assessment for Alaska Air Group, reflecting constrained financial flexibility, sector-specific vulnerabilities, and an uncertain operating backdrop.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |   EBITDA |     Cash |      CapEx |   EBITDA Margin |       FFO |       CFO |       FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|---------:|---------:|-----------:|----------------:|----------:|----------:|----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2022-12-31 | 5.88e+08 | 3.38e+08 | -1.671e+09 |       0.0609579 | 1.825e+09 | 1.418e+09 | -2.53e+08 |                 26.7042 |        1.99367 |           6.42857 |             -0.0669312 |        1.22464 |
+| 2021-12-31 | 1.14e+09 | 4.7e+08  | -2.92e+08  |       0.184585  | 1.148e+09 | 1.03e+09  |  7.38e+08 |                 11.5321 |        3.2506  |           3.58421 |              0.180617  |        1.28415 |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)  
+The financial profile of Alaska Air Group, Inc. reveals several credit risk factors predominantly shaped by declining profitability, weakening cash flow fundamentals, and pressures on liquidity and leverage metrics, particularly when viewed in the context of sector peers such as JetBlue Airways Corp.   
+
+---
+
+#### 1. Significant Decline in Profitability and EBITDA Margin  
+Alaska Air Group’s EBITDA margin deteriorated sharply from approximately 18.5% in 2021 to just 6.1% in 2022. This steep margin contraction signals a sharp decline in operational profitability and reduces the cushion available to absorb shocks while servicing debt obligations. Compared with JetBlue, which operates on a thinner margin base (just 3.2% in 2022, down from 7.8% in 2021), Alaska’s relative profitability remains somewhat better. However, the rapid erosion within a single year highlights potential risks of margin volatility amid ongoing sector challenges such as elevated fuel prices, labor cost inflation, or uneven demand recovery. Such margin pressure undermines Alaska’s capacity to generate consistent earnings sufficient to maintain credit metrics and repay debt.   
+
+---
+
+#### 2. Weakening Free Cash Flow and Negative Cash Conversion Efficiency  
+While Operating Cash Flow (CFO) remained positive and relatively stable at $1.42 billion in 2022 (up from $1.03 billion in 2021), free cash flow (FCF) turned negative, recording a deficit of approximately -$253 million in 2022 compared to a positive $738 million in 2021. This reversal primarily reflects a sharp increase in capital expenditures (CapEx surging from $292 million to over $1.67 billion), stressing Alaska’s ability to internally fund investment needs. The negative free cash flow raises concerns about sustainability of CapEx levels relative to cash generation. Furthermore, a negative free cash flow ratio (-6.7%) suggests a deterioration in cash conversion quality, as EBITDA growth is not translating into available cash for discretionary use or debt reduction. Compared to JetBlue, which also experienced negative FCF in 2022 amid high CapEx, Alaska’s cash conversion is somewhat fragile, particularly if capital spending remains elevated.   
+
+---
+
+#### 3. Elevated Leverage and Reduced Financial Flexibility  
+Alaska Air’s leverage metrics have worsened notably. EBITDA leverage increased to approximately 6.4x in 2022 from 3.6x the prior year, indicating a doubling of debt relative to earnings before interest, taxes, depreciation, and amortization. Similarly, FFO leverage stands near 2.0x, up from 1.3x in 2021, suggesting higher indebtedness compared to funds from operations. These leverage levels imply greater balance sheet risk and reduced flexibility to withstand cyclical downturns or adverse market conditions. Notably, Alaska’s leverage remains lower than JetBlue’s (EBITDA leverage approximately 14.8x in 2022), reflecting relatively more prudent debt levels but still signaling pressure on credit fundamentals, particularly given Alaska’s declining profitability and negative free cash flow. The rising indebtedness magnifies refinancing and liquidity risks over the medium term if cash flows fail to improve.  
+
+---
+
+#### 4. Strong Interest Coverage Ratio Masking Potential Vulnerability under Stress  
+At first glance, Alaska exhibits a robust FFO interest coverage ratio exceeding 26x for 2022, a notable increase from 11.5x in 2021, reflecting currently manageable interest expenses relative to operating cash flow. However, this figure may be somewhat inflated by non-cash adjustments or temporary factors boosting FFO. Under a stress scenario with a 10-20% reduction in FFO, coverage could weaken materially, potentially below levels customary for strong investment-grade credits. The sharp rise in leverage coupled with declining EBITDA margins heightens vulnerability to earnings volatility, which may rapidly erode debt servicing capacity. The company’s ability to maintain such robust coverage hinges heavily on sustained operating performance and manageable debt costs over time.  
+
+---
+
+#### 5. Marginal Liquidity Position with Elevated Near-Term Refinancing Risk  
+Liquidity metrics for Alaska Air Group reveal limited near-term cash buffers. The company’s cash to short-term debt ratio stands at approximately 1.22x, down slightly from 1.28x the prior year, indicating only modest coverage of immediate debt maturities and increased refinancing pressures. Furthermore, negative free cash flow and significant CapEx requirements curtail internal liquidity generation, while cash balances declined from $470 million to $338 million in 2022. The free cash flow ratio below zero compounds concerns about Alaska’s ability to self-fund debt repayments or capital investments without resorting to external financing. Compared to JetBlue, which has a higher cash to ST debt coverage (~1.88x) but similarly negative free cash flow, Alaska’s liquidity position is tighter and more susceptible to adverse market or operational disruption. This raises questions about Alaska’s near-term refinancing risk, especially under scenarios of declining cash flows or tighter credit markets.  
+
+---
+
+#### 6. Discrepancies Between EBITDA Growth and Cash Flow Indicative of Cash Quality Risks  
+The divergence between Alaska’s EBITDA and free cash flow growth suggests deteriorating cash generation quality. Despite EBITDA of approximately $588 million in 2022, negative free cash flow and increased CapEx imply cash tied up in investments or working capital changes rather than available for debt reduction. This discrepancy raises caution regarding the sustainability of reported earnings and potential volatility in actual liquidity, affecting the predictability of credit metrics. Efficient conversion of EBITDA into cash flow is critical in the capital-intensive airline industry; Alaska’s current trajectory indicates weakening efficiency that could exacerbate credit risk if unchecked.  
+
+---
+
+### Summary  
+Alaska Air Group’s financial profile in 2022 is marked by weakening profitability, negative free cash flow, rising leverage, and constrained liquidity. These trends, combined with elevated capital expenditures and pressure on cash conversion, raise concerns about the company’s ability to sustain operational performance and maintain financial flexibility in a challenging macroeconomic and sector environment. Although interest coverage remains strong on the surface, sensitivity to earnings volatility and refinancing risks cannot be overlooked. Relative to peers, Alaska fares moderately but faces clear downside risks in its capacity to generate consistent and accessible cash flow necessary to support debt obligations and investment needs amid an uncertain operating environment.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)  
+
+---
+
+#### 1. Sharp Decline in Profitability and EBITDA Margin  
+Alaska Air Group’s EBITDA margin contracted significantly from 18.5% in 2021 to 6.1% in 2022. This steep decline reflects lower operational profitability and reduces earnings available to support debt servicing and reinvestment. The margin erosion signals heightened sensitivity to cost pressures and volume volatility, increasing earnings volatility risk amid an uneven recovery in air travel demand. Although still above peer JetBlue’s depressed margin of 3.2% in 2022, the rapid decline is a negative credit factor.  
+
+---
+
+#### 2. Negative Free Cash Flow and Elevated Capital Expenditures  
+Free cash flow turned negative in 2022, with a deficit of approximately $253 million compared to positive free cash flow in 2021. This shift was driven by a substantial increase in capital expenditures, which surged from $292 million to nearly $1.67 billion. The negative free cash flow indicates that operational cash generation is insufficient to cover investment needs, raising concerns about funding sources and capital allocation priorities amid ongoing liquidity demands.  
+
+---
+
+#### 3. Increasing Leverage Levels and Reduced Cushion  
+Leverage ratios deteriorated notably, with EBITDA leverage rising from 3.6x to 6.4x and funds from operations (FFO) leverage increasing from 1.3x to 2.0x between 2021 and 2022. These higher leverage levels reflect increased indebtedness relative to cash earnings capacity, signaling reduced financial flexibility. Though still lower than JetBlue’s extremely high EBITDA leverage of 14.8x, Alaska’s rising leverage amplifies credit risk and heightens sensitivity to any earnings disruption or unexpected cash outflows.  
+
+---
+
+#### 4. Liquidity Pressures from Tight Cash to Short-Term Debt Coverage  
+The cash to short-term debt ratio modestly declined to 1.22x in 2022, indicating that the company holds limited liquid resources relative to near-term debt obligations. Meanwhile, cash balances fell from $470 million to $338 million. Combined with negative free cash flow, this suggests increasing reliance on external funding or debt refinancing to meet obligations, which may be challenging in adverse market conditions or if cash flow weakens further.  
+
+---
+
+#### 5. Free Cash Flow Ratio and Cash Conversion Efficiency Deterioration  
+The negative free cash flow ratio of approximately -6.7% in 2022, down from a positive 18% in 2021, signals worsening operational cash generation relative to EBITDA. This deterioration implies that a growing portion of EBITDA is consumed by elevated CapEx or working capital needs rather than translating into free cash for debt servicing or discretionary uses, weakening Alaska’s overall cash flow quality.  
+
+---
+
+#### 6. Elevated Interest Coverage Appears Sustainable but Sensitive to Cash Flow Volatility  
+FFO interest coverage increased significantly to around 26.7x in 2022, reflecting substantial funds from operations relative to interest expense. However, this elevated ratio may partly reflect timing or non-recurring influences and could deteriorate if earnings or cash flows decline. Given rising leverage and margin pressure, coverage remains vulnerable to negative earnings shocks or adverse macroeconomic developments.  
+
+---
+
+#### 7. Rising Capital Expenditure Requirements Increase Funding Risk  
+The leap in capital expenditures by nearly sixfold from 2021 to 2022 indicates aggressive investment, likely in fleet renewal or infrastructure. While such investment supports strategic positioning, it burdens cash flow and financing needs. Sustained high CapEx with negative free cash flow amplifies refinancing and liquidity risks, especially if operating performance does not improve commensurately.  
+
+---
+
+### Summary  
+Alaska Air Group’s financial profile shows material weakening in profitability and cash flow stability in 2022, driven by sharply lower EBITDA margins, a swing to negative free cash flow amid high capital expenditures, and increasing leverage. Liquidity cushions have eroded modestly, heightening near-term refinancing risks. While interest coverage remains strong currently, the company’s financial metrics are sensitive to earnings volatility and adverse operating conditions. These factors combine to increase credit risk compared to recent years and underscore the need for sustained operational recovery and prudent financial management to stabilize leverage and liquidity.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner           |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name                     |
+|----:|:----------------------------|:-------------------|------------------------:|:--------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------------------------|
+| 394 | D                           | 2022-12-09         |                     nan | SPRAGUE JOSEPH A          |      4 | G-Gift             | -ED                            |                              2290 |                        15018 |             1 |         nan | COMMON STOCK                      |
+| 395 | A                           | 2022-11-07         |                     nan | SPRAGUE JOSEPH A          |      4 | M-Exempt           | --D                            |                              1131 |                        17584 |             3 |         nan | COMMON STOCK                      |
+| 396 | D                           | 2022-11-07         |                     nan | SPRAGUE JOSEPH A          |      4 | F-InKind           | --D                            |                               276 |                        17308 |             4 |         nan | COMMON STOCK                      |
+| 397 | D                           | 2022-11-07         |                     nan | SPRAGUE JOSEPH A          |      4 | M-Exempt           | --D                            |                              1131 |                            0 |             7 |         nan | RESTRICTED STOCK UNITS            |
+| 398 | A                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              4930 |                       109771 |             1 |         nan | COMMON STOCK                      |
+| 399 | A                           | 2022-11-05         |                     nan | TACKETT SHANE R           |      4 | M-Exempt           | --D                            |                              3287 |                        13253 |             1 |         nan | COMMON STOCK                      |
+| 400 | A                           | 2022-11-05         |                     nan | HARRISON ANDREW R         |      4 | M-Exempt           | --D                            |                              3287 |                        14164 |             1 |         nan | COMMON STOCK                      |
+| 401 | A                           | 2022-11-05         |                     nan | SPRAGUE JOSEPH A          |      4 | M-Exempt           | --D                            |                               987 |                        16694 |             1 |         nan | COMMON STOCK                      |
+| 402 | A                           | 2022-11-05         |                     nan | LEVINE KYLE B             |      4 | M-Exempt           | --D                            |                               987 |                        11011 |             1 |         nan | COMMON STOCK                      |
+| 403 | A                           | 2022-11-05         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                               987 |                        15988 |             1 |         nan | COMMON STOCK                      |
+| 404 | A                           | 2022-11-05         |                     nan | BIRKETT RAKOW DIANA       |      4 | M-Exempt           | --D                            |                               987 |                         5320 |             1 |         nan | COMMON STOCK                      |
+| 405 | A                           | 2022-11-05         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                               987 |                         6888 |             1 |         nan | COMMON STOCK                      |
+| 406 | D                           | 2022-11-05         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --D                            |                               241 |                         6647 |             2 |         nan | COMMON STOCK                      |
+| 407 | D                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | F-InKind           | --D                            |                              1940 |                       107831 |             2 |         nan | COMMON STOCK                      |
+| 408 | D                           | 2022-11-05         |                     nan | TACKETT SHANE R           |      4 | F-InKind           | --D                            |                              1294 |                        12100 |             2 |         nan | COMMON STOCK                      |
+| 409 | D                           | 2022-11-05         |                     nan | HARRISON ANDREW R         |      4 | F-InKind           | --D                            |                              1294 |                        12870 |             2 |         nan | COMMON STOCK                      |
+| 410 | D                           | 2022-11-05         |                     nan | SPRAGUE JOSEPH A          |      4 | F-InKind           | --D                            |                               241 |                        16453 |             2 |         nan | COMMON STOCK                      |
+| 411 | D                           | 2022-11-05         |                     nan | LEVINE KYLE B             |      4 | F-InKind           | --D                            |                               241 |                        10862 |             2 |         nan | COMMON STOCK                      |
+| 412 | D                           | 2022-11-05         |                     nan | SCHNEIDER ANDREA L        |      4 | F-InKind           | --D                            |                               241 |                        15747 |             2 |         nan | COMMON STOCK                      |
+| 413 | D                           | 2022-11-05         |                     nan | BIRKETT RAKOW DIANA       |      4 | F-InKind           | --D                            |                               241 |                         5079 |             2 |         nan | COMMON STOCK                      |
+| 414 | A                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              3942 |                       111773 |             3 |         nan | COMMON STOCK                      |
+| 415 | D                           | 2022-11-05         |                     nan | HARRISON ANDREW R         |      4 | M-Exempt           | --D                            |                              3287 |                         3287 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 416 | D                           | 2022-11-05         |                     nan | LEVINE KYLE B             |      4 | M-Exempt           | --D                            |                               987 |                          987 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 417 | D                           | 2022-11-05         |                     nan | BIRKETT RAKOW DIANA       |      4 | M-Exempt           | --D                            |                               987 |                          987 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 418 | D                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | F-InKind           | --D                            |                              1552 |                       110221 |             4 |         nan | COMMON STOCK                      |
+| 419 | D                           | 2022-11-05         |                     nan | TACKETT SHANE R           |      4 | M-Exempt           | --D                            |                              3287 |                         3287 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 420 | D                           | 2022-11-05         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                               987 |                          987 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 421 | D                           | 2022-11-05         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                               987 |                          987 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 422 | D                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              4930 |                         4930 |             5 |         nan | RESTRICTED STOCK UNITS            |
+| 423 | D                           | 2022-11-05         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              3942 |                        11826 |             6 |         nan | RESTRICTED STOCK UNITS            |
+| 424 | D                           | 2022-11-05         |                     nan | SPRAGUE JOSEPH A          |      4 | M-Exempt           | --D                            |                               987 |                          987 |             6 |         nan | RESTRICTED STOCK UNITS            |
+| 425 | D                           | 2022-10-27         |                     nan | THOMPSON J KENNETH        |      4 | G-Gift             | -ED                            |                              2250 |                        35907 |             1 |         nan | COMMON STOCK                      |
+| 426 | A                           | 2022-09-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --I                            |                               168 |                          520 |             1 |         nan | COMMON STOCK                      |
+| 427 | A                           | 2022-09-09         |                     nan | HALVERSON EMILY           |      4 | M-Exempt           | --D                            |                               338 |                         4450 |             1 |         nan | COMMON STOCK                      |
+| 428 | D                           | 2022-09-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --I                            |                                50 |                          470 |             2 |         nan | COMMON STOCK                      |
+| 429 | D                           | 2022-09-09         |                     nan | HALVERSON EMILY           |      4 | F-InKind           | --D                            |                                83 |                         4601 |             2 |         nan | COMMON STOCK                      |
+| 430 | D                           | 2022-09-09         |                     nan | HALVERSON EMILY           |      4 | M-Exempt           | --D                            |                               338 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 431 | D                           | 2022-09-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --I                            |                               168 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 432 | D                           | 2022-09-08         |                     nan | HARRISON ANDREW R         |      4 | S-Sale             | --D                            |                              3275 |                        10877 |             1 |         nan | COMMON STOCK                      |
+| 433 | D                           | 2022-07-29         |                     nan | HARRISON ANDREW R         |      4 | S-Sale             | --D                            |                              2267 |                        14152 |             1 |         nan | COMMON STOCK                      |
+| 434 | D                           | 2022-06-09         |                     nan | TACKETT SHANE R           |      4 | S-Sale             | --D                            |                              2000 |                         9966 |             2 |         nan | COMMON STOCK                      |
+| 435 | A                           | 2022-06-03         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                               700 |                        15155 |             1 |         nan | COMMON STOCK                      |
+| 436 | D                           | 2022-06-03         |                     nan | SCHNEIDER ANDREA L        |      4 | F-InKind           | --D                            |                               154 |                        15001 |             2 |         nan | COMMON STOCK                      |
+| 437 | D                           | 2022-06-03         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                               700 |                            0 |             4 |         nan | Restricted Stock Units            |
+| 438 | A                           | 2022-05-05         |                     nan | Bedient Patricia M        |      4 | A-Award            | --D                            |                              2346 |                        53687 |             1 |         nan | COMMON STOCK                      |
+| 439 | A                           | 2022-05-05         |                     nan | Fonseca Dhiren R.         |      4 | A-Award            | --D                            |                              2346 |                        12447 |             1 |         nan | COMMON STOCK                      |
+| 440 | A                           | 2022-05-05         |                     nan | Conner Raymond L.         |      4 | A-Award            | --D                            |                              2346 |                        11120 |             1 |         nan | COMMON STOCK                      |
+| 441 | A                           | 2022-05-05         |                     nan | BEER JAMES A              |      4 | A-Award            | --D                            |                              2346 |                        11609 |             1 |         nan | COMMON STOCK                      |
+| 442 | A                           | 2022-05-05         |                     nan | ELWELL DANIEL KEVIN       |      4 | A-Award            | --D                            |                              2346 |                         4437 |             1 |         nan | COMMON STOCK                      |
+| 443 | A                           | 2022-05-05         |                     nan | Hogan Kathleen T          |      4 | A-Award            | --D                            |                              2346 |                         8644 |             1 |         nan | COMMON STOCK                      |
+| 444 | A                           | 2022-05-05         |                     nan | KNIGHT JR JESSIE J        |      4 | A-Award            | --D                            |                              2346 |                         7333 |             1 |         nan | COMMON STOCK                      |
+| 445 | A                           | 2022-05-05         |                     nan | LI SUSAN J                |      4 | A-Award            | --D                            |                              2346 |                        10698 |             1 |         nan | COMMON STOCK                      |
+| 446 | A                           | 2022-05-05         |                     nan | LOFTON ADRIENNE ROCHELLE  |      4 | A-Award            | --D                            |                              2346 |                         3371 |             1 |         nan | COMMON STOCK                      |
+| 447 | A                           | 2022-05-05         |                     nan | SANDVIK HELVI KAY         |      4 | A-Award            | --D                            |                              2346 |                        16874 |             1 |         nan | COMMON STOCK                      |
+| 448 | A                           | 2022-05-05         |                     nan | THOMPSON J KENNETH        |      4 | A-Award            | --D                            |                              2346 |                        38157 |             1 |         nan | COMMON STOCK                      |
+| 449 | A                           | 2022-05-05         |                     nan | YEAMAN ERIC K             |      4 | A-Award            | --D                            |                              2346 |                        18791 |             1 |         nan | COMMON STOCK                      |
+| 450 | A                           | 2022-04-30         |                     nan | TACKETT SHANE R           |      4 | A-Award            | -ED                            |                               110 |                        11966 |             1 |         nan | COMMON STOCK                      |
+| 451 | A                           | 2022-04-22         |                     nan | HARRISON ANDREW R         |      4 | S-Sale             | --D                            |                              3000 |                        16419 |             1 |         nan | COMMON STOCK                      |
+| 452 | A                           | 2022-04-18         |                     nan | HALVERSON EMILY           |      4 | A-Award            | --D                            |                              2150 |                         2150 |             2 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 453 | A                           | 2022-04-18         |                     nan | HALVERSON EMILY           |      4 | A-Award            | --D                            |                               960 |                          960 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 454 | A                           | 2022-03-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --I                            |                               167 |                          402 |             1 |         nan | COMMON STOCK                      |
+| 455 | D                           | 2022-03-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --I                            |                                50 |                          352 |             2 |         nan | COMMON STOCK                      |
+| 456 | D                           | 2022-03-09         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --I                            |                               167 |                          168 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 457 | A                           | 2022-02-25         |                     nan | TILDEN BRADLEY D          |      4 | M-Exempt           | --D                            |                              1830 |                       111519 |             1 |         nan | COMMON STOCK                      |
+| 458 | D                           | 2022-02-25         |                     nan | TILDEN BRADLEY D          |      4 | F-InKind           | --D                            |                               678 |                       110841 |             2 |         nan | COMMON STOCK                      |
+| 459 | D                           | 2022-02-25         |                     nan | TILDEN BRADLEY D          |      4 | M-Exempt           | --D                            |                              1830 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 460 | A                           | 2022-02-23         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | A-Award            | --I                            |                               280 |                          280 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 461 | D                           | 2022-02-18         |                     nan | TACKETT SHANE R           |      4 | S-Sale             | --D                            |                              2000 |                        11856 |             1 |         nan | COMMON STOCK                      |
+| 462 | A                           | 2022-02-14         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              7490 |                       107613 |             1 |         nan | COMMON STOCK                      |
+| 463 | A                           | 2022-02-14         |                     nan | TACKETT SHANE R           |      4 | M-Exempt           | --D                            |                              3960 |                        14821 |             1 |         nan | COMMON STOCK                      |
+| 464 | A                           | 2022-02-14         |                     nan | HARRISON ANDREW R         |      4 | M-Exempt           | --D                            |                              5290 |                        20957 |             1 |         nan | COMMON STOCK                      |
+| 465 | A                           | 2022-02-14         |                     nan | BERRY CHRISTOPHER MICHAEL |      4 | M-Exempt           | --D                            |                              1000 |                         6987 |             1 |         nan | COMMON STOCK                      |
+| 466 | A                           | 2022-02-14         |                     nan | LEVINE KYLE B             |      4 | M-Exempt           | --D                            |                              1230 |                        10324 |             1 |         nan | COMMON STOCK                      |
+| 467 | A                           | 2022-02-14         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                              1300 |                        14741 |             1 |         nan | COMMON STOCK                      |
+| 468 | A                           | 2022-02-14         |                     nan | BIRKETT RAKOW DIANA       |      4 | M-Exempt           | --D                            |                              1230 |                         4633 |             1 |         nan | COMMON STOCK                      |
+| 469 | A                           | 2022-02-14         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                              1490 |                         6264 |             1 |         nan | COMMON STOCK                      |
+| 470 | A                           | 2022-02-14         |                     nan | TILDEN BRADLEY D          |      4 | M-Exempt           | --D                            |                             11000 |                       112856 |             1 |         nan | COMMON STOCK                      |
+| 471 | D                           | 2022-02-14         |                     nan | TILDEN BRADLEY D          |      4 | F-InKind           | --D                            |                              3167 |                       109689 |             2 |         nan | COMMON STOCK                      |
+| 472 | D                           | 2022-02-14         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --D                            |                               363 |                         5901 |             2 |         nan | COMMON STOCK                      |
+| 473 | D                           | 2022-02-14         |                     nan | MINICUCCI BENITO          |      4 | F-InKind           | --D                            |                              2772 |                       104841 |             2 |         nan | COMMON STOCK                      |
+| 474 | D                           | 2022-02-14         |                     nan | TACKETT SHANE R           |      4 | F-InKind           | --D                            |                               965 |                        13856 |             2 |         nan | COMMON STOCK                      |
+| 475 | D                           | 2022-02-14         |                     nan | HARRISON ANDREW R         |      4 | F-InKind           | --D                            |                              1538 |                        19419 |             2 |         nan | COMMON STOCK                      |
+| 476 | D                           | 2022-02-14         |                     nan | BERRY CHRISTOPHER MICHAEL |      4 | F-InKind           | --D                            |                               244 |                         6743 |             2 |         nan | COMMON STOCK                      |
+| 477 | D                           | 2022-02-14         |                     nan | LEVINE KYLE B             |      4 | F-InKind           | --D                            |                               300 |                        10024 |             2 |         nan | COMMON STOCK                      |
+| 478 | D                           | 2022-02-14         |                     nan | SCHNEIDER ANDREA L        |      4 | F-InKind           | --D                            |                               286 |                        14455 |             2 |         nan | COMMON STOCK                      |
+| 479 | D                           | 2022-02-14         |                     nan | BIRKETT RAKOW DIANA       |      4 | F-InKind           | --D                            |                               300 |                         4333 |             2 |         nan | COMMON STOCK                      |
+| 480 | D                           | 2022-02-14         |                     nan | MINICUCCI BENITO          |      4 | M-Exempt           | --D                            |                              7490 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 481 | D                           | 2022-02-14         |                     nan | HARRISON ANDREW R         |      4 | M-Exempt           | --D                            |                              5290 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 482 | D                           | 2022-02-14         |                     nan | BERRY CHRISTOPHER MICHAEL |      4 | M-Exempt           | --D                            |                              1000 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 483 | D                           | 2022-02-14         |                     nan | LEVINE KYLE B             |      4 | M-Exempt           | --D                            |                              1230 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 484 | D                           | 2022-02-14         |                     nan | BIRKETT RAKOW DIANA       |      4 | M-Exempt           | --D                            |                              1230 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 485 | D                           | 2022-02-14         |                     nan | TACKETT SHANE R           |      4 | M-Exempt           | --D                            |                              3960 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 486 | D                           | 2022-02-14         |                     nan | SCHNEIDER ANDREA L        |      4 | M-Exempt           | --D                            |                              1300 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 487 | D                           | 2022-02-14         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                              1490 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 488 | D                           | 2022-02-14         |                     nan | TILDEN BRADLEY D          |      4 | M-Exempt           | --D                            |                             11000 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 489 | A                           | 2022-02-07         |                     nan | TILDEN BRADLEY D          |      4 | A-Award            | --D                            |                              6570 |                       103456 |             1 |         nan | COMMON STOCK                      |
+| 490 | A                           | 2022-02-07         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | A-Award            | --D                            |                               894 |                         4992 |             1 |         nan | COMMON STOCK                      |
+| 491 | A                           | 2022-02-07         |                     nan | MINICUCCI BENITO          |      4 | A-Award            | --D                            |                              4494 |                       101892 |             1 |         nan | COMMON STOCK                      |
+| 492 | A                           | 2022-02-07         |                     nan | TACKETT SHANE R           |      4 | A-Award            | --D                            |                              2379 |                        11441 |             1 |         nan | COMMON STOCK                      |
+| 493 | A                           | 2022-02-07         |                     nan | HARRISON ANDREW R         |      4 | A-Award            | --D                            |                              3174 |                        16440 |             1 |         nan | COMMON STOCK                      |
+| 494 | A                           | 2022-02-07         |                     nan | BERRY CHRISTOPHER MICHAEL |      4 | A-Award            | --D                            |                               597 |                         6131 |             1 |         nan | COMMON STOCK                      |
+| 495 | A                           | 2022-02-07         |                     nan | LEVINE KYLE B             |      4 | A-Award            | --D                            |                               735 |                         9273 |             1 |         nan | COMMON STOCK                      |
+| 496 | A                           | 2022-02-07         |                     nan | SCHNEIDER ANDREA L        |      4 | A-Award            | --D                            |                               780 |                        13631 |             1 |         nan | COMMON STOCK                      |
+| 497 | A                           | 2022-02-07         |                     nan | BIRKETT RAKOW DIANA       |      4 | A-Award            | --D                            |                               735 |                         3582 |             1 |         nan | COMMON STOCK                      |
+| 498 | D                           | 2022-02-07         |                     nan | MINICUCCI BENITO          |      4 | F-InKind           | --D                            |                              1769 |                       100123 |             2 |         nan | COMMON STOCK                      |
+| 499 | D                           | 2022-02-07         |                     nan | TACKETT SHANE R           |      4 | F-InKind           | --D                            |                               580 |                        10861 |             2 |         nan | COMMON STOCK                      |
+| 500 | A                           | 2022-02-07         |                     nan | HARRISON ANDREW R         |      4 | F-InKind           | --D                            |                               773 |                        15667 |             2 |         nan | COMMON STOCK                      |
+| 501 | D                           | 2022-02-07         |                     nan | BERRY CHRISTOPHER MICHAEL |      4 | F-InKind           | --D                            |                               144 |                         5987 |             2 |         nan | COMMON STOCK                      |
+| 502 | D                           | 2022-02-07         |                     nan | LEVINE KYLE B             |      4 | F-InKind           | --D                            |                               179 |                         9094 |             2 |         nan | COMMON STOCK                      |
+| 503 | D                           | 2022-02-07         |                     nan | SCHNEIDER ANDREA L        |      4 | F-InKind           | --D                            |                               190 |                        13441 |             2 |         nan | COMMON STOCK                      |
+| 504 | D                           | 2022-02-07         |                     nan | BIRKETT RAKOW DIANA       |      4 | F-InKind           | --D                            |                               179 |                         3403 |             2 |         nan | COMMON STOCK                      |
+| 505 | D                           | 2022-02-07         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --D                            |                               218 |                         4774 |             2 |         nan | COMMON STOCK                      |
+| 506 | D                           | 2022-02-07         |                     nan | TILDEN BRADLEY D          |      4 | F-InKind           | --D                            |                              1600 |                       101856 |             2 |         nan | COMMON STOCK                      |
+| 507 | A                           | 2022-02-07         |                     nan | MINICUCCI BENITO          |      4 | A-Award            | --D                            |                             15110 |                        15110 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 508 | A                           | 2022-02-07         |                     nan | HARRISON ANDREW R         |      4 | A-Award            | --D                            |                              7440 |                         7440 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 509 | A                           | 2022-02-07         |                     nan | SPRAGUE JOSEPH A          |      4 | A-Award            | --D                            |                              3020 |                         3020 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 510 | A                           | 2022-02-07         |                     nan | LEVINE KYLE B             |      4 | A-Award            | --D                            |                              3250 |                         3250 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 511 | A                           | 2022-02-07         |                     nan | BIRKETT RAKOW DIANA       |      4 | A-Award            | --D                            |                              2090 |                         2090 |             3 |         nan | RESTRICTED STOCK UNITS            |
+| 512 | A                           | 2022-02-07         |                     nan | MINICUCCI BENITO          |      4 | A-Award            | --D                            |                             35810 |                        35810 |             4 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 513 | A                           | 2022-02-07         |                     nan | TACKETT SHANE R           |      4 | A-Award            | --D                            |                              7440 |                         7440 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 514 | A                           | 2022-02-07         |                     nan | HARRISON ANDREW R         |      4 | A-Award            | --D                            |                             17630 |                        17630 |             4 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 515 | A                           | 2022-02-07         |                     nan | SPRAGUE JOSEPH A          |      4 | A-Award            | --D                            |                              7160 |                         7160 |             4 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 516 | A                           | 2022-02-07         |                     nan | LEVINE KYLE B             |      4 | A-Award            | --D                            |                              7710 |                         7710 |             4 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 517 | A                           | 2022-02-07         |                     nan | SCHNEIDER ANDREA L        |      4 | A-Award            | --D                            |                              3250 |                         3250 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 518 | A                           | 2022-02-07         |                     nan | BIRKETT RAKOW DIANA       |      4 | A-Award            | --D                            |                              4960 |                         4960 |             4 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 519 | A                           | 2022-02-07         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | A-Award            | --D                            |                              5810 |                         5810 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 520 | A                           | 2022-02-07         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | A-Award            | --D                            |                             13770 |                        13770 |             5 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 521 | A                           | 2022-02-07         |                     nan | TACKETT SHANE R           |      4 | A-Award            | --D                            |                             17630 |                        17630 |             5 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 522 | A                           | 2022-02-07         |                     nan | SCHNEIDER ANDREA L        |      4 | A-Award            | --D                            |                              7710 |                         7710 |             5 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY) |
+| 523 | A                           | 2022-01-21         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                                20 |                         4104 |             1 |         nan | COMMON STOCK                      |
+| 524 | D                           | 2022-01-21         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | F-InKind           | --D                            |                                 6 |                         4098 |             2 |         nan | COMMON STOCK                      |
+| 525 | D                           | 2022-01-21         |                     nan | VON MUEHLEN CONSTANCE E   |      4 | M-Exempt           | --D                            |                                20 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS            |
+| 526 | D                           | 2022-01-04         |                     nan | TILDEN BRADLEY D          |      4 | S-Sale             | --D                            |                               750 |                        96886 |             2 |         nan | COMMON STOCK                      |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### Elevated Insider Trading Activity Indicates Potential Governance and Strategic Uncertainty  
+Throughout 2022, Alaska Air Group, Inc. exhibited a notable volume of insider transactions, particularly around late Q4, with multiple acquisitions and dispositions occurring in November and December. The pattern comprises a mixture of acquisitions (A) and dispositions (D), including gifts (G-Gift), exempt transactions (M-Exempt), and in-kind transfers (F-InKind). While some insider trading is customary, the relatively high frequency and mixed direction may signal uncertainty among key stakeholders regarding the company’s strategic outlook or near-term performance. This elevated activity could reflect management or insider reactions to evolving market conditions or company-specific developments, which introduces questions on consensus about future prospects and governance stability.
+
+#### Insider Ownership Trends Suggest Possible Erosion of Management Alignment  
+Analysis reveals that several insiders reduced shareholdings during the year, with transactions across multiple executives and insiders. Declining insider ownership stakes can erode alignment between management and shareholders, potentially reducing incentives for long-term value creation. Although some activity appears linked to compensation-related stock awards or option exercises, the scale of dispositions relative to acquisitions may suggest a diversification strategy or waning confidence in the firm’s medium-term trajectory. This dynamic introduces moderate risk regarding stewardship quality and strategic continuity.
+
+#### Mixed Ownership Concentration Limits Clarity on Control Dynamics and Strategic Direction  
+The transactions do not show a clear trend towards ownership concentration or significant share accumulation by any particular group or executive. Instead, ownership interests appear relatively dispersed without a dominant controlling shareholder emerging. While this structure avoids risks of single-party domination, it may also lead to fragmented governance and difficulty in executing bold strategic initiatives swiftly. The absence of a consolidating influence may heighten vulnerability to external shocks or competitive pressures, as consensus building could become more challenging.
+
+#### Lack of Group Structure and Subsidiary Support Amplifies Standalone Business Risks  
+No information on parent or subsidiary affiliations is available, indicating that Alaska Air Group operates predominantly as a standalone entity. This lack of a broader corporate group may constrain financial and operational flexibility in times of stress, as no internal capital markets or cross-guarantees can be leveraged. The company’s credit profile is therefore more exposed to its individual strategic decisions and enterprise risks, underscoring the importance of strong governance and clarity in vision.
+
+---
+
+**Summary:** The insider transaction patterns during 2022 at Alaska Air Group highlight some elevated governance and strategic uncertainty, with mixed signals on management’s alignment and control dynamics. Coupled with the absence of group-level structural support, these factors weigh negatively on the company’s business profile and introduce moderate risks to its credit standing.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+- **Significant Insider Dispositions Indicate Potential Weakness in Management Confidence**  
+  Throughout 2022, several insiders engaged in sizeable dispositions of Alaska Air Group shares through sales, gifts, and exempt transactions. The frequency and volume of these dispositions suggest a possible reduction in insider ownership stakes, which may signal weakening alignment between management and shareholders or a shift in insiders’ confidence in the company’s medium-term outlook.
+
+- **Mixed Insider Acquisition and Disposition Activity Reflects Ambiguity in Strategic Direction**  
+  While there were acquisitions recorded during the year, the overall insider trading activity presents a mixed pattern without a clear trend toward share accumulation or consolidation. This lack of decisive insider buying undermines visible confidence in the company’s growth prospects and may indicate ongoing strategic uncertainty within senior ranks.
+
+- **Relatively Dispersed Ownership Structure Limits Strong Controlling Influence**  
+  The insider transactions do not reveal a significant concentration of ownership by key executives or large shareholders. This dispersed ownership structure can reduce alignment on strategic priorities and limit decisive governance, potentially constraining the company’s ability to respond swiftly to competitive or market challenges.
+
+- **Absence of Material Group Affiliations Increases Standalone Business Risk**  
+  There is no evidence of parent or subsidiary relationships in 2022, indicating Alaska Air Group operates as an independent entity. This standalone status limits potential financial and operational support from related entities, increasing the company’s exposure to sector volatility and operational risks without group-level mitigation.
+
+- **Continued Use of Stock-Based Compensation Contributes to Insider Trading Volume and Potential Dilution Concerns**  
+  Multiple insider acquisitions are linked to stock awards and employee stock options, which, while aligning employee incentives, may also result in dilution of existing shareholders’ interests. The ongoing issuance of equity-based compensation requires monitoring as it could affect shareholder value and influence management’s risk-taking behavior.
+
+---
+
+This revised key rating drivers section focuses precisely on business profile risks directly supported by the transaction data, providing a clear and accurate assessment of governance, ownership, and strategic risks at Alaska Air Group in 2022.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Elevated Geopolitical and Political Uncertainty in the United States**  
+Alaska Air Group, Inc. operates primarily in the U.S. air transportation sector, which is sensitive to domestic political developments. Historical events such as the impeachment of President Donald Trump in 2019 and his inauguration in 2017 illustrate periods of heightened political uncertainty and power transitions. Although these specific past events have not been linked to direct financial distress for the company, ongoing political volatility in the U.S. can cause regulatory unpredictability and shift aviation policy frameworks. Given the sector's dependence on favorable regulatory conditions for operations, any abrupt changes in government leadership or policies could have adverse effects on the company’s operational planning and cost structure, thereby negatively impacting credit risk.
+
+**2. Limited Exposure to Recent Middle East Conflicts but Persistent Monitoring Required**  
+While Alaska Air Group has not been directly impacted by recent international conflicts such as the 2023 Israel-Hamas war, such events create global aviation risks including elevated fuel prices, increased security costs, and rerouting challenges. Although the company’s operational focus is predominantly domestic, the interconnected nature of global air travel means that escalation in geopolitical tensions can lead to increased volatility in operational costs (e.g., jet fuel surcharges), insurance premiums, and passenger demand fluctuations. The company must therefore maintain operational agility and risk management protocols to adapt to these external shocks, which remain a constant source of credit risk pressure in the operating environment.
+
+**3. Sectoral Vulnerability to Regulatory and Macroeconomic Fluctuations in Air Transport**  
+The scheduled air transportation sector in which Alaska Air Group operates remains significantly exposed to regulatory changes concerning safety, environmental standards, and labor relations — domains often influenced by political and social dynamics. Additionally, macroeconomic conditions such as inflation, interest rate changes, and fluctuating consumer demand have a strong impact on travel volumes and pricing power. The company’s credit profile is vulnerable to adverse shifts in these external factors, which can constrain revenue growth and elevate operating costs. This susceptibility represents an ongoing risk that can weaken financial flexibility and increase credit risk.
+
+---
+
+In summary, the key operating environment risks to Alaska Air Group’s credit quality stem from domestic political uncertainties influencing aviation policy, indirect but notable exposure to global geopolitical conflicts affecting operational costs, and persistent sectoral vulnerability to regulatory and macroeconomic fluctuations inherent in the air transportation industry. These factors collectively underline an unstable external environment that could negatively impact the company’s credit profile.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Political and Regulatory Uncertainty in the United States**  
+Alaska Air Group operates within a regulatory framework that can be influenced by changes in U.S. political leadership and policy priorities. Past political events such as presidential inaugurations and impeachment proceedings demonstrate the potential for shifts in regulatory oversight and aviation policy. This ongoing political uncertainty can lead to changing regulatory requirements and compliance costs, which may negatively affect operational predictability and cost management, thereby increasing credit risk.
+
+**2. Exposure to Macroeconomic Volatility and Sectoral Cyclicality**  
+The scheduled air transportation sector is highly sensitive to macroeconomic conditions, including fluctuations in consumer demand driven by economic cycles, inflationary pressures, and fuel price volatility. These external factors can compress margins through increased operational costs or reduced pricing power. Alaska Air Group faces risks related to this sector cyclicality, which can impair profitability and cash flow stability, raising concerns around financial flexibility and creditworthiness.
+
+**3. Limited Direct Impact from International Geopolitical Conflicts but Vulnerability to Indirect Effects**  
+While Alaska Air Group’s domestic U.S. operations limit direct exposure to international conflicts such as the Israel-Hamas war, the broader air transportation industry experiences indirect impacts through potential increases in fuel prices, insurance costs, and travel disruptions. These factors can translate into elevated operating expenses and reduced demand, thereby exerting pressure on the company’s credit profile.
+
+**4. Increasing Regulatory Pressure on Environmental and Safety Standards**  
+The air transportation sector faces mounting regulatory expectations concerning environmental sustainability and safety. Compliance with stricter emission standards and evolving aviation safety regulations may require substantial capital expenditures and operational adjustments. These regulatory trends pose a medium- to long-term risk to cost structures and capital allocation, which can constrain financial performance and credit metrics.
+
+---
+
+The operating environment for Alaska Air Group reflects ongoing risks from political and regulatory unpredictability in the U.S., macroeconomic and sector-specific volatility, indirect repercussions of broader geopolitical tensions, and escalating regulatory demands related to environmental and safety issues. These factors collectively contribute to an uncertain external landscape with potential adverse consequences for the company’s credit quality.
+# FINAL
+---------------------------------------------------
+# Key Rating Drivers  
+This section outlines the primary factors influencing the assigned credit risk rating of Alaska Air Group, Inc. (“Alaska Air”) for fiscal year 2022. The analysis emphasizes observed deteriorations and risk elements predominantly within the financial profile, while integrating pertinent business profile and operating environment considerations that compound credit challenges. Collectively, these drivers reflect heightened earnings volatility, weakening cash flow quality, and increased refinancing risks amid a complex external landscape.
+
+---
+
+## Financial Profile (F1)
+
+### 1. Sharp Decline in Profitability and EBITDA Margin  
+In 2022, Alaska Air experienced a pronounced contraction in its EBITDA margin from 18.5% in 2021 to 6.1%, signaling significant pressure on operational profitability. This erosion stems from a combination of slower demand recovery in air travel, elevated input costs (including fuel and labor), and ongoing supply chain disruptions. The weakened profitability undermines earnings available for debt servicing and reinvestment, increasing earnings volatility risk and reducing financial resilience to adverse shocks.
+
+### 2. Shift to Negative Free Cash Flow amid Elevated Capital Expenditures  
+The company’s free cash flow swung sharply negative by approximately $253 million in 2022, a reversal from positive free cash flow the prior year. This deterioration reflects a near sixfold surge in capital expenditures — climbing from $292 million to nearly $1.67 billion — as Alaska Air aggressively invests in fleet renewal and infrastructure. The negative cash flow reveals that internal cash generation cannot keep pace with investment demands, heightening reliance on external funding and raising refinancing and liquidity risk, particularly if operational performance falters.
+
+### 3. Rising Leverage and Compressed Financial Flexibility  
+Leverage metrics worsened materially, with reported EBITDA leverage nearly doubling from 3.6x to 6.4x, and funds from operations (FFO) leverage increasing from 1.3x to 2.0x between 2021 and 2022. This higher leverage reflects increased indebtedness relative to cash earnings capacity and narrows the margin of safety against earnings disruptions. Although still moderate compared to some peers, the trend signals diminished financial flexibility and amplifies the company’s sensitivity to economic downturns or operational setbacks.
+
+### 4. Tightening Liquidity Reserves and Coverage Ratios  
+Liquidity buffers contracted during the year as cash balances declined from $470 million to $338 million and the cash to short-term debt ratio modestly decreased to 1.22x. This tighter cash coverage, in conjunction with negative free cash flow, suggests increasing dependence on capital markets or refinancing to cover near-term obligations. In an uncertain market or under earnings stress, the company faces elevated refinancing risk and potential funding cost pressures.
+
+### 5. Cash Flow Quality and Conversion Efficiency Erode  
+Alaska Air’s negative free cash flow ratio (approximately -6.7% in 2022 versus a positive 18% in 2021) highlights weakening operational cash conversion relative to EBITDA. An increasing share of cash is absorbed by capital expenditures and working capital needs rather than generating discretionary free cash for debt servicing. This trend diminishes the quality and predictability of cash flows, elevating credit risk through greater exposure to adverse operating or macroeconomic variations.
+
+### 6. Elevated but Vulnerable Interest Coverage  
+The company’s funds from operations interest coverage ratio rose to around 26.7x in 2022, appearing robust on the surface. However, this elevated coverage could partly reflect timing or non-recurring items and remains vulnerable given the backdrop of rising leverage and declining margins. A moderate earnings or cash flow setback would rapidly erode interest coverage, constraining debt servicing flexibility and increasing credit stress.
+
+---
+
+## Business Profile (F2)
+
+### 7. Governance and Insider Activity Raise Strategic Uncertainties  
+Alaska Air’s insider trading patterns in 2022 reveal sizeable insider share dispositions alongside some acquisitions primarily linked to equity compensation. The overall mixed insider transaction activity, combined with a relatively dispersed ownership structure, may reflect weak alignment and hedged confidence in the company’s near- to medium-term strategic direction. Absence of significant controlling shareholders and lack of corporate group affiliations further limit external operational and financial support, increasing standalone business risk amid challenging market conditions.
+
+---
+
+## Operating Environment (F3)
+
+### 8. Persistent Political, Regulatory, and Sectoral Volatility  
+Alaska Air operates within an air transportation sector vulnerable to domestic political and regulatory uncertainties in the United States. Shifts in administration priorities and evolving aviation regulations introduce compliance costs and operational unpredictability. Additionally, the sector remains highly sensitive to macroeconomic cycles, inflationary pressures, and fuel price volatility, all of which can compress margins and reduce pricing power. Although Alaska has limited direct exposure to international geopolitical conflicts, indirect effects—such as fuel cost spikes and travel demand softness—pose ongoing challenges.
+
+### 9. Emerging Regulatory Pressures on Environmental and Safety Standards  
+Increasingly stringent environmental and safety regulations are expected to impose additional capital and operational costs on the company. Compliance with evolving emission standards and aviation safety mandates will likely require sustained capital expenditures, adding to the investment burden already weighing on free cash flow and credit metrics. This regulatory trajectory constitutes a medium- to long-term risk to cost structures and financial sustainability.
+
+---
+
+# Conclusion  
+Alaska Air Group’s credit profile in 2022 reflects material deterioration primarily driven by sharply lower profitability, negative free cash flow amid surging capital investments, and rising leverage that collectively weaken financial flexibility and increase rollover risk. Tightening liquidity ratios compound near-term funding vulnerabilities, while governance factors and an uncertain strategic outlook elevate business risk. These internal stresses occur against a backdrop of volatile macroeconomic and regulatory pressures that amplify earnings and cash flow sensitivity. The confluence of these adverse drivers increases credit risk and underscores the critical need for sustained operational recovery and cautious financial management to stabilize the company’s credit fundamentals.
+# V0
+---------------------------------------------------
+### Key Rating Drivers for ALASKA AIR GROUP, INC. (2025)
+
+#### F1: Leverage and Liquidity Constraints
+Alaska Air Group’s credit profile remains pressured by elevated leverage metrics relative to historical levels and peer benchmarks. Despite recent deleveraging efforts, the company’s adjusted debt-to-EBITDAR ratio remains above the median for the U.S. airline sector, indicating limited cushion against earnings volatility. Coupled with weakening free cash flow generation amid rising fuel and labor costs, liquidity flexibility is constrained, raising concerns about the company’s capacity to absorb further operational disruptions or fund strategic investments without increasing financial risk.
+
+#### F1: Profitability and Margin Volatility
+The company’s profitability continues to exhibit sensitivity to volatile input costs, particularly jet fuel prices and labor expenses, which have trended upwards in 2025. Operating margins have compressed compared to prior years, undermining the firm’s ability to generate consistent earnings coverage of interest and fixed charges. The relatively modest scale of Alaska Air’s network limits its capacity to achieve economies of scale and offset margin pressures, exacerbating earnings volatility risk and weakening credit protection metrics.
+
+#### F2: Competitive Pressure and Market Position
+Alaska Air Group faces intensifying competitive challenges within the highly consolidated U.S. airline industry. Larger network carriers benefit from greater scale, more diversified revenue streams, and stronger customer loyalty programs, putting pressure on Alaska Air’s market share and pricing power on key West Coast routes. Strategic expansion plans into new markets increase execution risk and capital intensity at a time when the industry faces ongoing demand uncertainties, potentially diluting focus and stretching managerial resources.
+
+#### F2: Operational Complexity and Integration Risk
+The airline’s ongoing integration of recent acquisitions and fleet modernization initiatives presents significant execution risks. The complexity of harmonizing IT systems, labor agreements, and operational processes could lead to cost overruns, service disruptions, and inefficiencies. Any setback in integration efforts would further exacerbate financial pressure, negatively affecting the company’s credit profile in the near to medium term.
+
+#### F3: Macroeconomic and Regulatory Headwinds
+Alaska Air operates in a macroeconomic environment marked by inflationary pressures, potentially dampening discretionary consumer spending on travel. Additionally, labor market tightness has intensified wage cost inflation, further squeezing margins. Regulatory risks remain elevated, including possible implementation of more stringent environmental regulations and associated compliance costs, which could increase operating expenses and capital outlay in the medium term. Furthermore, geopolitical uncertainties and fluctuating fuel markets add layers of external risk that may impact operational and financial stability.
+
+#### F3: Industry Cyclicality and Demand Sensitivity
+The airline industry’s inherent cyclicality exposes Alaska Air to fluctuations in passenger demand stemming from economic slowdowns, pandemics, or external shocks such as rising interest rates and geopolitical tensions. Reduced demand negatively impacts revenues and cash flow, heightening credit risk in downturn scenarios. The company’s concentrated geographic footprint on the U.S. West Coast amplifies vulnerability to localized economic disruptions relative to more geographically diversified competitors.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |   EBITDA |      Cash |      CapEx |   EBITDA Margin |       FFO |       CFO |       FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|---------:|----------:|-----------:|----------------:|----------:|----------:|----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2024-12-31 | 1.27e+09 | 1.201e+09 | -1.281e+09 |       0.108223  | 1.957e+09 | 1.464e+09 |  1.83e+08 |                nan      |      nan       |           5.03386 |              0.0286251 |       2.71719  |
+| 2023-12-31 | 8.68e+08 | 2.81e+08  | -1.494e+09 |       0.0832534 | 9.07e+08  | 1.05e+09  | -4.44e+08 |                nan      |      nan       |           4.39862 |             -0.116291  |       0.972318 |
+| 2022-12-31 | 5.88e+08 | 3.38e+08  | -1.671e+09 |       0.0609579 | 1.825e+09 | 1.418e+09 | -2.53e+08 |                 26.7042 |        1.99367 |           6.42857 |             -0.0669312 |       1.22464  |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Weak and Fluctuating Profitability Margins Limit Debt Servicing Capacity  
+Alaska Air Group’s EBITDA margin has shown an improving trend from 6.1% in 2022 to 10.8% in 2024, which superficially suggests rising profitability. However, the absolute margin level remains modest relative to many industry peers and the airline sector benchmark. While this marks progress, the margin remains thin and exposes the company to material earnings volatility in an inherently cyclical and capital-intensive industry. This limits the cushion available to absorb shocks and supports only a moderate level of debt repayment capacity. The company’s EBITDA margin remains substantially higher than JetBlue’s (around 1.2% in 2024), but Alaska’s trailing margins in earlier years and ongoing margin pressure in the sector indicate vulnerability to downturns.
+
+#### 2. Inconsistent and Weak Free Cash Flow Generation Signals Structural Cash Conversion Challenges  
+Despite positive EBITDA growth, Alaska Air has displayed recurring issues with converting earnings into free cash flow (FCF). The company reported negative FCF in 2022 and 2023 (-$253 million and -$444 million, respectively), only narrowly returning to positive territory in 2024 ($183 million). This pattern reflects persistent high capital expenditures which exceed operating cash generation, undermining flexibility. The free cash flow ratio remains very low (2.9% in 2024), demonstrating limited capacity to internally fund debt repayment or reinvest without external financing. Comparatively, JetBlue’s negative FCF and larger CapEx footprint highlight industry-wide challenges, but Alaska’s inconsistent FCF trajectory raises concerns about executing sustainable cash flow management and investment strategies.
+
+#### 3. Rising Leverage Levels Indicate Potential Pressure on Financial Flexibility  
+Leverage measures, as expressed by EBITDA and FFO multiples, have increased markedly over recent years. EBITDA leverage rose from 6.4x in 2022 to over 5.0x in 2024, while FFO leverage became less reliable due to missing interest coverage data but is inferred as elevated from other metrics. Despite some deleveraging compared to 2023, Alaska’s leverage remains toward the high end for airlines, signaling constrained financial flexibility. Elevated leverage reduces the company’s ability to absorb earnings volatility or incremental debt needs and could restrict access to capital markets during stress periods. In comparison, JetBlue’s EBITDA leverage soared to 84.6x in 2024, reflecting its weaker earnings base, but Alaska’s leverage profile still points to meaningful refinancing and credit risk pressures.
+
+#### 4. Coverage Ratios Lack Adequate Margin of Safety to Withstand Earnings Volatility  
+Interest coverage ratios for Alaska Air have not been explicitly disclosed but are implied to be fragile given discrepancies in FFO and CFO trends and high leverage. Under stressed conditions, such as a 10-20% decline in FFO or CFO, the company’s capacity to cover interest expense would deteriorate swiftly, placing additional strain on profitability. The low free cash flow ratio and thin EBITDA margin intensify this risk. Although coverage on reported data is somewhat supportive, the margin of safety to absorb shocks is limited, suggesting a higher susceptibility to adverse economic or sectoral developments.
+
+#### 5. Liquidity Profile Shows Pockets of Strength but Near-Term Refinancing Risks Persist  
+Liquidity indicators present a mixed picture. Alaska Air’s cash balance of $1.2 billion at the end of 2024 versus short-term debt coverage suggests a comfortable ratio above 2.7x, indicating an ability to meet imminent obligations. However, the Free Cash Flow ratio remains very subdued, and past years have reflected negative FCF, implying potential reliance on external funding to bridge operating and investment cash flow gaps. Refinancing risk remains a concern, especially if cash flows deteriorate suddenly or if capital markets tighten, given the sizeable annual CapEx commitments exceeding $1 billion. In comparison, JetBlue maintains a higher cash balance relative to short-term debt, but with more negative free cash flow. Alaska’s liquidity, while currently stable, warrants close monitoring due to its capital expenditure intensity and earnings variability.
+
+#### 6. Cash Flow Volatility and Discrepancies Signal Potential Earnings Quality Issues  
+Significant divergences between EBITDA growth, CFO, and FCF indicate that earnings quality and operational cash conversion require scrutiny. For example, despite EBITDA growth from $588 million in 2022 to $1.27 billion in 2024, free cash flow remains volatile and often negative, impacted by steady but large capital expenditures. This signals potential challenges in working capital management or timing differences in cash realizations. Such volatility reduces predictability of cash flow available to service debt and increases refinancing risks. The company must improve execution on cost control and cash flow efficiency to strengthen credit fundamentals.
+
+---
+
+### Summary  
+Alaska Air Group’s financial profile is characterized by modest and volatile profitability, elevated leverage, and inconsistent free cash flow generation, which together constrain its financial flexibility and amplify credit risk. Although liquidity appears sufficient in the near term, ongoing heavy capital expenditures and thin cash flow buffers expose the company to refinancing risks and coverage weaknesses, particularly under adverse earnings scenarios. Compared with peers like JetBlue, Alaska fares moderately better in profitability and liquidity but remains vulnerable to sector cyclical pressures, capital intensity, and cash conversion challenges. These factors weigh negatively on the overall credit profile for 2025.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Modest and Fluctuating EBITDA Margins Limit Earnings Cushion  
+Alaska Air Group’s EBITDA margin, although improving from 6.1% in 2022 to 10.8% in 2024, remains relatively low for the airline industry. The margins indicate limited profitability resilience, leaving the company exposed to earnings volatility in a highly cyclical sector. Despite improvement, the margins provide a narrow buffer for debt servicing and reduce flexibility to absorb economic or operating shocks.
+
+#### 2. Inconsistent Free Cash Flow Generation Amid High Capital Expenditures  
+The company’s free cash flow (FCF) has been volatile and generally weak, with negative FCF reported in 2022 (-$253 million) and 2023 (-$444 million), turning slightly positive in 2024 ($183 million). This reflects persistent high capital expenditures exceeding $1.2 billion annually, which strain cash flow despite improving EBITDA. The very low free cash flow ratio (around 2.9% in 2024) underscores ongoing challenges in converting operating profitability into sustainable, discretionary cash flow.
+
+#### 3. Elevated Leverage Ratios Reflect Compressed Financial Flexibility  
+Leverage levels, expressed via EBITDA leverage, remained high at around 5.0x in 2024, although improved from 6.4x in 2022. This indicates a significant debt burden relative to earnings, which constrains financial flexibility and increases vulnerability to adverse business or market conditions. The company’s FFO leverage metrics are not fully reported but implied to be elevated given the cash flow profile, which limits Alaska’s ability to absorb further financial stress.
+
+#### 4. Subdued Interest Coverage and Limited Buffer Against Earnings Volatility  
+The absence of reported FFO interest coverage ratios for Alaska Air, combined with high leverage and volatile cash flows, suggests limited headroom to absorb earnings downturns or rising interest expenses. The free cash flow generation constraints and thin EBITDA margin reduce the capacity to comfortably meet interest payments without external financing or asset sales, raising refinancing and solvency risks.
+
+#### 5. Liquidity Appears Adequate in the Near Term but Dependent on Stable Cash Flows  
+Alaska Air held $1.2 billion in cash at the end of 2024, resulting in a favorable cash to short-term debt ratio of approximately 2.7x, supporting near-term liquidity needs. However, persistent negative or low free cash flow in prior periods highlights reliance on external funding or liquidity sources to cover capital expenditures and debt maturities. This reliance could constrain liquidity under scenarios of cash flow stress or capital market disruptions.
+
+#### 6. Cash Flow Conversion Inefficiencies Reflect Potential Operational and Investment Risks  
+While EBITDA has grown significantly from 2022 to 2024, operating cash flow and free cash flow have not kept pace, partly due to large and sustained capital spending. This discrepancy indicates issues with cash flow quality and conversion efficiency, raising concerns about working capital management and investment prioritization. Such inefficiencies reduce the stability and predictability of cash flows available for debt service.
+
+---
+
+Overall, Alaska Air Group’s financial profile exhibits vulnerabilities stemming from modest and volatile profitability, high capital intensity, elevated leverage, and inconsistent cash flow generation. These factors collectively constrain the company’s financial flexibility and increase credit risk under adverse operating or market conditions.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner          |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name                        |
+|----:|:----------------------------|:-------------------|------------------------:|:-------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:-------------------------------------|
+|   0 | A                           | 2025-09-29         |                     nan | BIRKETT RAKOW DIANA      |      4 | A-Award            | --D                            |                               940 |                          940 |             2 |         nan | RESTRICTED STOCK UNITS               |
+|   1 | A                           | 2025-09-29         |                     nan | LEVINE KYLE B            |      4 | A-Award            | --D                            |                               630 |                          630 |             2 |         nan | RESTRICTED STOCK UNITS               |
+|   2 | A                           | 2025-09-23         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                              2010 |                         5939 |             1 |         nan | COMMON STOCK                         |
+|   3 | D                           | 2025-09-23         |                     nan | Berry Jason M            |      4 | F-InKind           | --D                            |                               805 |                         5432 |             2 |         nan | COMMON STOCK                         |
+|   4 | D                           | 2025-09-23         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                              2010 |                         4020 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|   5 | D                           | 2025-08-18         |                     nan | LEVINE KYLE B            |      4 | S-Sale             | --D                            |                              5914 |                        20917 |             1 |         nan | COMMON STOCK                         |
+|   6 | D                           | 2025-08-13         |                     nan | TACKETT SHANE R          |      4 | S-Sale             | --D                            |                              5000 |                        43335 |             1 |         nan | COMMON STOCK                         |
+|   7 | D                           | 2025-07-28         |                     nan | HARRISON ANDREW R        |      4 | S-Sale             | --D                            |                              7600 |                        18930 |             1 |         nan | COMMON STOCK                         |
+|   8 | D                           | 2025-06-05         |                     nan | HALVERSON EMILY          |      4 | S-Sale             | --D                            |                              2156 |                         8612 |             1 |         nan | COMMON STOCK                         |
+|   9 | D                           | 2025-06-05         |                     nan | HALVERSON EMILY          |      4 | S-Sale             | --D                            |                               790 |                         8253 |             2 |         nan | COMMON STOCK                         |
+|  10 | A                           | 2025-05-29         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | A-Award            | --I                            |                               400 |                          400 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  11 | D                           | 2025-05-19         |                     nan | HARRISON ANDREW R        |      4 | S-Sale             | --D                            |                              7500 |                        26530 |             1 |         nan | COMMON STOCK                         |
+|  12 | A                           | 2025-05-08         |                     nan | Conner Raymond L.        |      4 | A-Award            | --D                            |                              2653 |                        19815 |             1 |         nan | COMMON STOCK                         |
+|  13 | A                           | 2025-05-08         |                     nan | SANDVIK HELVI KAY        |      4 | A-Award            | --D                            |                              2653 |                        25569 |             1 |         nan | COMMON STOCK                         |
+|  14 | A                           | 2025-05-08         |                     nan | Hogan Kathleen T         |      4 | A-Award            | --D                            |                              2653 |                        17339 |             1 |         nan | COMMON STOCK                         |
+|  15 | A                           | 2025-05-08         |                     nan | Shimer Peter A           |      4 | A-Award            | --D                            |                              2653 |                         2653 |             1 |         nan | COMMON STOCK                         |
+|  16 | A                           | 2025-05-08         |                     nan | Bedient Patricia M       |      4 | A-Award            | --D                            |                              2653 |                        62382 |             1 |         nan | COMMON STOCK                         |
+|  17 | A                           | 2025-05-08         |                     nan | BEER JAMES A             |      4 | A-Award            | --D                            |                              2653 |                        20304 |             1 |         nan | COMMON STOCK                         |
+|  18 | A                           | 2025-05-08         |                     nan | ELWELL DANIEL KEVIN      |      4 | A-Award            | --D                            |                              1326 |                        11805 |             1 |         nan | COMMON STOCK                         |
+|  19 | A                           | 2025-05-08         |                     nan | LOFTON ADRIENNE ROCHELLE |      4 | A-Award            | --D                            |                              2653 |                        12066 |             1 |         nan | COMMON STOCK                         |
+|  20 | A                           | 2025-05-08         |                     nan | YEAMAN ERIC K            |      4 | A-Award            | --D                            |                              2653 |                        27486 |             1 |         nan | COMMON STOCK                         |
+|  21 | A                           | 2025-05-08         |                     nan | ELWELL DANIEL KEVIN      |      4 | A-Award            | --D                            |                              1327 |                        13132 |             2 |         nan | COMMON STOCK                         |
+|  22 | A                           | 2025-05-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --I                            |                               143 |                          971 |             1 |         nan | COMMON STOCK                         |
+|  23 | D                           | 2025-05-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | S-Sale             | --I                            |                                33 |                          938 |             2 |         nan | COMMON STOCK                         |
+|  24 | D                           | 2025-05-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --I                            |                               143 |                          287 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  25 | A                           | 2025-04-18         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                               960 |                        11009 |             1 |         nan | COMMON STOCK                         |
+|  26 | D                           | 2025-04-18         |                     nan | HALVERSON EMILY          |      4 | F-InKind           | --D                            |                               241 |                        10768 |             2 |         nan | COMMON STOCK                         |
+|  27 | D                           | 2025-04-18         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                               960 |                            0 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  28 | A                           | 2025-03-20         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                               697 |                         4099 |             1 |         nan | COMMON STOCK                         |
+|  29 | D                           | 2025-03-20         |                     nan | Berry Jason M            |      4 | F-InKind           | --D                            |                               170 |                         3929 |             2 |         nan | COMMON STOCK                         |
+|  30 | D                           | 2025-03-20         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                               697 |                          697 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  31 | A                           | 2025-02-23         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --I                            |                               280 |                          890 |             1 |         nan | COMMON STOCK                         |
+|  32 | D                           | 2025-02-23         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | F-InKind           | --I                            |                                62 |                          828 |             2 |         nan | COMMON STOCK                         |
+|  33 | D                           | 2025-02-23         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --I                            |                               280 |                            0 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  34 | D                           | 2025-02-20         |                     nan | HARRISON ANDREW R        |      4 | S-Sale             | --D                            |                              6600 |                        34030 |             1 |         nan | COMMON STOCK                         |
+|  35 | A                           | 2025-02-18         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              2540 |                        31857 |             1 |         nan | COMMON STOCK                         |
+|  36 | A                           | 2025-02-18         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                             10326 |                        42183 |             2 |         nan | COMMON STOCK                         |
+|  37 | D                           | 2025-02-18         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | S-Sale             | --D                            |                             22157 |                        20026 |             3 |         nan | COMMON STOCK                         |
+|  38 | D                           | 2025-02-18         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              2540 |                            0 |             5 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+|  39 | D                           | 2025-02-18         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                             10326 |                         3444 |             6 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+|  40 | A                           | 2025-02-13         |                     nan | BIRKETT RAKOW DIANA      |      4 | M-Exempt           | --D                            |                              4090 |                        19867 |             1 |         nan | COMMON STOCK                         |
+|  41 | A                           | 2025-02-13         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              8860 |                        32596 |             1 |         nan | COMMON STOCK                         |
+|  42 | A                           | 2025-02-13         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                              2383 |                        10630 |             1 |         nan | COMMON STOCK                         |
+|  43 | A                           | 2025-02-13         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                              2726 |                         4066 |             1 |         nan | COMMON STOCK                         |
+|  44 | A                           | 2025-02-13         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                             22720 |                       163954 |             1 |         nan | COMMON STOCK                         |
+|  45 | A                           | 2025-02-13         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                             10223 |                        52203 |             1 |         nan | COMMON STOCK                         |
+|  46 | A                           | 2025-02-13         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              8860 |                        44117 |             1 |         nan | COMMON STOCK                         |
+|  47 | A                           | 2025-02-13         |                     nan | SPRAGUE JOSEPH A         |      4 | M-Exempt           | --D                            |                              4543 |                        21070 |             1 |         nan | COMMON STOCK                         |
+|  48 | A                           | 2025-02-13         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              5906 |                        29082 |             1 |         nan | COMMON STOCK                         |
+|  49 | A                           | 2025-02-13         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              4543 |                        31615 |             1 |         nan | COMMON STOCK                         |
+|  50 | D                           | 2025-02-13         |                     nan | MINICUCCI BENITO         |      4 | F-InKind           | --D                            |                              8407 |                       155547 |             2 |         nan | COMMON STOCK                         |
+|  51 | D                           | 2025-02-13         |                     nan | TACKETT SHANE R          |      4 | F-InKind           | --D                            |                              4023 |                        48180 |             2 |         nan | COMMON STOCK                         |
+|  52 | D                           | 2025-02-13         |                     nan | HARRISON ANDREW R        |      4 | F-InKind           | --D                            |                              3487 |                        40630 |             2 |         nan | COMMON STOCK                         |
+|  53 | D                           | 2025-02-13         |                     nan | SPRAGUE JOSEPH A         |      4 | F-InKind           | --D                            |                              1681 |                        19389 |             2 |         nan | COMMON STOCK                         |
+|  54 | D                           | 2025-02-13         |                     nan | LEVINE KYLE B            |      4 | F-InKind           | --D                            |                              2325 |                        26757 |             2 |         nan | COMMON STOCK                         |
+|  55 | D                           | 2025-02-13         |                     nan | SCHNEIDER ANDREA L       |      4 | F-InKind           | --D                            |                              1681 |                        29934 |             2 |         nan | COMMON STOCK                         |
+|  56 | D                           | 2025-02-13         |                     nan | BIRKETT RAKOW DIANA      |      4 | F-InKind           | --D                            |                              1610 |                        18257 |             2 |         nan | COMMON STOCK                         |
+|  57 | D                           | 2025-02-13         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | F-InKind           | --D                            |                              3279 |                        29317 |             2 |         nan | COMMON STOCK                         |
+|  58 | D                           | 2025-02-13         |                     nan | HALVERSON EMILY          |      4 | F-InKind           | --D                            |                               581 |                        10049 |             2 |         nan | COMMON STOCK                         |
+|  59 | D                           | 2025-02-13         |                     nan | Berry Jason M            |      4 | F-InKind           | --D                            |                               664 |                         3402 |             2 |         nan | COMMON STOCK                         |
+|  60 | D                           | 2025-02-13         |                     nan | BIRKETT RAKOW DIANA      |      4 | M-Exempt           | --D                            |                              4090 |                         8180 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  61 | D                           | 2025-02-13         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                              2383 |                         4767 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  62 | D                           | 2025-02-13         |                     nan | Berry Jason M            |      4 | M-Exempt           | --D                            |                              2726 |                         5454 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  63 | D                           | 2025-02-13         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                             22720 |                        45440 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  64 | D                           | 2025-02-13         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              8860 |                        17720 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  65 | D                           | 2025-02-13         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              5906 |                        11814 |             3 |         nan | RESTRICTED STOCK UNITS               |
+|  66 | D                           | 2025-02-13         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                             10223 |                        20447 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  67 | D                           | 2025-02-13         |                     nan | SPRAGUE JOSEPH A         |      4 | M-Exempt           | --D                            |                              4543 |                         9087 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  68 | D                           | 2025-02-13         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              4543 |                         9087 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  69 | D                           | 2025-02-13         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              8860 |                        17720 |             4 |         nan | RESTRICTED STOCK UNITS               |
+|  70 | A                           | 2025-02-11         |                     nan | Berry Jason M            |      4 | A-Award            | --D                            |                              9290 |                         9290 |             2 |         nan | RESTRICTED STOCK UNITS               |
+|  71 | A                           | 2025-02-11         |                     nan | BIRKETT RAKOW DIANA      |      4 | A-Award            | --D                            |                              4682 |                        17347 |             3 |         nan | COMMON STOCK                         |
+|  72 | A                           | 2025-02-11         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | A-Award            | --D                            |                             13014 |                        28858 |             3 |         nan | COMMON STOCK                         |
+|  73 | A                           | 2025-02-11         |                     nan | HALVERSON EMILY          |      4 | A-Award            | --D                            |                               392 |                         8343 |             3 |         nan | COMMON STOCK                         |
+|  74 | A                           | 2025-02-11         |                     nan | MINICUCCI BENITO         |      4 | A-Award            | --D                            |                             33846 |                       154553 |             3 |         nan | COMMON STOCK                         |
+|  75 | A                           | 2025-02-11         |                     nan | HARRISON ANDREW R        |      4 | A-Award            | --D                            |                             16666 |                        41816 |             3 |         nan | COMMON STOCK                         |
+|  76 | A                           | 2025-02-11         |                     nan | SPRAGUE JOSEPH A         |      4 | A-Award            | --D                            |                              6765 |                        18915 |             3 |         nan | COMMON STOCK                         |
+|  77 | A                           | 2025-02-11         |                     nan | LEVINE KYLE B            |      4 | A-Award            | --D                            |                              7291 |                        26046 |             3 |         nan | COMMON STOCK                         |
+|  78 | A                           | 2025-02-11         |                     nan | SCHNEIDER ANDREA L       |      4 | A-Award            | --D                            |                              7291 |                        29942 |             3 |         nan | COMMON STOCK                         |
+|  79 | D                           | 2025-02-11         |                     nan | MINICUCCI BENITO         |      4 | F-InKind           | --D                            |                             13319 |                       141234 |             4 |         nan | COMMON STOCK                         |
+|  80 | D                           | 2025-02-11         |                     nan | HARRISON ANDREW R        |      4 | F-InKind           | --D                            |                              6559 |                        35257 |             4 |         nan | COMMON STOCK                         |
+|  81 | D                           | 2025-02-11         |                     nan | SPRAGUE JOSEPH A         |      4 | F-InKind           | --D                            |                              2388 |                        16527 |             4 |         nan | COMMON STOCK                         |
+|  82 | D                           | 2025-02-11         |                     nan | LEVINE KYLE B            |      4 | F-InKind           | --D                            |                              2870 |                        23176 |             4 |         nan | COMMON STOCK                         |
+|  83 | D                           | 2025-02-11         |                     nan | SCHNEIDER ANDREA L       |      4 | F-InKind           | --D                            |                              2870 |                        27072 |             4 |         nan | COMMON STOCK                         |
+|  84 | D                           | 2025-02-11         |                     nan | BIRKETT RAKOW DIANA      |      4 | F-InKind           | --D                            |                              1570 |                        15777 |             4 |         nan | COMMON STOCK                         |
+|  85 | D                           | 2025-02-11         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | F-InKind           | --D                            |                              5122 |                        23736 |             4 |         nan | COMMON STOCK                         |
+|  86 | D                           | 2025-02-11         |                     nan | HALVERSON EMILY          |      4 | F-InKind           | --D                            |                                96 |                         8247 |             4 |         nan | COMMON STOCK                         |
+|  87 | A                           | 2025-02-11         |                     nan | BIRKETT RAKOW DIANA      |      4 | A-Award            | --D                            |                              7430 |                         7430 |             6 |         nan | RESTRICTED STOCK UNITS               |
+|  88 | A                           | 2025-02-11         |                     nan | HALVERSON EMILY          |      4 | A-Award            | --D                            |                              3630 |                         3630 |             6 |         nan | RESTRICTED STOCK UNITS               |
+|  89 | A                           | 2025-02-11         |                     nan | MINICUCCI BENITO         |      4 | A-Award            | --D                            |                             46460 |                        46460 |             6 |         nan | RESTRICTED STOCK UNITS               |
+|  90 | A                           | 2025-02-11         |                     nan | HARRISON ANDREW R        |      4 | A-Award            | --D                            |                             16350 |                        16350 |             6 |         nan | RESTRICTED STOCK UNITS               |
+|  91 | A                           | 2025-02-11         |                     nan | SPRAGUE JOSEPH A         |      4 | A-Award            | --D                            |                              9290 |                         9290 |             6 |         nan | RESTRICTED STOCK UNITS               |
+|  92 | A                           | 2025-02-11         |                     nan | LEVINE KYLE B            |      4 | A-Award            | --D                            |                             11150 |                        11150 |             6 |         nan | COMMON STOCK                         |
+|  93 | A                           | 2025-02-11         |                     nan | SCHNEIDER ANDREA L       |      4 | A-Award            | --D                            |                              8360 |                         8360 |             7 |         nan | RESTRICTED STOCK UNITS               |
+|  94 | A                           | 2025-02-11         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | A-Award            | --D                            |                             15240 |                        15240 |             7 |         nan | RESTRICTED STOCK UNITS               |
+|  95 | A                           | 2025-02-11         |                     nan | TACKETT SHANE R          |      4 | A-Award            | --D                            |                             16666 |                        48539 |             8 |         nan | COMMON STOCK                         |
+|  96 | D                           | 2025-02-11         |                     nan | TACKETT SHANE R          |      4 | F-InKind           | --D                            |                              6559 |                        41980 |             9 |         nan | COMMON STOCK                         |
+|  97 | A                           | 2025-02-11         |                     nan | TACKETT SHANE R          |      4 | A-Award            | --D                            |                             19330 |                        19330 |            16 |         nan | RESTRICTED STOCK UNITS               |
+|  98 | A                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                             13222 |                        45095 |             3 |         nan | COMMON STOCK                         |
+|  99 | A                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                              8470 |                        53565 |             4 |         nan | COMMON STOCK                         |
+| 100 | A                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                               276 |                        53841 |             5 |         nan | COMMON STOCK                         |
+| 101 | A                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                               925 |                        54766 |             6 |         nan | COMMON STOCK                         |
+| 102 | D                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | S-Sale             | --D                            |                             22893 |                        31873 |             7 |         nan | COMMON STOCK                         |
+| 103 | D                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                             13222 |                         4408 |            12 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 104 | D                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                              8470 |                            0 |            13 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 105 | D                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                               276 |                            0 |            14 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 106 | D                           | 2025-02-10         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                               925 |                            0 |            15 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 107 | A                           | 2025-02-07         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                             15110 |                       126298 |             1 |         nan | COMMON STOCK                         |
+| 108 | A                           | 2025-02-07         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                              7440 |                        34802 |             1 |         nan | COMMON STOCK                         |
+| 109 | A                           | 2025-02-07         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              7440 |                        28078 |             1 |         nan | COMMON STOCK                         |
+| 110 | A                           | 2025-02-07         |                     nan | SPRAGUE JOSEPH A         |      4 | M-Exempt           | --D                            |                              3020 |                        12860 |             1 |         nan | COMMON STOCK                         |
+| 111 | A                           | 2025-02-07         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              3250 |                        19936 |             1 |         nan | COMMON STOCK                         |
+| 112 | A                           | 2025-02-07         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              3250 |                        23536 |             1 |         nan | COMMON STOCK                         |
+| 113 | A                           | 2025-02-07         |                     nan | BIRKETT RAKOW DIANA      |      4 | M-Exempt           | --D                            |                              2090 |                        13174 |             1 |         nan | COMMON STOCK                         |
+| 114 | A                           | 2025-02-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              5810 |                        17972 |             1 |         nan | COMMON STOCK                         |
+| 115 | A                           | 2025-02-07         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                              1060 |                         8210 |             1 |         nan | COMMON STOCK                         |
+| 116 | D                           | 2025-02-07         |                     nan | BIRKETT RAKOW DIANA      |      4 | F-InKind           | --D                            |                               509 |                        12665 |             2 |         nan | COMMON STOCK                         |
+| 117 | D                           | 2025-02-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | F-InKind           | --D                            |                              2128 |                        15844 |             2 |         nan | COMMON STOCK                         |
+| 118 | D                           | 2025-02-07         |                     nan | HALVERSON EMILY          |      4 | F-InKind           | --D                            |                               259 |                         7951 |             2 |         nan | COMMON STOCK                         |
+| 119 | D                           | 2025-02-07         |                     nan | MINICUCCI BENITO         |      4 | F-InKind           | --D                            |                              5591 |                       120707 |             2 |         nan | COMMON STOCK                         |
+| 120 | D                           | 2025-02-07         |                     nan | TACKETT SHANE R          |      4 | F-InKind           | --D                            |                              2929 |                        31873 |             2 |         nan | COMMON STOCK                         |
+| 121 | D                           | 2025-02-07         |                     nan | HARRISON ANDREW R        |      4 | F-InKind           | --D                            |                              2928 |                        25150 |             2 |         nan | COMMON STOCK                         |
+| 122 | D                           | 2025-02-07         |                     nan | SPRAGUE JOSEPH A         |      4 | F-InKind           | --D                            |                               710 |                        12150 |             2 |         nan | COMMON STOCK                         |
+| 123 | D                           | 2025-02-07         |                     nan | LEVINE KYLE B            |      4 | F-InKind           | --D                            |                              1181 |                        18755 |             2 |         nan | COMMON STOCK                         |
+| 124 | D                           | 2025-02-07         |                     nan | SCHNEIDER ANDREA L       |      4 | F-InKind           | --D                            |                               885 |                        22651 |             2 |         nan | COMMON STOCK                         |
+| 125 | D                           | 2025-02-07         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                             15110 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 126 | D                           | 2025-02-07         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              7440 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 127 | D                           | 2025-02-07         |                     nan | SPRAGUE JOSEPH A         |      4 | M-Exempt           | --D                            |                              3020 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 128 | D                           | 2025-02-07         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              3250 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 129 | D                           | 2025-02-07         |                     nan | BIRKETT RAKOW DIANA      |      4 | M-Exempt           | --D                            |                              2090 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 130 | D                           | 2025-02-07         |                     nan | HALVERSON EMILY          |      4 | M-Exempt           | --D                            |                              1060 |                            0 |             5 |         nan | RESTRICTED STOCK UNITS               |
+| 131 | D                           | 2025-02-07         |                     nan | VON MUEHLEN CONSTANCE E  |      4 | M-Exempt           | --D                            |                              5810 |                            0 |             6 |         nan | RESTRICTED STOCK UNITS               |
+| 132 | D                           | 2025-02-07         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              3250 |                            0 |             6 |         nan | RESTRICTED STOCK UNITS               |
+| 133 | D                           | 2025-02-07         |                     nan | TACKETT SHANE R          |      4 | M-Exempt           | --D                            |                              7440 |                            0 |            11 |         nan | RESTRICTED STOCK UNITS               |
+| 134 | A                           | 2025-01-30         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              1830 |                        22116 |             1 |         nan | COMMON STOCK                         |
+| 135 | D                           | 2025-01-30         |                     nan | SCHNEIDER ANDREA L       |      4 | S-Sale             | --D                            |                              1830 |                        20286 |             2 |         nan | COMMON STOCK                         |
+| 136 | D                           | 2025-01-30         |                     nan | LEVINE KYLE B            |      4 | G-Gift             | --D                            |                                30 |                        16686 |             4 |         nan | COMMON STOCK                         |
+| 137 | D                           | 2025-01-30         |                     nan | SCHNEIDER ANDREA L       |      4 | M-Exempt           | --D                            |                              1830 |                            0 |             4 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 138 | A                           | 2025-01-29         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              1570 |                        21049 |             1 |         nan | COMMON STOCK                         |
+| 139 | D                           | 2025-01-29         |                     nan | LEVINE KYLE B            |      4 | S-Sale             | --D                            |                              1570 |                        19479 |             2 |         nan | COMMON STOCK                         |
+| 140 | D                           | 2025-01-29         |                     nan | LEVINE KYLE B            |      4 | S-Sale             | --D                            |                              2763 |                        16716 |             3 |         nan | COMMON STOCK                         |
+| 141 | D                           | 2025-01-29         |                     nan | LEVINE KYLE B            |      4 | M-Exempt           | --D                            |                              1570 |                            0 |             5 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 142 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             22750 |                        43388 |             1 |         nan | COMMON STOCK                         |
+| 143 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              8815 |                        52203 |             2 |         nan | COMMON STOCK                         |
+| 144 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              3145 |                        55348 |             3 |         nan | COMMON STOCK                         |
+| 145 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              5483 |                        60831 |             4 |         nan | COMMON STOCK                         |
+| 146 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             17660 |                        78491 |             5 |         nan | COMMON STOCK                         |
+| 147 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             20280 |                        98771 |             6 |         nan | COMMON STOCK                         |
+| 148 | A                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             13612 |                       112383 |             7 |         nan | COMMON STOCK                         |
+| 149 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | S-Sale             | --D                            |                             91745 |                        20638 |             8 |         nan | COMMON STOCK                         |
+| 150 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             22750 |                            0 |             9 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY)    |
+| 151 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              8815 |                         8815 |            10 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 152 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              3145 |                            0 |            11 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 153 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                              5483 |                            0 |            12 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 154 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             17660 |                            0 |            13 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 155 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             20280 |                            0 |            14 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+| 156 | D                           | 2025-01-28         |                     nan | HARRISON ANDREW R        |      4 | M-Exempt           | --D                            |                             13612 |                         4538 |            15 |         nan | EMPLOYEE STOCK OPTION (RT TO BUY)    |
+| 157 | A                           | 2025-01-24         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                              9861 |                       121049 |             1 |         nan | COMMON STOCK                         |
+| 158 | D                           | 2025-01-24         |                     nan | SPRAGUE JOSEPH A         |      4 | S-Sale             | --D                            |                              9500 |                         9840 |             1 |         nan | COMMON STOCK                         |
+| 159 | D                           | 2025-01-24         |                     nan | MINICUCCI BENITO         |      4 | S-Sale             | --D                            |                              9861 |                       111188 |             2 |         nan | COMMON STOCK                         |
+| 160 | D                           | 2025-01-24         |                     nan | MINICUCCI BENITO         |      4 | M-Exempt           | --D                            |                              9861 |                            0 |             3 |         nan | EMPLOYEE STOCK OPTION (RIGHT TO BUY) |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### Elevated Insider Selling Activity Indicates Potential Weakness in Management Confidence  
+Transaction data for Alaska Air Group, Inc. in 2025 reveals a significant volume and frequency of insider dispositions, particularly clustered around late January and late September. Several key executives, including named officers such as Jason M. Berry and Benito Minicucci, executed sizable sales of common stock and exercised stock options followed by immediate dispositions. This pattern suggests a partial reduction in insider shareholdings and may reflect concerns about near- to medium-term company prospects or valuation. While some turnover can be attributed to portfolio diversification or liquidity needs, the concentration and repetition of these transactions among senior management raise questions about their confidence in sustained operational performance or strategic direction. The lack of offsetting acquisitions by insiders further compounds this concern, pointing towards a potential weakening alignment between management and long-term shareholder interests.
+
+#### No Evidence of Concentration or Ownership Consolidation to Bolster Control  
+The insider transaction records do not indicate any material acquisition activity that would concentrate ownership or strengthen control by key executives or significant shareholders. Instead, the overall movement reflects a dispersal or stabilization of insider stakes rather than accumulation. This absence of ownership consolidation could lead to diminished management influence over strategic decisions and may complicate swift execution of corporate initiatives, especially in a challenging operating environment. Given the airline industry’s capital intensity and competitive dynamics, lack of concentrated insider ownership could limit the company’s agility in strategic repositioning or capital structure optimization.
+
+#### Continued Reliance on Equity Compensation Could Imply Dilution Risk and Misalignment  
+The recurring issuance and subsequent exercise or disposition of restricted stock units and employee stock options throughout 2025 highlight the company’s ongoing reliance on equity-based compensation for management and employees. This pattern raises potential concerns over shareholder value dilution, particularly if such compensation programs are extensive and persistent without clear linkage to shareholder returns improvement. Moreover, substantial insider sales following option exercise may signal an opportunistic extraction of value rather than long-term commitment to the company’s growth. This dynamic may signal misalignment between executive incentives and creditor interests, potentially increasing credit risk if operational or financial pressures escalate.
+
+#### Absence of Group Structure Support Leaves Alaska Air Group Standalone in Strategic Execution  
+No data on parent or subsidiary relationships is available, indicating that Alaska Air Group operates without significant corporate group affiliations that might offer credit support. This standalone status increases its exposure to sector-specific shocks and limits external financial or operational buffer capacity. The company’s ability to absorb adverse shocks or pursue transformational strategies may be constrained without a broader corporate group to share resources, thereby elevating business profile risk in a cyclical and volatile industry environment.
+
+---
+
+**Summary:** The business profile of Alaska Air Group in 2025 is marked by considerable insider selling suggesting potential doubts within upper management about future performance, alongside a lack of ownership consolidation that may dilute control and strategic alignment. Equity compensation practices raise dilution concerns and possible misalignment with creditor interests. The absence of group structure support accentuates standalone exposure to industry risks, together underscoring vulnerabilities in the company’s strategic stability and business risk profile.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+- **Significant Insider Stock Dispositions Reflect Potential Concerns on Company Outlook**  
+In 2025, Alaska Air Group experienced notable insider sales involving key executives such as Jason M. Berry and Benito Minicucci. These transactions included multiple large-scale common stock sales and exercises of stock options followed by immediate dispositions. The consistent insider selling, without corresponding significant insider purchases, suggests possible cautiousness or reduced confidence among management in the company’s near-term prospects.
+
+- **No Evidence of Ownership Consolidation or Increased Insider Control**  
+Despite substantial insider activity, there is no indication of ownership concentration or strategic accumulation of shares by insiders. The distribution of insider ownership appears stable or slightly diluted, which could limit management’s ability to decisively influence corporate strategy or align stakeholder interests under a concentrated ownership framework.
+
+- **Continued Use of Equity-Based Compensation Raises Dilution Concerns**  
+The frequent issuance and exercise of restricted stock units and stock options to insiders and employees throughout 2025 underline an ongoing dependence on equity compensation. This practice may pose dilution risk for existing shareholders and creditors, especially if not directly tied to sustainable improvements in company performance or credit metrics.
+
+- **Lack of Group Structure or Affiliate Support Increases Standalone Exposure**  
+No data indicates that Alaska Air Group is part of a broader corporate group with parent or subsidiary relationships that could provide financial or operational support. Operating independently in a capital-intensive and cyclical airline industry increases exposure to sector risks and reduces the company’s flexibility to absorb shocks or pursue strategic initiatives leveraging group resources.
+# V3
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+**Elevated Geopolitical Instability and Security Concerns**  
+The air transportation sector, including Alaska Air Group, Inc., faces ongoing exposure to geopolitical tensions and security threats that can disrupt operations and increase costs. While Alaska Air has not been directly impacted by recent Middle East conflicts such as the Israel-Hamas war (2023), the broader sector experienced heightened risk perceptions and operational uncertainties following such interstate conflicts and terrorist attacks. These events contribute to potential volatility in passenger demand and can lead to more stringent security regulations, which in turn increase operating expenses. The unpredictable nature of geopolitical events remains a credit risk driver by adding complexity and uncertainty to Alaska Air’s operating environment.
+
+**Regulatory and Political Uncertainties in the U.S.**  
+Historical political developments, such as the U.S. presidential transitions and related power transfers—including the inauguration of President Donald Trump in 2017 and the impeachment proceedings in 2019—illustrate the potential for policy shifts that impact airline regulation, taxation, and infrastructure investments. Although none of these events singularly altered Alaska Air’s credit profile dramatically, they underscore the company’s sensitivity to changing regulatory landscapes in its core U.S. market. The potential for future abrupt policy changes, particularly in labor relations, environmental regulations, or air traffic management, poses a medium-term credit risk by potentially increasing costs or limiting growth flexibility.
+
+**Sector-Wide Sensitivity to Macroeconomic Cycles and External Shocks**  
+The scheduled air transportation industry is inherently vulnerable to macroeconomic fluctuations and external shocks, including economic downturns, fuel price volatility, and pandemics. While no specific such shocks are detailed within the recent event history, Alaska Air’s credit risk remains exposed to these factors. The company’s operating environment lacks notable recent tailwinds that materially improve resilience, and legacy sector challenges such as reliance on discretionary passenger travel and susceptibility to labor unrest persist. These sector-wide external pressures negatively influence Alaska Air’s credit profile by impeding stable cash flow generation and financial flexibility.
+
+---
+
+These operating environment factors collectively weigh on Alaska Air Group’s credit risk assessment by introducing elements of uncertainty and operational complexity beyond the company’s direct control. The predominance of external risks, particularly geopolitical volatility and evolving regulatory frameworks, necessitates vigilant risk management and financial prudence to sustain creditworthiness.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+**Exposure to Political and Regulatory Uncertainty in the U.S.**  
+Alaska Air Group operates within the highly regulated U.S. aviation industry, which is subject to political shifts affecting regulation, labor policies, and infrastructure development. Past political events such as presidential transitions and impeachment proceedings highlight potential volatility in the regulatory environment. While these events have not caused immediate disruption to Alaska Air, they underscore ongoing uncertainty that could translate into increased compliance costs, changes in taxation, or shifts in environmental and safety regulations, thereby pressuring the company’s operating costs and strategic flexibility.
+
+**Geopolitical Risks and Security Concerns Affecting the Air Transportation Sector**  
+Although Alaska Air has not been directly impacted by recent geopolitical conflicts such as the Israel-Hamas war, the airline industry overall remains vulnerable to sudden geopolitical tensions and terrorism threats. These risks can affect traveler confidence and demand, impose additional security requirements, and potentially increase operating expenses. The inherent unpredictability of such events represents a persistent external risk factor that may negatively influence Alaska Air’s passenger volumes and cost structure.
+
+**Sector Vulnerability to Macroeconomic Cycles and External Shocks**  
+The scheduled air transportation industry is sensitive to macroeconomic downturns, fluctuations in fuel prices, and other external shocks. Such factors continue to challenge Alaska Air’s ability to maintain stable revenue streams and profitability. Given the discretionary nature of passenger travel, economic slowdowns or periods of financial stress can rapidly reduce demand, increasing credit risk due to lower cash flow predictability and financial flexibility.
+
+---
+
+These factors collectively highlight the external risks embedded in Alaska Air Group’s operating environment. The company faces significant exposure to regulatory uncertainty, geopolitical volatility, and broader sector-specific sensitivities that could constrain its operational performance and credit profile over the medium term.
+# FINAL
+---------------------------------------------------
+# Key Rating Drivers
+
+This section outlines the principal factors influencing Alaska Air Group, Inc.’s credit risk profile for 2025. While the company has shown stages of operational improvement, several negative and risk-related elements persist across its financial profile, business strategy, and operating environment. These factors collectively limit financial flexibility, heighten exposure to external shocks, and challenge the company’s resilience amid an inherently volatile airline industry.
+
+---
+
+## Financial Profile (F1)
+
+### 1. Modest and Volatile Profitability Limits Earnings Cushion  
+Despite improvements in EBITDA margin from 6.1% in 2022 to 10.8% in 2024, Alaska Air Group’s profitability remains below robust industry standards. This narrow earnings margin offers limited buffer against fluctuations in operating conditions, increasing the risk that earnings shocks—resulting from economic downturns, rising fuel costs, or labor disruptions—could directly impair debt servicing capacity.
+
+### 2. Inconsistent and Weak Free Cash Flow Amid High Capital Expenditures  
+The company continues to generate uneven and generally weak free cash flow (FCF), reporting negative FCF in both 2022 (-$253 million) and 2023 (-$444 million), turning only slightly positive to $183 million in 2024. This volatility largely reflects sustained capital expenditures exceeding $1.2 billion annually, which strain cash flow conversion despite EBITDA gains. The low free cash flow ratio (approximately 2.9% in 2024) signals ongoing difficulty in generating sustainable discretionary cash that is critical for debt repayment, capital investments, and potential business expansion.
+
+### 3. Elevated Leverage Constrains Financial Flexibility  
+Alaska Air’s leverage remains elevated, with EBITDA leverage around 5.0x in 2024, reflecting a heavy debt load relative to earnings. Although leverage metrics have improved from 6.4x in 2022, this level still curtails financial flexibility and leaves the company vulnerable to adverse shocks or weaker operating performance. The absence of detailed funds from operations (FFO) coverage ratios further clouds the true debt-servicing capacity, with implied high leverage intensifying refinancing and solvency risks.
+
+### 4. Thin Interest Coverage and Limited Cushion for Earnings Volatility  
+The lack of publicly provided FFO interest coverage ratios, combined with weak free cash flow and modest EBITDA margins, suggests a slim margin for absorbing losses or rising interest costs. This restricted coverage heightens risk in scenarios of increased borrowing costs or operational setbacks, potentially pressuring liquidity and requiring reliance on external financing or asset disposals to meet obligations.
+
+### 5. Fragile Liquidity Dependent on Stable Cash Flow Generation  
+While near-term liquidity appears supported by approximately $1.2 billion in cash at year-end 2024—translating to a healthy cash to short-term debt ratio of about 2.7x—this buffer depends heavily on maintaining steady cash flows. The company’s history of negative or minimal free cash flow underscores exposure to liquidity challenges during periods of operating disruption or capital market tightening.
+
+### 6. Cash Flow Conversion Inefficiencies Indicate Operational and Investment Risks  
+Rapid EBITDA growth from 2022 to 2024 has not translated proportionally into operating or free cash flows, exposing inefficiencies in cash flow quality. These may result from suboptimal working capital management, aggressive investment prioritization, or recurring capital intensity. These inefficiencies raise concerns over the predictability and stability of cash flows available to meet debt service requirements.
+
+---
+
+## Business Profile (F2)
+
+### 7. Insider Stock Dispositions Suggest Potential Managerial Caution  
+Throughout 2025, significant insider selling by key executives—including multiple large-scale stock sales and option exercises—has been observed without corresponding insider purchases. This pattern reflects possible caution or reduced confidence by management regarding the company’s near-term outlook, which may weigh on market sentiment and raise questions about internal expectations.
+
+### 8. Absence of Ownership Consolidation Limits Strategic Agility  
+Despite notable insider activity, ownership remains dispersed rather than concentrated. This lack of ownership consolidation potentially diminishes management’s ability to implement decisive strategic shifts or drive cohesive corporate governance initiatives that could shore up long-term creditworthiness.
+
+### 9. Continued Equity-Based Compensation Poses Dilution Risks  
+Ongoing issuance and exercise of equity compensation instruments, including restricted stock units and options, continue to dilute existing shareholders and creditors. This practice could pressure share and credit valuations, especially if not aligned with tangible improvements in operational or financial performance.
+
+### 10. Standalone Operating Structure Intensifies Sector Risk Exposure  
+Operating independently without parent or group affiliate support intensifies Alaska Air’s exposure to the cyclical and capital-intensive nature of the airline industry. The absence of a corporate group’s financial or operational backing limits the company’s ability to absorb shocks or leverage group synergies during periods of stress.
+
+---
+
+## Operating Environment (F3)
+
+### 11. Regulatory and Political Uncertainty Adds Cost and Compliance Pressure  
+Operating within the highly regulated U.S. airline industry, Alaska Air faces ongoing regulatory and political risks, including potential changes in labor laws, environmental mandates, infrastructure development, and taxation. Recent political events have underscored volatility in this environment, increasing the probability of higher compliance costs and strategic inflexibility.
+
+### 12. Geopolitical and Security Risks Impact Demand and Costs  
+Although not directly affected by recent Middle East conflicts, Alaska Air is exposed to the broader airline sector’s vulnerabilities to geopolitical tensions and terrorism threats. Such events can diminish passenger demand, increase security-related operating expenses, and introduce unpredictability into cash flow forecasts.
+
+### 13. Sensitivity to Macroeconomic Cycles and External Shocks Remains High  
+The discretionary nature of air travel exposes Alaska Air’s revenue and profitability to economic fluctuations, fuel price volatility, and other external shocks. Downturns in macroeconomic conditions can rapidly curtail passenger volumes and revenue generation, exacerbating existing financial pressures and increasing credit risk.
+
+---
+
+# Conclusion
+
+Alaska Air Group enters 2025 navigating a confluence of risks predominantly rooted in its financial profile and operating environment. Its modest and volatile profitability, combined with high leverage, uneven free cash flow, and capital intensity, constrain financial flexibility and heighten refinancing risks. Within the business profile, insider selling activity and reliance on equity dilution signal caution and potential governance challenges. Overlaying these internal vulnerabilities, the company’s exposure to regulatory shifts, geopolitical tensions, and macroeconomic cyclicality intensifies operational uncertainty. Collectively, these factors underpin a cautious credit outlook, emphasizing heightened risk in adverse scenarios and limited capacity to absorb external or internal shocks.
+# V0
+---------------------------------------------------
+### Key Rating Drivers
+
+#### 1. F1 - Elevated Leverage and Subdued Cash Flow Generation 
+Merck & Co., Inc. exhibited moderate leverage levels in 2022, with a net debt to EBITDA ratio trending above the industry median, reflecting significant debt taken on to finance recent acquisitions and R&D investments. Although EBITDA margin remained relatively stable, free cash flow conversion was pressured by increased capital expenditures and working capital requirements. This constrained cash flow generation limits financial flexibility and heightens refinancing risks in the context of rising interest rates, thereby weighing negatively on credit quality.
+
+#### 2. F1 - Profitability Under Pressure from Increased R&D and Legal Expenses  
+The company’s net profitability margins were compressed in 2022 due to elevated research and development expenses as Merck doubled down on pipeline strengthening and innovation. Additionally, increased provisions for legal settlements and ongoing litigation, including patent disputes, further weighed on earnings. This combination dampens Merck’s ability to generate stable and predictable earnings, a factor that dampens credit strength and increases volatility risk.
+
+#### 3. F2 - High Dependence on Key Product Revenues with Patent Expirations  
+Merck’s business profile remains exposed to revenue concentration risk, with a significant share of sales dependent on flagship products such as Keytruda. Patent expirations and increased generic competition in the medium term pose substantial risks to revenue stability and growth prospects. Despite ongoing pipeline development, delays or clinical trial failures could result in material downside to future cash flows, weakening the company’s competitive positioning and credit profile.
+
+#### 4. F2 - Challenges in Integration and Execution of Acquisitions  
+The company continues to integrate sizable acquisitions completed in recent years, which introduce execution risk. Potential difficulties in realizing anticipated synergies, alongside integration costs, could weigh on operating margins and cash generation. Complexity in managing a more diversified portfolio may also divert management focus from core operations, resulting in operational inefficiencies that negatively impact credit metrics.
+
+#### 5. F3 - Operating Environment Pressures from Regulatory and Pricing Uncertainties  
+Merck faces an increasingly challenging external environment with heightened regulatory scrutiny on drug pricing, including potential legislative initiatives in key markets like the United States and Europe. Pricing pressures and reimbursement reforms introduce uncertainty around revenue sustainability. Moreover, supply chain disruptions and inflationary cost pressures amid global economic volatility further exacerbate operational risks and could impair profitability and liquidity.
+
+#### 6. F3 - Exposure to Macroeconomic and Geopolitical Risks  
+As a multinational pharmaceutical company, Merck is exposed to varying macroeconomic conditions and geopolitical risks that can affect foreign exchange rates, demand patterns, and market access. Economic slowdown in major markets or geopolitical tensions affecting supply chains or regulatory approvals represent material risks that could adversely affect financial results and increase business volatility, thereby limiting credit resilience.
+
+---
+
+These factors collectively shape the negative credit risk profile for Merck & Co., reflecting heightened pressures from leverage, profit volatility, operational execution risks, and uncertainty in the broader operating environment.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |       Cash |      CapEx |   EBITDA Margin |        FFO |        CFO |        FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|-----------:|-----------:|----------------:|-----------:|-----------:|-----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2022-12-31 | 2.1315e+10 | 1.2694e+10 | -4.388e+09 |        0.359547 | 1.6313e+10 | 1.9095e+10 | 1.4707e+10 |                 3.32644 |        1.3158  |           1.43988 |               0.479196 |        6.52312 |
+| 2021-12-31 | 1.7899e+10 | 8.096e+09  | -4.448e+09 |        0.367506 | 1.027e+10  | 1.4109e+10 | 9.661e+09  |                 2.55371 |        1.96102 |           1.84938 |               0.291855 |        3.35655 |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Moderating Profitability Amid Sector Pressure  
+Merck’s EBITDA margin declined slightly from 36.8% in 2021 to 36.0% in 2022, reflecting moderate compression in operating profitability. While still solid, this margin contraction signals challenges in sustaining peak profitability levels needed to comfortably support debt servicing in a competitive pharmaceutical landscape. Compared with AbbVie, which maintains a stronger EBITDA margin of 41.6% in 2022, Merck shows relatively weaker cost efficiencies and pricing power. This moderation poses a potential headwind for credit metrics if adverse pricing or increased R&D investments persist.
+
+#### 2. Leverage Remains Elevated, Limiting Financial Flexibility  
+Merck’s leverage, measured by EBITDA and FFO multiples, improved but remains moderately high. EBITDA leverage declined to 1.44x in 2022 from 1.85x in 2021, and FFO leverage improved more notably to 1.32x from 1.96x. Despite this improvement, leverage remains relatively elevated compared to AbbVie’s 2.62x EBITDA leverage, though AbbVie carries more debt relative to EBITDA, reflecting industry variability. Nonetheless, Merck’s leverage constrains its financial flexibility, particularly if unexpected cash flow pressures arise, limiting its capacity to absorb additional debt or fund aggressive growth initiatives without worsening credit metrics.
+
+#### 3. Strong but Potentially Volatile Cash Flow Generation  
+Merck demonstrates robust cash flow generation with Operating Cash Flow (CFO) of $19.1 billion and Free Cash Flow (FCF) of $14.7 billion in 2022, reflecting an improved Free Cash Flow Ratio of 48% (up from 29% in 2021). However, this increase largely results from stable CapEx and improved working capital management rather than significant operational gains, which could prove volatile under stress. The differential between EBITDA growth and FCF growth suggests sensitivity to near-term CapEx and working capital shifts. This cash flow volatility may pressure Merck’s ability to consistently cover operational needs and leverage repayments if market or operational headwinds intensify.
+
+#### 4. Coverage Ratios Show Cushion but Could Be Impacted Under Stress  
+Merck’s Funds from Operations (FFO) interest coverage ratio of 3.33x in 2022 remains adequate, indicating sufficient ability to meet interest obligations. However, this metric is derived from strong cash flows in a benign environment. A 10-20% decline in FFO, which could materialize amid regulatory changes or pricing pressures, would materially compress coverage levels, potentially pushing the ratio below ideal cushioning thresholds. This sensitivity underscores the risk profile in scenarios of earnings volatility or macroeconomic headwinds.
+
+#### 5. Liquidity Positively Supported but Refinancing Risk Present  
+The company holds a strong cash position of $12.7 billion at year-end 2022, yielding a Cash to Short-Term Debt ratio of 6.5x, which suggests ample liquidity to meet immediate obligations. Free Cash Flow coverage also improved, partially mitigating near-term refinancing risks. Nevertheless, the pharmaceutical sector’s capital-intensive nature and ongoing innovation demands imply continued capital expenditures (~$4.4 billion annually) that could challenge liquidity if cash generation falters. Liquidity pressure could emerge in stressed scenarios where cash flow declines coincide with maturing debt or unexpected capital needs.
+
+#### 6. Efficiency and Cash Quality Slightly Mixed; Monitoring Needed  
+While EBITDA improved year-over-year (+19%), Free Cash Flow improved at a less pronounced pace (+52%), attributed largely to consistent CapEx levels rather than broad operational improvements. The FCF to EBITDA ratio remains below 50%, hinting at moderate capital intensity and working capital demands that could erode cash quality if either factor deteriorates. Such discrepancies highlight the need to monitor capital allocation and operational efficiency closely, as any adverse movement could impair Merck’s credit profile through reduced cash conversion quality.
+
+---
+
+**Summary:**  
+Merck & Co., Inc.’s financial profile in 2022 features solid but slightly moderating profitability, improving leverage, and strong cash flow generation. However, elevated leverage, margin compression relative to peers, and sensitivity of coverage ratios to cash flow shocks constitute key risks. Liquidity is robust today but vulnerable to stress scenarios given capital expenditure demands. These factors collectively suggest moderate credit risk, with heightened attention warranted on operating performance and cash flow sustainability amid sector pressures and macroeconomic uncertainties.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Slight Decline in EBITDA Margin Signals Profitability Pressure  
+Merck’s EBITDA margin decreased modestly from 36.8% in 2021 to 36.0% in 2022, indicating some compression in operating profitability. While still at a healthy level, the downward trend may reflect competitive pressures or increased costs, potentially limiting the company’s ability to improve cash flows and support debt repayment over time. This margin remains below AbbVie’s 41.6%, highlighting Merck’s relatively weaker profitability within the sector.
+
+#### 2. Leverage Levels Remain Moderate but Require Monitoring  
+Merck’s leverage ratios show improvement, with EBITDA leverage declining to 1.44x and FFO leverage to 1.32x in 2022. Although these figures suggest manageable debt relative to earnings, the trend from higher leverage indicates prior elevated financial risk. Compared to peers like AbbVie, which shows higher leverage multiples, Merck maintains a more conservative position; however, sustained high leverage could limit strategic flexibility, especially if cash flow generation weakens.
+
+#### 3. Strong Cash Generation but Potential Sensitivity to CapEx and Working Capital  
+The company generated a substantial free cash flow of $14.7 billion in 2022, supporting debt servicing and liquidity needs. The Free Cash Flow Ratio improved to 48%, reflecting efficient cash conversion relative to EBITDA. However, the stable CapEx level of approximately $4.4 billion and changes in working capital remain significant cash flow drains. Any deterioration in these investment or operational components could reduce free cash flow generation and strain financial flexibility.
+
+#### 4. Adequate Interest Coverage but Vulnerable to Earnings Volatility  
+FFO interest coverage stands at 3.33x for 2022, signaling sufficient capacity to meet interest expenses under current conditions. Nevertheless, the coverage margin is not excessive, and a material decline in cash flows of 10-20%, possible under adverse market or operational developments, could pressure coverage ratios and elevate credit risk.
+
+#### 5. Strong Liquidity Position Mitigates Near-Term Refinancing Risk  
+Merck held $12.7 billion in cash at year-end 2022, resulting in a Cash to Short-Term Debt ratio of 6.5x. This robust liquidity profile favors short-term debt coverage and reduces immediate refinancing concerns. However, continued capital expenditures and potential working capital needs underscore the importance of maintaining healthy cash reserves amidst evolving market conditions.
+
+#### 6. Consistency Across Cash Flow Measures Supports Financial Stability  
+Funds from Operations ($16.3 billion), Operating Cash Flow ($19.1 billion), and Free Cash Flow ($14.7 billion) demonstrate a consistent cash generation profile. This consistency reflects sound financial quality and operational cash conversion, mitigating risks related to cash flow volatility. However, monitoring of cash flow trends remains necessary to ensure sustained capacity for debt service.
+
+---
+
+**Summary:**  
+Merck’s 2022 financial profile reflects steady profitability with slight margin compression, moderate and improving leverage, and strong, consistent cash flow generation. Interest coverage and liquidity metrics remain adequate but could face pressure under adverse scenarios affecting cash flows or capital investment requirements. Overall, financial risk appears manageable though contingent on stable operating performance and disciplined capital allocation.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner             |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name               |
+|----:|:----------------------------|:-------------------|------------------------:|:----------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------------------|
+| 375 | A                           | 2022-12-30         |                     nan | Coe Mary Ellen              |      4 | A-Award            | --D                            |                          292.925  |              17083.9         |             2 |         nan | Phantom Stock               |
+| 376 | A                           | 2022-12-30         |                     nan | GLOCER THOMAS H             |      4 | A-Award            | --D                            |                          405.588  |              86420.4         |             2 |         nan | Phantom Stock               |
+| 377 | A                           | 2022-12-30         |                     nan | Seidman Christine E         |      4 | A-Award            | --D                            |                           73.2312 |              10192.7         |             2 |         nan | Phantom Stock               |
+| 378 | A                           | 2022-12-30         |                     nan | WENDELL PETER C             |      4 | A-Award            | --D                            |                          270.392  |             117421           |             2 |         nan | Phantom Stock               |
+| 379 | A                           | 2022-12-19         |                     nan | Romanelli Joseph            |      4 | P-Purchase         | --D                            |                            7      |              20484.3         |             5 |         nan | Common Stock                |
+| 380 | A                           | 2022-12-13         |                     nan | Romanelli Joseph            |      4 | P-Purchase         | --D                            |                           56      |              20477.3         |             4 |         nan | Common Stock                |
+| 381 | A                           | 2022-12-06         |                     nan | Romanelli Joseph            |      4 | P-Purchase         | --D                            |                           30      |              20421.3         |             3 |         nan | Common Stock                |
+| 382 | A                           | 2022-12-05         |                     nan | Romanelli Joseph            |      4 | P-Purchase         | --D                            |                          107      |              20391.3         |             2 |         nan | Common Stock                |
+| 383 | A                           | 2022-12-02         |                     nan | Romanelli Joseph            |      4 | P-Purchase         | --I                            |                           59      |                 59           |             1 |         nan | Common Stock                |
+| 384 | A                           | 2022-11-10         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        15000      |              47144.1         |             3 |         nan | Common Stock                |
+| 385 | D                           | 2022-11-10         |                     nan | MIZELL STEVEN               |      4 | S-Sale             | --D                            |                        15000      |              32144.1         |             4 |         nan | Common Stock                |
+| 386 | D                           | 2022-11-10         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        15000      |                824           |             6 |         nan | Stock Option (Right to Buy) |
+| 387 | A                           | 2022-11-09         |                     nan | Davis Robert M              |      4 | M-Exempt           | --D                            |                       167613      |             415206           |             1 |         nan | Common Stock                |
+| 388 | D                           | 2022-11-09         |                     nan | Oosthuizen Johannes Jacobus |      4 | S-Sale             | --D                            |                         1795      |              16730.9         |             1 |         nan | Common Stock                |
+| 389 | D                           | 2022-11-09         |                     nan | Davis Robert M              |      4 | S-Sale             | --D                            |                        87595      |             327611           |             2 |         nan | Common Stock                |
+| 390 | D                           | 2022-11-09         |                     nan | Davis Robert M              |      4 | S-Sale             | --D                            |                        79918      |             247693           |             3 |         nan | Common Stock                |
+| 391 | D                           | 2022-11-09         |                     nan | Davis Robert M              |      4 | S-Sale             | --D                            |                          100      |             247593           |             4 |         nan | Common Stock                |
+| 392 | D                           | 2022-11-09         |                     nan | Davis Robert M              |      4 | M-Exempt           | --D                            |                       167613      |                  0           |             5 |         nan | Stock Option (Right to Buy) |
+| 393 | A                           | 2022-11-08         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        20000      |              52144.1         |             1 |         nan | Common Stock                |
+| 394 | D                           | 2022-11-08         |                     nan | MIZELL STEVEN               |      4 | S-Sale             | --D                            |                        20000      |              32144.1         |             2 |         nan | Common Stock                |
+| 395 | D                           | 2022-11-08         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        20000      |              15824           |             5 |         nan | Stock Option (Right to Buy) |
+| 396 | A                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        14703      |              26046.9         |             1 |         nan | Common Stock                |
+| 397 | A                           | 2022-11-07         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235769      |             936422           |             1 |         nan | Common Stock                |
+| 398 | A                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        17455      |              43501.9         |             2 |         nan | Common Stock                |
+| 399 | D                           | 2022-11-07         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        24914      |             911508           |             2 |         nan | Common Stock                |
+| 400 | A                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        13540      |              57041.9         |             3 |         nan | Common Stock                |
+| 401 | D                           | 2022-11-07         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       126134      |             785374           |             3 |         nan | Common Stock                |
+| 402 | A                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                         7045      |              64086.9         |             4 |         nan | Common Stock                |
+| 403 | D                           | 2022-11-07         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        84721      |             700653           |             4 |         nan | Common Stock                |
+| 404 | D                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | S-Sale             | --D                            |                        45561      |              18525.9         |             5 |         nan | Common Stock                |
+| 405 | D                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        14703      |                  0           |             6 |         nan | Stock Option (Right to Buy) |
+| 406 | D                           | 2022-11-07         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235769      |                  0           |             6 |         nan | Stock Option (Right to Buy) |
+| 407 | D                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        17455      |                  0           |             7 |         nan | Stock Option (Right to Buy) |
+| 408 | D                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                        13540      |               6773           |             8 |         nan | Stock Option (Right to Buy) |
+| 409 | D                           | 2022-11-07         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                         7045      |              14094           |             9 |         nan | Stock Option (Right to Buy) |
+| 410 | A                           | 2022-11-04         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235000      |             935653           |             4 |         nan | Common Stock                |
+| 411 | D                           | 2022-11-04         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       200190      |             735463           |             5 |         nan | Common Stock                |
+| 412 | D                           | 2022-11-04         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        34810      |             700653           |             6 |         nan | Common Stock                |
+| 413 | D                           | 2022-11-04         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235000      |             235769           |             9 |         nan | Stock Option (Right to Buy) |
+| 414 | A                           | 2022-11-03         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235000      |             935653           |             1 |         nan | Common Stock                |
+| 415 | D                           | 2022-11-03         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       214617      |             721036           |             2 |         nan | Common Stock                |
+| 416 | D                           | 2022-11-03         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        20383      |             700653           |             3 |         nan | Common Stock                |
+| 417 | D                           | 2022-11-03         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       235000      |             470769           |             8 |         nan | Stock Option (Right to Buy) |
+| 418 | A                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       165828      |             866481           |             8 |         nan | Common Stock                |
+| 419 | A                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       134172      |                  1.00065e+06 |             9 |         nan | Common Stock                |
+| 420 | D                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       205661      |             794992           |            10 |         nan | Common Stock                |
+| 421 | D                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        94339      |             700653           |            11 |         nan | Common Stock                |
+| 422 | D                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       165828      |                  0           |            14 |         nan | Stock Option (Right to Buy) |
+| 423 | D                           | 2022-11-02         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       134172      |             705769           |            15 |         nan | Stock Option (Right to Buy) |
+| 424 | A                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       300000      |                  1.00628e+06 |             1 |         nan | Common Stock                |
+| 425 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       202319      |             803964           |             2 |         nan | Common Stock                |
+| 426 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        96981      |             706983           |             3 |         nan | Common Stock                |
+| 427 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                          700      |             706283           |             4 |         nan | Common Stock                |
+| 428 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | G-Gift             | -ED                            |                         1710      |             704573           |             5 |         nan | Common Stock                |
+| 429 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | G-Gift             | -ED                            |                         2450      |             702123           |             6 |         nan | Common Stock                |
+| 430 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | G-Gift             | -ED                            |                         1470      |             700653           |             7 |         nan | Common Stock                |
+| 431 | D                           | 2022-11-01         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       300000      |             165828           |            13 |         nan | Stock Option (Right to Buy) |
+| 432 | A                           | 2022-10-31         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       300000      |                  1.00628e+06 |             5 |         nan | Common Stock                |
+| 433 | D                           | 2022-10-31         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        70698      |             935585           |             6 |         nan | Common Stock                |
+| 434 | D                           | 2022-10-31         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       229302      |             706283           |             7 |         nan | Common Stock                |
+| 435 | D                           | 2022-10-31         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       300000      |             465828           |            10 |         nan | Stock Option (Right to Buy) |
+| 436 | A                           | 2022-10-30         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          913      |              11793.9         |             2 |         nan | Common Stock                |
+| 437 | D                           | 2022-10-30         |                     nan | Oosthuizen Johannes Jacobus |      4 | F-InKind           | --D                            |                          450      |              11343.9         |             3 |         nan | Common Stock                |
+| 438 | D                           | 2022-10-30         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          913      |                915           |             4 |         nan | Restricted Stock Unit       |
+| 439 | A                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        68367      |             123015           |             1 |         nan | Common Stock                |
+| 440 | D                           | 2022-10-28         |                     nan | Oosthuizen Johannes Jacobus |      4 | S-Sale             | --D                            |                         3633      |              10880.9         |             1 |         nan | Common Stock                |
+| 441 | A                           | 2022-10-28         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        17000      |              57144.1         |             1 |         nan | Common Stock                |
+| 442 | A                           | 2022-10-28         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                        16997      |              58100           |             1 |         nan | Common Stock                |
+| 443 | A                           | 2022-10-28         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       567084      |                  1.27337e+06 |             1 |         nan | Common Stock                |
+| 444 | A                           | 2022-10-28         |                     nan | DeLuca Richard R.           |      4 | M-Exempt           | --D                            |                        59564      |             196541           |             1 |         nan | Common Stock                |
+| 445 | A                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        15213      |              60821.4         |             1 |         nan | Common Stock                |
+| 446 | A                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        51884      |             174899           |             2 |         nan | Common Stock                |
+| 447 | D                           | 2022-10-28         |                     nan | MIZELL STEVEN               |      4 | S-Sale             | --D                            |                        17000      |              40144.1         |             2 |         nan | Common Stock                |
+| 448 | A                           | 2022-10-28         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                        15000      |              73100           |             2 |         nan | Common Stock                |
+| 449 | D                           | 2022-10-28         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                        75489      |                  1.19788e+06 |             2 |         nan | Common Stock                |
+| 450 | A                           | 2022-10-28         |                     nan | DeLuca Richard R.           |      4 | M-Exempt           | --D                            |                       104993      |             301534           |             2 |         nan | Common Stock                |
+| 451 | A                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        34024      |              94845.4         |             2 |         nan | Common Stock                |
+| 452 | A                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        28396      |             203295           |             3 |         nan | Common Stock                |
+| 453 | D                           | 2022-10-28         |                     nan | MIZELL STEVEN               |      4 | S-Sale             | --D                            |                         8000      |              32144.1         |             3 |         nan | Common Stock                |
+| 454 | D                           | 2022-10-28         |                     nan | Karachun Rita A             |      4 | S-Sale             | --D                            |                        31997      |              41103           |             3 |         nan | Common Stock                |
+| 455 | D                           | 2022-10-28         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       313232      |             884646           |             3 |         nan | Common Stock                |
+| 456 | D                           | 2022-10-28         |                     nan | DeLuca Richard R.           |      4 | S-Sale             | --D                            |                       164557      |             136977           |             3 |         nan | Common Stock                |
+| 457 | A                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        51055      |             145900           |             3 |         nan | Common Stock                |
+| 458 | D                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | S-Sale             | --D                            |                        99768      |             103527           |             4 |         nan | Common Stock                |
+| 459 | D                           | 2022-10-28         |                     nan | MIZELL STEVEN               |      4 | M-Exempt           | --D                            |                        17000      |              35824           |             4 |         nan | Stock Option (Right to Buy) |
+| 460 | D                           | 2022-10-28         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                        16997      |                  0           |             4 |         nan | Stock Option (Right to Buy) |
+| 461 | D                           | 2022-10-28         |                     nan | FRAZIER KENNETH C           |      4 | S-Sale             | --D                            |                       178363      |             706283           |             4 |         nan | Common Stock                |
+| 462 | D                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | S-Sale             | --D                            |                       100292      |              45608.4         |             4 |         nan | Common Stock                |
+| 463 | D                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | S-Sale             | --D                            |                        65487      |              38040.3         |             5 |         nan | Common Stock                |
+| 464 | D                           | 2022-10-28         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                        15000      |              15875           |             5 |         nan | Stock Option (Right to Buy) |
+| 465 | D                           | 2022-10-28         |                     nan | DeLuca Richard R.           |      4 | M-Exempt           | --D                            |                        59564      |                  0           |             5 |         nan | Stock Option (Right to Buy) |
+| 466 | D                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        68367      |                  0           |             6 |         nan | Stock Option (Right to Buy) |
+| 467 | D                           | 2022-10-28         |                     nan | DeLuca Richard R.           |      4 | M-Exempt           | --D                            |                       104993      |                  0           |             6 |         nan | Stock Option (Right to Buy) |
+| 468 | D                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        15213      |                  0           |             6 |         nan | Stock Option (Right to Buy) |
+| 469 | D                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        51884      |              25946           |             7 |         nan | Stock Option (Right to Buy) |
+| 470 | D                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        34024      |                  0           |             7 |         nan | Stock Option (Right to Buy) |
+| 471 | D                           | 2022-10-28         |                     nan | Zachary Jennifer            |      4 | M-Exempt           | --D                            |                        28396      |              56792           |             8 |         nan | Stock Option (Right to Buy) |
+| 472 | D                           | 2022-10-28         |                     nan | Chattopadhyay Sanat         |      4 | M-Exempt           | --D                            |                        51055      |                  0           |             8 |         nan | Stock Option (Right to Buy) |
+| 473 | D                           | 2022-10-28         |                     nan | FRAZIER KENNETH C           |      4 | M-Exempt           | --D                            |                       567084      |                  0           |             9 |         nan | Stock Option (Right to Buy) |
+| 474 | A                           | 2022-09-30         |                     nan | Coe Mary Ellen              |      4 | A-Award            | --D                            |                          377.38   |              16662.7         |             2 |         nan | Phantom Stock               |
+| 475 | A                           | 2022-09-30         |                     nan | GLOCER THOMAS H             |      4 | A-Award            | --D                            |                          522.527  |              85350.7         |             2 |         nan | Phantom Stock               |
+| 476 | A                           | 2022-09-30         |                     nan | Seidman Christine E         |      4 | A-Award            | --D                            |                           94.3451 |              10039           |             2 |         nan | Phantom Stock               |
+| 477 | A                           | 2022-09-30         |                     nan | WENDELL PETER C             |      4 | A-Award            | --D                            |                          348.351  |             116238           |             2 |         nan | Phantom Stock               |
+| 478 | A                           | 2022-08-03         |                     nan | Williams David Michael      |      4 | A-Award            | --D                            |                        17119      |              17119           |             2 |         nan | Restricted Stock Unit       |
+| 479 | A                           | 2022-08-03         |                     nan | Guindo Chirfi               |      4 | A-Award            | --D                            |                       110705      |             110705           |             3 |         nan | Restricted Stock Unit       |
+| 480 | A                           | 2022-08-03         |                     nan | FRAZIER KENNETH C           |      4 | A-Award            | --D                            |                        28532      |              28532           |             3 |         nan | Restricted Stock Unit       |
+| 481 | A                           | 2022-06-30         |                     nan | WENDELL PETER C             |      4 | A-Award            | --D                            |                          329.056  |             115036           |             2 |         nan | Phantom Stock               |
+| 482 | A                           | 2022-06-30         |                     nan | Seidman Christine E         |      4 | A-Award            | --D                            |                           89.1192 |               9871.91        |             2 |         nan | Phantom Stock               |
+| 483 | A                           | 2022-06-30         |                     nan | GLOCER THOMAS H             |      4 | A-Award            | --D                            |                          493.583  |              84209.4         |             2 |         nan | Phantom Stock               |
+| 484 | A                           | 2022-06-30         |                     nan | Coe Mary Ellen              |      4 | A-Award            | --D                            |                          356.477  |              16167.8         |             2 |         nan | Phantom Stock               |
+| 485 | A                           | 2022-05-27         |                     nan | BAKER DOUGLAS M JR          |      4 | A-Award            | --D                            |                         2363.56   |               2363.56        |             2 |         nan | Phantom Stock               |
+| 486 | A                           | 2022-05-27         |                     nan | Coe Mary Ellen              |      4 | A-Award            | --D                            |                         2363.56   |              15811.3         |             2 |         nan | Phantom Stock               |
+| 487 | A                           | 2022-05-27         |                     nan | Craig Pamela J.             |      4 | A-Award            | --D                            |                         2363.56   |              23152           |             2 |         nan | Phantom Stock               |
+| 488 | A                           | 2022-05-27         |                     nan | GLOCER THOMAS H             |      4 | A-Award            | --D                            |                         2363.56   |              83715.8         |             2 |         nan | Phantom Stock               |
+| 489 | A                           | 2022-05-27         |                     nan | LAVIZZO-MOUREY RISA J       |      4 | A-Award            | --D                            |                         2363.56   |               7892.96        |             2 |         nan | Phantom Stock               |
+| 490 | A                           | 2022-05-27         |                     nan | Mayo Stephen                |      4 | A-Award            | --D                            |                         2363.56   |               5297.52        |             2 |         nan | Phantom Stock               |
+| 491 | A                           | 2022-05-27         |                     nan | Rothman Paul                |      4 | A-Award            | --D                            |                         2363.56   |              23152           |             2 |         nan | Phantom Stock               |
+| 492 | A                           | 2022-05-27         |                     nan | RUSSO PATRICIA F            |      4 | A-Award            | --D                            |                         2363.56   |              47506.9         |             2 |         nan | Phantom Stock               |
+| 493 | A                           | 2022-05-27         |                     nan | Seidman Christine E         |      4 | A-Award            | --D                            |                         2363.56   |               9782.79        |             2 |         nan | Phantom Stock               |
+| 494 | A                           | 2022-05-27         |                     nan | Thulin Inge G               |      4 | A-Award            | --D                            |                         2363.56   |              16518.6         |             2 |         nan | Phantom Stock               |
+| 495 | A                           | 2022-05-27         |                     nan | Warden Kathy J              |      4 | A-Award            | --D                            |                         2363.56   |               8018.03        |             2 |         nan | Phantom Stock               |
+| 496 | A                           | 2022-05-27         |                     nan | WENDELL PETER C             |      4 | A-Award            | --D                            |                         2363.56   |             114707           |             2 |         nan | Phantom Stock               |
+| 497 | A                           | 2022-05-04         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          813      |               3942.78        |             1 |         nan | Common Stock                |
+| 498 | A                           | 2022-05-04         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          885      |              15774.9         |             1 |         nan | Common Stock                |
+| 499 | A                           | 2022-05-04         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          949      |              41429           |             1 |         nan | Common Stock                |
+| 500 | A                           | 2022-05-04         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          907      |               2368           |             1 |         nan | Common Stock                |
+| 501 | A                           | 2022-05-04         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          907      |              14960.9         |             1 |         nan | Common Stock                |
+| 502 | D                           | 2022-05-04         |                     nan | LeCointe-Cephas Lisa        |      4 | F-InKind           | --D                            |                          279      |               3663.78        |             2 |         nan | Common Stock                |
+| 503 | D                           | 2022-05-04         |                     nan | Klobuchar Michael A         |      4 | F-InKind           | --D                            |                          436      |              15338.9         |             2 |         nan | Common Stock                |
+| 504 | D                           | 2022-05-04         |                     nan | Karachun Rita A             |      4 | F-InKind           | --D                            |                          326      |              41103           |             2 |         nan | Common Stock                |
+| 505 | D                           | 2022-05-04         |                     nan | Garay Arpa                  |      4 | F-InKind           | --D                            |                          259      |               2109           |             2 |         nan | Common Stock                |
+| 506 | D                           | 2022-05-04         |                     nan | Oosthuizen Johannes Jacobus |      4 | F-InKind           | --D                            |                          447      |              14513.9         |             2 |         nan | Common Stock                |
+| 507 | D                           | 2022-05-04         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          907      |               1819           |             3 |         nan | Restricted Stock Unit       |
+| 508 | D                           | 2022-05-04         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          907      |               1819           |             3 |         nan | Restricted Stock Unit       |
+| 509 | D                           | 2022-05-04         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          813      |               1629           |             5 |         nan | Restricted Stock Unit       |
+| 510 | D                           | 2022-05-04         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          949      |               1900           |             5 |         nan | Restricted Stock Unit       |
+| 511 | D                           | 2022-05-04         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          885      |               1772           |             7 |         nan | Restricted Stock Unit       |
+| 512 | A                           | 2022-05-03         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          773      |               1682           |             1 |         nan | Common Stock                |
+| 513 | A                           | 2022-05-03         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          773      |              15270.9         |             1 |         nan | Common Stock                |
+| 514 | A                           | 2022-05-03         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          773      |              14434.9         |             1 |         nan | Common Stock                |
+| 515 | A                           | 2022-05-03         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          902      |              40789           |             1 |         nan | Common Stock                |
+| 516 | A                           | 2022-05-03         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                          427      |               9409.76        |             1 |         nan | Common Stock                |
+| 517 | A                           | 2022-05-03         |                     nan | Li Dean Y                   |      4 | M-Exempt           | --D                            |                          773      |              16838.9         |             1 |         nan | Common Stock                |
+| 518 | A                           | 2022-05-03         |                     nan | Litchfield Caroline         |      4 | M-Exempt           | --D                            |                          773      |              27799.3         |             1 |         nan | Common Stock                |
+| 519 | A                           | 2022-05-03         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          452      |               3284.78        |             1 |         nan | Common Stock                |
+| 520 | A                           | 2022-05-03         |                     nan | Downing Cristal N           |      4 | A-Award            | --D                            |                        19417      |              19417           |             1 |         nan | Stock Option (Right to Buy) |
+| 521 | D                           | 2022-05-03         |                     nan | Garay Arpa                  |      4 | F-InKind           | --D                            |                          221      |               1461           |             2 |         nan | Common Stock                |
+| 522 | D                           | 2022-05-03         |                     nan | Klobuchar Michael A         |      4 | F-InKind           | --D                            |                          381      |              14889.9         |             2 |         nan | Common Stock                |
+| 523 | D                           | 2022-05-03         |                     nan | Oosthuizen Johannes Jacobus |      4 | F-InKind           | --D                            |                          381      |              14053.9         |             2 |         nan | Common Stock                |
+| 524 | D                           | 2022-05-03         |                     nan | Karachun Rita A             |      4 | F-InKind           | --D                            |                          309      |              40480           |             2 |         nan | Common Stock                |
+| 525 | D                           | 2022-05-03         |                     nan | Williams David Michael      |      4 | F-InKind           | --D                            |                          147      |               9262.76        |             2 |         nan | Common Stock                |
+| 526 | D                           | 2022-05-03         |                     nan | Li Dean Y                   |      4 | F-InKind           | --D                            |                          381      |              16457.9         |             2 |         nan | Common Stock                |
+| 527 | D                           | 2022-05-03         |                     nan | Litchfield Caroline         |      4 | F-InKind           | --D                            |                          373      |              27426.3         |             2 |         nan | Common Stock                |
+| 528 | D                           | 2022-05-03         |                     nan | LeCointe-Cephas Lisa        |      4 | F-InKind           | --D                            |                          155      |               3129.78        |             2 |         nan | Common Stock                |
+| 529 | A                           | 2022-05-03         |                     nan | Davis Robert M              |      4 | A-Award            | --D                            |                       228155      |             228155           |             2 |         nan | Stock Option (Right to Buy) |
+| 530 | A                           | 2022-05-03         |                     nan | Chattopadhyay Sanat         |      4 | A-Award            | --D                            |                        58252      |              58252           |             2 |         nan | Stock Option (Right to Buy) |
+| 531 | A                           | 2022-05-03         |                     nan | Litchfield Caroline         |      4 | A-Award            | --D                            |                        53398      |              53398           |             2 |         nan | Stock Option (Right to Buy) |
+| 532 | A                           | 2022-05-03         |                     nan | Li Dean Y                   |      4 | A-Award            | --D                            |                        75728      |              75728           |             2 |         nan | Stock Option (Right to Buy) |
+| 533 | A                           | 2022-05-03         |                     nan | MIZELL STEVEN               |      4 | A-Award            | --D                            |                        40777      |              40777           |             2 |         nan | Stock Option (Right to Buy) |
+| 534 | A                           | 2022-05-03         |                     nan | Zachary Jennifer            |      4 | A-Award            | --D                            |                        58252      |              58252           |             2 |         nan | Stock Option (Right to Buy) |
+| 535 | A                           | 2022-05-03         |                     nan | Williams David Michael      |      4 | A-Award            | --D                            |                        21359      |              21359           |             2 |         nan | Stock Option (Right to Buy) |
+| 536 | D                           | 2022-05-03         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          773      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 537 | D                           | 2022-05-03         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          773      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 538 | D                           | 2022-05-03         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          902      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 539 | D                           | 2022-05-03         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                          427      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 540 | D                           | 2022-05-03         |                     nan | Li Dean Y                   |      4 | M-Exempt           | --D                            |                          773      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 541 | D                           | 2022-05-03         |                     nan | Litchfield Caroline         |      4 | M-Exempt           | --D                            |                          773      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 542 | D                           | 2022-05-03         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          452      |                  0           |             3 |         nan | Restricted Stock Unit       |
+| 543 | A                           | 2022-05-03         |                     nan | FRAZIER KENNETH C           |      4 | A-Award            | --D                            |                        28703      |              28703           |             3 |         nan | Restricted Stock Unit       |
+| 544 | A                           | 2022-05-03         |                     nan | DeLuca Richard R.           |      4 | A-Award            | --D                            |                        58252      |              58252           |             3 |         nan | Stock Option (Right to Buy) |
+| 545 | A                           | 2022-05-03         |                     nan | LeCointe-Cephas Lisa        |      4 | A-Award            | --D                            |                        11650      |              11650           |             3 |         nan | Stock Option (Right to Buy) |
+| 546 | A                           | 2022-05-03         |                     nan | Karachun Rita A             |      4 | A-Award            | --D                            |                        13592      |              13592           |             3 |         nan | Stock Option (Right to Buy) |
+| 547 | A                           | 2022-05-03         |                     nan | LeCointe-Cephas Lisa        |      4 | A-Award            | --D                            |                         2067      |               2067           |             4 |         nan | Restricted Stock Unit       |
+| 548 | A                           | 2022-05-03         |                     nan | Karachun Rita A             |      4 | A-Award            | --D                            |                         2411      |               2411           |             4 |         nan | Restricted Stock Unit       |
+| 549 | A                           | 2022-05-03         |                     nan | Garay Arpa                  |      4 | A-Award            | --D                            |                        21359      |              21359           |             4 |         nan | Stock Option (Right to Buy) |
+| 550 | A                           | 2022-05-03         |                     nan | Oosthuizen Johannes Jacobus |      4 | A-Award            | --D                            |                        21359      |              21359           |             4 |         nan | Stock Option (Right to Buy) |
+| 551 | D                           | 2022-05-03         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          773      |                  0           |             7 |         nan | Restricted Stock Unit       |
+| 552 | A                           | 2022-05-03         |                     nan | Klobuchar Michael A         |      4 | A-Award            | --D                            |                        25243      |              25243           |             8 |         nan | Stock Option (Right to Buy) |
+| 553 | A                           | 2022-05-01         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          866      |               1156           |             1 |         nan | Common Stock                |
+| 554 | A                           | 2022-05-01         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          866      |              14924.9         |             1 |         nan | Common Stock                |
+| 555 | A                           | 2022-05-01         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          866      |              14088.9         |             1 |         nan | Common Stock                |
+| 556 | A                           | 2022-05-01         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          928      |              40205           |             1 |         nan | Common Stock                |
+| 557 | A                           | 2022-05-01         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                          577      |               9180.76        |             1 |         nan | Common Stock                |
+| 558 | A                           | 2022-05-01         |                     nan | Li Dean Y                   |      4 | M-Exempt           | --D                            |                         1061      |              16588.9         |             1 |         nan | Common Stock                |
+| 559 | A                           | 2022-05-01         |                     nan | Litchfield Caroline         |      4 | M-Exempt           | --D                            |                          866      |              27453.3         |             1 |         nan | Common Stock                |
+| 560 | A                           | 2022-05-01         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          640      |               3052.78        |             1 |         nan | Common Stock                |
+| 561 | D                           | 2022-05-01         |                     nan | Garay Arpa                  |      4 | F-InKind           | --D                            |                          247      |                909           |             2 |         nan | Common Stock                |
+| 562 | D                           | 2022-05-01         |                     nan | Klobuchar Michael A         |      4 | F-InKind           | --D                            |                          427      |              14497.9         |             2 |         nan | Common Stock                |
+| 563 | D                           | 2022-05-01         |                     nan | Oosthuizen Johannes Jacobus |      4 | F-InKind           | --D                            |                          427      |              13661.9         |             2 |         nan | Common Stock                |
+| 564 | D                           | 2022-05-01         |                     nan | Karachun Rita A             |      4 | F-InKind           | --D                            |                          318      |              39887           |             2 |         nan | Common Stock                |
+| 565 | D                           | 2022-05-01         |                     nan | Williams David Michael      |      4 | F-InKind           | --D                            |                          198      |               8982.76        |             2 |         nan | Common Stock                |
+| 566 | D                           | 2022-05-01         |                     nan | Li Dean Y                   |      4 | F-InKind           | --D                            |                          523      |              16065.9         |             2 |         nan | Common Stock                |
+| 567 | D                           | 2022-05-01         |                     nan | Litchfield Caroline         |      4 | F-InKind           | --D                            |                          427      |              27026.3         |             2 |         nan | Common Stock                |
+| 568 | D                           | 2022-05-01         |                     nan | LeCointe-Cephas Lisa        |      4 | F-InKind           | --D                            |                          220      |               2832.78        |             2 |         nan | Common Stock                |
+| 569 | D                           | 2022-05-01         |                     nan | Garay Arpa                  |      4 | M-Exempt           | --D                            |                          866      |                866           |             3 |         nan | Restricted Stock Unit       |
+| 570 | D                           | 2022-05-01         |                     nan | Oosthuizen Johannes Jacobus |      4 | M-Exempt           | --D                            |                          866      |                866           |             3 |         nan | Restricted Stock Unit       |
+| 571 | D                           | 2022-05-01         |                     nan | Karachun Rita A             |      4 | M-Exempt           | --D                            |                          928      |                930           |             3 |         nan | Restricted Stock Unit       |
+| 572 | D                           | 2022-05-01         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                          577      |                577           |             3 |         nan | Restricted Stock Unit       |
+| 573 | D                           | 2022-05-01         |                     nan | Li Dean Y                   |      4 | M-Exempt           | --D                            |                         1061      |               1062           |             3 |         nan | Restricted Stock Unit       |
+| 574 | D                           | 2022-05-01         |                     nan | Litchfield Caroline         |      4 | M-Exempt           | --D                            |                          866      |                866           |             3 |         nan | Restricted Stock Unit       |
+| 575 | D                           | 2022-05-01         |                     nan | LeCointe-Cephas Lisa        |      4 | M-Exempt           | --D                            |                          640      |                643           |             3 |         nan | Restricted Stock Unit       |
+| 576 | D                           | 2022-05-01         |                     nan | Klobuchar Michael A         |      4 | M-Exempt           | --D                            |                          866      |                866           |             7 |         nan | Restricted Stock Unit       |
+| 577 | A                           | 2022-03-31         |                     nan | Coe Mary Ellen              |      4 | A-Award            | --D                            |                          396.1    |              13344.8         |             2 |         nan | Phantom Stock               |
+| 578 | A                           | 2022-03-31         |                     nan | GLOCER THOMAS H             |      4 | A-Award            | --D                            |                          137.112  |              80714.7         |             2 |         nan | Phantom Stock               |
+| 579 | A                           | 2022-03-31         |                     nan | Seidman Christine E         |      4 | A-Award            | --D                            |                          198.05   |               7362.28        |             2 |         nan | Phantom Stock               |
+| 580 | A                           | 2022-03-31         |                     nan | WENDELL PETER C             |      4 | A-Award            | --D                            |                          365.631  |             111461           |             2 |         nan | Phantom Stock               |
+| 581 | A                           | 2022-02-24         |                     nan | Davis Robert M              |      4 | A-Award            | --D                            |                        29896      |             247593           |             1 |         nan | Common Stock                |
+| 582 | A                           | 2022-02-24         |                     nan | Chattopadhyay Sanat         |      4 | A-Award            | --D                            |                        19836      |             112981           |             1 |         nan | Common Stock                |
+| 583 | A                           | 2022-02-24         |                     nan | DeLuca Richard R.           |      4 | A-Award            | --D                            |                        15966      |             133897           |             1 |         nan | Common Stock                |
+| 584 | A                           | 2022-02-24         |                     nan | FRAZIER KENNETH C           |      4 | A-Award            | --D                            |                       119488      |             706283           |             1 |         nan | Common Stock                |
+| 585 | A                           | 2022-02-24         |                     nan | Gerberding Julie L.         |      4 | A-Award            | --D                            |                         9550      |              48712.1         |             1 |         nan | Common Stock                |
+| 586 | A                           | 2022-02-24         |                     nan | Karachun Rita A             |      4 | A-Award            | --D                            |                         3478      |              39277           |             1 |         nan | Common Stock                |
+| 587 | A                           | 2022-02-24         |                     nan | Klobuchar Michael A         |      4 | A-Award            | --D                            |                         2994      |              14058.9         |             1 |         nan | Common Stock                |
+| 588 | A                           | 2022-02-24         |                     nan | Li Dean Y                   |      4 | A-Award            | --D                            |                         3023      |              15462.1         |             1 |         nan | Common Stock                |
+| 589 | A                           | 2022-02-24         |                     nan | Litchfield Caroline         |      4 | A-Award            | --D                            |                         2429      |              26555.8         |             1 |         nan | Common Stock                |
+| 590 | A                           | 2022-02-24         |                     nan | MIZELL STEVEN               |      4 | A-Award            | --D                            |                        14571      |              40144.1         |             1 |         nan | Common Stock                |
+| 591 | A                           | 2022-02-24         |                     nan | Williams David Michael      |      4 | A-Award            | --D                            |                         1660      |               8603.76        |             1 |         nan | Common Stock                |
+| 592 | A                           | 2022-02-24         |                     nan | Zachary Jennifer            |      4 | A-Award            | --D                            |                        18420      |              53419.2         |             1 |         nan | Common Stock                |
+| 593 | A                           | 2022-02-10         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                         1202      |               7420.76        |             1 |         nan | Common Stock                |
+| 594 | D                           | 2022-02-10         |                     nan | Williams David Michael      |      4 | F-InKind           | --D                            |                          477      |               6943.76        |             2 |         nan | Common Stock                |
+| 595 | D                           | 2022-02-10         |                     nan | Williams David Michael      |      4 | M-Exempt           | --D                            |                         1202      |               1205           |             3 |         nan | Restricted Stock Unit       |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers — Business Profile (F2)
+
+---
+
+#### 1. Elevated Insider Award Transactions May Suggest Dilution Risk and Governance Concerns  
+In 2022, Merck & Co., Inc. exhibited a notable volume of insider transactions predominantly characterized by awards (form type "A-Award") of phantom stock and common stock, primarily distributed among executives and key insiders. These frequent and sizeable equity-based awards indicate a heavy reliance on stock-based compensation as a retention and incentive tool. While such practices can align management interests with shareholders over the long term, the high issuance pace can also pose dilution risks for existing shareholders and may signal aggressive compensation policies. This feature has the potential to undermine shareholder value if not balanced by commensurate improvements in operational and financial performance.
+
+---
+
+#### 2. Lack of Insider Dispositions Limits Transparency on Management Confidence  
+The data for 2022 shows minimal transactions classified as outright sales or dispositions of shares by insiders, with most insider activity skewed heavily towards stock awards and occasional purchases. The absence of significant insider selling can be interpreted as a neutral-to-positive signal; however, the lack of meaningful insider buying, aside from awards, makes it difficult to ascertain strong conviction from management and significant shareholders regarding the company’s near-term strategic prospects. This ambiguity may weigh on credit assessment since insider activity often serves as a barometer for confidence in the firm’s outlook.
+
+---
+
+#### 3. Strategic Complexity from Partial Ownership in Multiple Small Subsidiaries Creates Cross-Entity Risk  
+Merck & Co., Inc. retains approximately 10% ownership stakes in a diversified portfolio of biotech and pharmaceutical entities, including BeOne Medicines Ltd., VYNE Therapeutics Inc., Organon & Co., and others. While these partial stakes provide avenues for innovation and growth exposure, they inherently limit Merck’s control over subsidiary operations and strategic decisions. The minority ownership percentages complicate integration and coordination benefits and expose Merck to risks tied to these entities’ operational and financial performance without full recourse or control. This fragmented group structure adds complexity to Merck’s business profile and may dilute managerial focus as well as strain resource allocation decisions under stress scenarios.
+
+---
+
+#### 4. Concentrated Stock Awards Among Select Executives Could Signal Governance and Alignment Risks  
+The data indicates that equity awards are concentrated among a handful of key executives—including individuals identified as Coe Mary Ellen, Glocer Thomas H., Seidman Christine E., and Wendell Peter C.—suggesting a concentrated decision-making and reward structure at the top. Concentration of equity incentives within a narrow management group raises potential concerns about governance quality and the alignment between insiders’ interests and broader shareholder or creditor interests. This concentration can amplify the risk that strategic decisions prioritize management retention or compensation over long-term corporate creditworthiness or prudent risk management.
+
+---
+
+#### 5. Transaction Timing Does Not Clearly Signal Strategic Shift but Continuous Awards Reflect Status Quo Incentives  
+The insider transactions span the full year of 2022 without pronounced spikes or concentration around notable corporate announcements or earnings releases, indicating an absence of visible strategic shifts or reactionary trading behavior from insiders. However, the steady issuance of awards throughout the year implies persistence of existing compensation and incentive models rather than adoption of new or corrective governance measures. This may reflect a business strategy that is maintaining its status quo, which could constrain agility in responding to competitive and regulatory pressures in the pharmaceutical sector.
+
+---
+
+### Summary  
+Overall, Merck & Co., Inc.’s business profile in 2022 is characterized by significant equity compensation activity concentrated among key executives, a complex and partially controlled group structure, and modest transparency from insider trading patterns. These factors introduce risks related to potential shareholder dilution, governance alignment, and strategic coherence, which weigh negatively on the company’s credit risk profile despite its large market presence and operational scale.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers — Business Profile (F2)
+
+---
+
+#### 1. High Frequency of Equity Awards Raises Dilution Concerns  
+In 2022, Merck & Co., Inc. issued a significant number of equity-based awards, primarily phantom stock and common stock, to its insiders and executives. This frequent issuance of stock awards increases the risk of shareholder dilution over time, particularly if future performance does not justify the expense. The reliance on stock-based compensation as a key incentive mechanism may pressure earnings and equity value, potentially impacting credit metrics adversely.
+
+---
+
+#### 2. Minority Ownership Stakes in Multiple Biotech Entities Limit Strategic Control  
+Merck maintains approximately 10% ownership stakes in several smaller biotechnology and pharmaceutical companies, including Organon & Co., BeOne Medicines Ltd., VYNE Therapeutics Inc., and others. These minority positions expose Merck to financial and operational risks from these entities without conferring significant control or influence. The scattered ownership structure limits the ability to fully integrate or direct these investments, creating exposure to subsidiary-level volatility without direct mitigation.
+
+---
+
+#### 3. Concentration of Equity Awards Among Top Executives Presents Alignment Risks  
+The equity awards in 2022 were concentrated among a small group of senior executives. This concentration increases the risk that management incentives may not be fully aligned with broader shareholder and creditor interests. It may also reflect governance risks if compensation practices favor a limited set of insiders without sufficient checks and balances.
+
+---
+
+#### 4. Limited Insider Sales Provide Minimal Insight into Management Confidence  
+The insider transaction data for 2022 shows few sales or dispositions of shares by executives, with most activity related to awards rather than purchases or sales. This lack of insider selling may be neutral, but the absence of notable purchases diminishes insight into management’s conviction about the company’s near-term prospects. Limited insider trading activity can reduce transparency for credit risk assessment.
+
+---
+
+#### 5. Complex Group Structure Increases Operating and Strategic Complexity  
+Merck’s partial ownership in multiple subsidiaries and strategic investments adds complexity to its organizational and operational structure. Managing minority stakes across diverse entities introduces challenges related to resource allocation, risk exposure, and strategic focus. This complexity may constrain management’s ability to respond swiftly to sectoral changes and could exacerbate risk during industry downturns or regulatory shifts.
+
+---
+
+Overall, the business profile risks for Merck & Co., Inc. in 2022 stem mainly from the dilution risk associated with extensive equity-based compensation, limited control over several minority-owned subsidiaries, concentrated executive incentives, and the organizational complexity these factors entail. These issues weigh on the company’s credit risk profile despite a strong market position in the pharmaceutical industry.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Political Uncertainty and Social Unrest in the United States (F3)  
+**  
+Merck & Co., Inc. operates predominantly in the United States, where recent political dynamics have introduced an elevated level of uncertainty and social unrest. The highly contested 2020 U.S. presidential election and the subsequent efforts by the incumbent administration to challenge the electoral outcome culminated in unprecedented protests and the January 6 Capitol riot. This period of instability has the potential to disrupt regulatory processes, delay healthcare policy initiatives, and inject volatility into the operating environment for pharmaceutical companies. Although Merck’s large scale and diversification offer some resilience, ongoing political polarization may impede consistent healthcare reform and affect government decisions regarding drug pricing and reimbursement policies, thereby increasing regulatory risk and uncertainty.  
+
+**2. Heightened Regulatory Scrutiny Amid Political Transitions (F3)  
+**  
+Transition periods in political leadership often lead to shifts in regulatory focus and enforcement intensity. The change in administration following the 2020 election likely brought about modifications in FDA oversight, drug approval processes, and enforcement actions. Merck faces the risk of evolving regulatory requirements that may increase compliance costs or delay the launch of new products. Given the company’s reliance on continued innovation and timely product approvals, these regulatory shifts can negatively impact cash flow predictability and investment returns. Furthermore, disputes around healthcare policy under a polarized political environment may result in less favorable frameworks for pharmaceutical pricing, adversely affecting Merck’s profitability margins.  
+
+**3. Sector Exposure to Broader Macroeconomic and Social Risks (F3)  
+**  
+As part of the pharmaceutical preparations sector, Merck is inherently exposed to macroeconomic factors such as inflationary pressures on input costs and supply chain constraints that have been amplified in recent years. Additionally, social unrest and political events that affect the United States’ stability can disrupt manufacturing facilities, distribution networks, and workforce availability. Compared with other sectors, pharmaceutical companies face less direct impact from consumer demand shocks; however, operational disruptions linked to civil disorder or political instability can constrain production and delay product availability. This exposure introduces a layer of operational risk that could weigh on credit metrics in adverse scenarios.  
+
+**4. Limited Direct Impact from Pandemic but Ongoing Uncertain Healthcare Policies (F3)  
+**  
+While the COVID-19 pandemic itself has not been cited as a recent event directly impacting Merck in the latest reporting periods covered by the data, the pandemic-induced shifts in healthcare policy and government funding priorities continue to influence the company’s operating environment. Increased government focus on public health preparedness and vaccine development may offer growth opportunities but also raise political scrutiny regarding pharmaceutical pricing and intellectual property protections. This dual dynamic generates an uncertain policy backdrop that could affect long-term revenues and investment decisions, warranting cautious consideration in credit risk assessments.  
+
+---
+
+In summary, Merck & Co., Inc.’s credit risk profile is influenced by a complex and fluid operating environment characterized by political uncertainty, regulatory shifts following electoral transitions, and exposure to macroeconomic and social instability in the United States. These factors present latent negative pressure on the company’s regulatory landscape, cost structure, and overall strategic positioning within a highly sensitive sector.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+**1. Political Uncertainty and Social Unrest in the United States (F3)**  
+Merck & Co., Inc. operates primarily in the United States, where the political environment has faced significant turbulence following the 2020 presidential election. The contested results and the January 6 Capitol riot reflect heightened political polarization and social unrest. Such instability can create uncertainty around healthcare policy, regulatory decision-making, and government reimbursement programs that are critical to pharmaceutical companies’ operating conditions. This environment may delay policy reforms or introduce shifts in drug pricing regulations, increasing regulatory risk for Merck.
+
+**2. Increased Regulatory Risk During Political Transitions (F3)**  
+The transition in U.S. political leadership post-2020 election can lead to changes in regulatory priorities affecting the pharmaceutical sector. Merck is exposed to potential adjustments in FDA approval processes, drug pricing policies, and broader healthcare regulations. These changes can increase compliance costs, prolong product approval timelines, and pressure profitability through tighter pricing controls. Regulatory uncertainty poses ongoing challenges in strategic planning and investment.
+
+**3. Exposure to Macroeconomic and Societal Risks in the United States (F3)**  
+Merck’s operations are vulnerable to broader U.S. economic and social dynamics, where inflationary pressures and supply chain disruptions have risen in recent years. Additionally, occurrences of social unrest linked to political events risk operational interruptions that could affect manufacturing or distribution. While demand for pharmaceuticals remains relatively inelastic, such disruptions introduce operational uncertainties that could negatively affect Merck’s financial performance under adverse conditions.
+
+---
+
+Overall, Merck’s credit profile is negatively influenced by persistent political polarization and social unrest in its core U.S. market, increasing the risk of volatile regulatory environments and potential operational disruptions. These external challenges contribute to uncertainty in regulatory frameworks and government policy affecting the pharmaceutical sector, amplifying risks to Merck’s operating stability and financial predictability.
+# FINAL
+---------------------------------------------------
+# Credit Risk Report: Merck & Co., Inc. (CIK 0000310158) — Key Rating Drivers, 2022
+
+This section outlines the principal factors shaping the credit risk profile of Merck & Co., Inc. in the fiscal year 2022. While Merck benefits from a solid market position and consistent cash flow generation, a range of financial, strategic, and external risks temper the company’s credit quality. The following analysis focuses primarily on downside risks and vulnerabilities in three key dimensions: financial profile (F1), business profile (F2), and operating environment (F3).
+
+---
+
+## I. Financial Profile (F1) — Profitability Pressures and Financial Flexibility Risks
+
+### 1. Modest Compression in Operating Profitability Limits Earnings Cushion  
+Merck experienced a slight contraction in its EBITDA margin from 36.8% to 36.0% in 2022. Although still healthy, this decline signals emerging profitability pressures potentially tied to intensifying competition and increased operational costs. The margin remains below key peers such as AbbVie, which reported a 41.6% margin, suggesting Merck operates with comparatively thinner buffers. This downward trend may constrain future cash flow improvements, weakening the company’s ability to enhance debt repayment capacity if adverse conditions persist.
+
+### 2. Financial Leverage Moderation Masks Historical Elevated Risk Levels  
+While Merck’s leverage ratios improved in 2022 (EBITDA leverage at 1.44x; FFO leverage at 1.32x), the current moderate levels follow a period of elevated leverage. This history underscores residual financial risk, particularly if earnings growth stalls or deteriorates. Although Merck’s leverage remains more conservative than some peers, sustained or renewed higher leverage amid margin pressures would restrict strategic flexibility and magnify refinancing risk during less favorable market conditions.
+
+### 3. Cash Flow Sensitivity to Capital Expenditures and Working Capital Dynamics  
+Despite generating strong free cash flow ($14.7 billion in 2022) and maintaining an improved Free Cash Flow Ratio of 48%, Merck’s cash flow profile is vulnerable to investment and operational outflows. Capital expenditures remained stable at approximately $4.4 billion, representing a substantial, ongoing cash commitment. Moreover, fluctuations in working capital could materially impact free cash flow generation. Any adverse shifts in these areas would curtail liquidity and financial flexibility, increasing risk to Merck’s capacity to service debt and fund growth initiatives.
+
+### 4. Interest Coverage Adequate but with Limited Cushion Against Earnings Volatility  
+Merck’s FFO interest coverage stood at 3.33x in 2022, consistent with adequate debt service capacity under current operating conditions. However, this ratio is not significantly robust. A material earnings decline—on the order of 10%-20%—could erode coverage ratios, elevating leverage risk and possibly triggering negative credit rating implications amidst an adverse macroeconomic or sectoral environment.
+
+### 5. Strong Liquidity Provides Near-Term Cushion but Must Be Maintained  
+Year-end cash balances of $12.7 billion and a Cash to Short-Term Debt ratio of 6.5x underpin Merck’s liquidity profile, effectively mitigating near-term refinancing risk. Nonetheless, ongoing capital expenditure demands and the potential for working capital volatility necessitate vigilance in sustaining liquidity buffers. Lower-than-expected cash generation or increased cash burn would weaken this protective layer, especially amid external uncertainties.
+
+---
+
+## II. Business Profile (F2) — Strategic and Governance-Related Vulnerabilities
+
+### 1. Dilutive Impact of High Frequency of Equity-Based Compensation  
+Merck’s extensive issuance of equity awards, including phantom stock and common stock to insiders and executives in 2022, raises material concerns over shareholder dilution. Persistent reliance on stock-based incentives as a central component of remuneration risks eroding earnings per share and impinging on equity value. Over time, this dynamic can pressure credit metrics and complicate the assessment of true financial leverage when equity dilution effects are factored in.
+
+### 2. Minority Stakes in Multiple Biotech Entities Limit Control and Expose to External Risks  
+Merck holds approximately 10% minority ownership in several smaller biotech and pharmaceutical companies (e.g., Organon & Co., BeOne Medicines Ltd., VYNE Therapeutics Inc.), which exposes it to financial and operational volatility without affording significant influence or control. This fragmented ownership structure limits Merck’s ability to direct strategic outcomes or swiftly mitigate emerging risks at these subsidiaries, thereby adding complexity and potential earnings volatility without commensurate strategic benefits.
+
+### 3. Concentration of Equity Awards Creates Potential Misalignment Between Management and Stakeholders  
+The concentration of equity compensation among a select group of senior executives may give rise to misaligned incentives relative to broader shareholder and creditor interests. Such concentration can accentuate governance risks, particularly if incentive structures disproportionately reward short-term performance or risk-taking behaviors without adequate oversight, potentially impairing sustainable credit quality.
+
+### 4. Organizational Complexity Challenges Strategic Focus and Operational Agility  
+Merck’s intricate corporate structure, characterized by numerous minority investments and subsidiary relationships, increases both strategic and operational complexity. Managing these disparate holdings complicates resource allocation and risk monitoring, which may hamper the company’s responsiveness to sector shifts, regulatory changes, or market disruptions. This complexity, if unmanaged, could exacerbate operational inefficiencies and elevate business risk during industry downturns.
+
+---
+
+## III. Operating Environment (F3) — Heightened Political and Regulatory Risks in Core Markets
+
+### 1. Political Polarization and Social Unrest Cloud Regulatory Outlook in U.S. Market  
+The politically charged climate in the United States, underscored by the contentious aftermath of the 2020 presidential election and related social unrest, fosters regulatory uncertainty critical to Merck’s operations. Potential delays, reversals, or reforms in drug pricing policies and government healthcare programs amplify regulatory risk for the company. This environment complicates long-term planning and may precipitate costlier compliance or adverse shifts in reimbursement frameworks.
+
+### 2. Regulatory Volatility from Political Transitions Could Increase Compliance Burdens  
+Transitioning U.S. leadership and shifting policy priorities create uncertainty around FDA regulatory processes, drug approval timelines, and price control measures. Enhanced regulatory scrutiny or tighter pricing restrictions could elevate operational costs, lengthen time-to-market for new products, and constrain profit margins. These factors heighten credit risk through unpredictability in revenue streams and investment returns.
+
+### 3. Macroeconomic Pressures and Social Disruptions Threaten Operational Stability  
+Rising inflationary pressures, ongoing supply chain challenges, and sporadic social unrest in Merck’s primary operating jurisdictions, particularly the U.S., introduce additional operational uncertainties. While pharmaceutical demand tends to be inelastic, such external shocks can disrupt manufacturing and distribution channels, leading to potential revenue interruptions or unexpected costs that undermine financial predictability.
+
+---
+
+## Conclusion
+
+Merck & Co., Inc.’s 2022 credit risk profile is characterized by generally stable but vulnerable financial fundamentals, strategic complexity with governance and dilution concerns, and an operating environment fraught with political and regulatory volatility. Slight margin pressures and sensitivity of cash flows to capital and operational needs temper financial flexibility. At the same time, extensive equity-based compensation and fragmented minority investments raise business profile risks. Externally, U.S. political unrest and shifting regulatory landscapes compound uncertainty in market conditions and policy frameworks. Collectively, these factors warrant careful ongoing monitoring as potential stressors that could undermine Merck’s credit standing if unfavorable trends intensify.
+# V0
+---------------------------------------------------
+### Key Rating Drivers
+
+#### 1. Elevated Leverage and Debt Maturity Concentration (F1 - Financial Profile)  
+Merck & Co., Inc. exhibits a moderately elevated leverage profile, with total debt levels sustained by significant ongoing investments in R&D and strategic acquisitions. The company’s debt maturity profile is concentrated in the medium term, which increases refinancing risk, particularly in a rising interest rate environment. While cash flow generation remains robust, the need to service higher interest expenses amid potential margin pressure constrains financial flexibility and elevates credit risk.  
+
+#### 2. Pressure on Profit Margins from Increased R&D Spending and Competitive Dynamics (F1 - Financial Profile)  
+Sustained increases in research and development expenses to maintain a competitive pipeline have exerted downward pressure on Merck’s operating margins. In addition, intensifying competition in key therapeutic areas and biosimilars has compressed pricing power. The resultant margin volatility reduces earnings stability and diminishes the firm’s cushioning ability against economic downturns or unexpected costs.
+
+#### 3. Product Concentration Risk and Patent Expirations (F2 - Business Profile)  
+Merck's revenue concentration around a limited number of key pharmaceuticals, including flagship products like Keytruda, creates vulnerability to patent cliffs and generic competition. The risk of steep revenue declines post-patent expiration remains material, given the time lag and uncertainty in commercializing new pipeline assets. This concentration risk challenges the company’s ability to sustain growth and revenue diversification in the near- to medium-term.
+
+#### 4. Exposure to Regulatory and Pricing Pressure (F3 - Operating Environment)  
+Merck faces heightened regulatory scrutiny and pricing pressure, particularly in the U.S. healthcare landscape where political discourse increasingly favors drug price controls and reimbursement reforms. Changes in government healthcare policies and payer dynamics could adversely affect pricing flexibility and product uptake. The company’s exposure to complex regulatory frameworks across multiple jurisdictions further adds to compliance risks and cost uncertainties.
+
+#### 5. Vulnerability to Macroeconomic and Supply Chain Disruptions (F3 - Operating Environment)  
+The global pharmaceutical supply chain remains susceptible to disruption from geopolitical tensions, inflationary costs, and pandemic-related challenges. Merck’s operations depend on complex international sourcing and manufacturing networks, which expose it to operational inefficiencies and increased costs. In addition, macroeconomic volatility could dampen demand in key markets, adversely impacting revenue growth prospects.
+
+#### 6. Management’s Capital Allocation and Strategic Execution Risks (F2 - Business Profile)  
+While Merck has pursued strategic acquisitions to bolster its pipeline and diversify, there is execution risk related to integrating acquired assets and realizing anticipated synergies. Additionally, management’s capital allocation decisions, balancing between shareholder returns and reinvestment in innovation, may constrain free cash flow availability during periods of financial stress. This creates uncertainty around medium-term financial resilience.
+
+---
+
+These factors collectively underpin the assigned credit risk rating, reflecting the challenges Merck faces in balancing innovation-driven growth with financial discipline amid a complex operating environment.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |       Cash |      CapEx |   EBITDA Margin |        FFO |        CFO |        FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|-----------:|-----------:|----------------:|-----------:|-----------:|-----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2024-12-31 | 2.5706e+10 | 1.3242e+10 | -3.372e+09 |        0.400605 | 1.7801e+10 | 2.1468e+10 | 1.8096e+10 |                 3.27054 |        1.44733 |           1.44367 |               0.487618 |        4.99887 |
+| 2023-12-31 | 6.907e+09  | 6.841e+09  | -3.863e+09 |        0.114896 | 1.0801e+10 | 1.3006e+10 | 9.143e+09  |                 2.45077 |        1.92124 |           5.07529 |               0.260819 |        4.98615 |
+| 2022-12-31 | 2.1315e+10 | 1.2694e+10 | -4.388e+09 |        0.359547 | 1.6313e+10 | 1.9095e+10 | 1.4707e+10 |                 3.32644 |        1.3158  |           1.43988 |               0.479196 |        6.52312 |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Volatile and Inconsistent EBITDA Margin Undermines Profitability Stability  
+Merck & Co., Inc. has experienced significant fluctuations in its EBITDA margin over the past three years, with the margin dipping sharply to approximately 11.5% in 2023 from about 40.1% in 2024 and 35.9% in 2022. This volatility signals a lack of stable profitability, raising concerns about the company’s ability to maintain consistent earnings at levels sufficient to support ongoing debt service obligations. Compared to peer AbbVie, whose EBITDA margins have remained steadier (around 26-42%), Merck’s large swings indicate potentially higher operational risks and vulnerability to external or internal earnings shocks.
+
+#### 2. Declining Efficiency in Cash Conversion Poses Risks to Debt Servicing Capacity  
+While Merck’s Funds From Operations (FFO), Cash Flow from Operations (CFO), and Free Cash Flow (FCF) remain generally positive, there are signs of weakening efficiency in converting EBITDA into operating cash flows and free cash flow. The ratio of Free Cash Flow to EBITDA has declined from approximately 48% in 2022 to about 26% in 2023 before recovering in 2024, suggesting intermittency in cash quality which could pressure liquidity and financing flexibility. This inconsistency could derive from volatile working capital needs or fluctuating capital expenditures, potentially constraining the company’s ability to sustainably generate cash needed for interest and principal payments.
+
+#### 3. Moderate Interest Coverage Ratios Leave Limited Cushion Against Earnings Downturns  
+The company’s FFO interest coverage ratio improved to 3.27x in 2024 from 2.45x in 2023, reflecting better earnings relative to interest expense. However, the relatively moderate coverage leaves some vulnerability if cash flows decline by 10-20% due to market pressures or operational setbacks. Under such stress, coverage ratios could deteriorate toward levels that pressure credit metrics and potentially result in covenant breaches or reduce refinancing flexibility. This risk is heightened given the less stable EBITDA margins noted above.
+
+#### 4. Increasing Leverage Levels Signal Elevated Financial Risk Relative to Cash Generation  
+Leverage ratios present a mixed but cautionary picture. Merck’s FFO leverage improved to about 1.45x by 2024, down from nearly 1.92x in 2023, driven mostly by an improvement in cash flows rather than deleveraging per se. However, EBITDA leverage remains close to 1.44x, consistent with prior years but still notably higher than the peer benchmark (AbbVie’s EBITDA leverage around 2.6x–4.5x but paired with lower cash coverage metrics). While not immediately excessive, the leverage levels combined with volatile cash generation highlight the potential for rapid credit metric deterioration in an adverse environment.
+
+#### 5. Elevated Near-Term Refinancing Risks Due to Short-Term Debt and Liquidity Metrics  
+Merck exhibits a strong Cash to Short-Term Debt ratio near 5x, indicating ample liquidity buffer in the immediate horizon under current conditions. However, the Free Cash Flow ratio, which measures the ability to fund discretionary spending and debt repayments, remains below 50% (0.49x in 2024), signaling constrained flexibility to manage unexpected liquidity needs or refinance risks especially if cash flows weaken. In comparison, AbbVie’s markedly lower Cash/ST Debt ratio below 1x indicates higher refinancing risk, but Merck’s profile requires continued focus given its higher capital expenditures and possible market volatility.
+
+#### 6. Large and Volatile Capital Expenditures Impact Free Cash Flow Predictability  
+Capital expenditures (CapEx) for Merck have remained consistently high, fluctuating around $3.4 billion to $4.4 billion annually, which is materially larger than peer AbbVie’s sub-$1 billion CapEx. This scale and variability of CapEx impacts free cash flow generation and adds uncertainty to cash available for debt service. Given the pharmaceutical sector’s capital intensity linked to R&D and growth projects, any upward surprises or inefficiencies in CapEx execution could exacerbate liquidity stress, lowering financial flexibility amid a rising debt burden.
+
+---
+
+**Summary:**  
+Merck & Co., Inc.’s financial profile reflects several negative pressures that contribute to a more cautious credit risk view. Key concerns revolve around volatile profitability margins, inconsistent cash conversion metrics, moderate interest coverage with limited cushion, and sustained elevated capital expenditures which constrain free cash flow. While the company currently maintains reasonable leverage and liquidity buffers, these credit metrics remain susceptible to deterioration under modest earnings or cash flow shocks. Continuous monitoring of operational performance, cash flow quality, and refinancing capabilities will be critical to ensure stable credit fundamentals in the 2025 outlook.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Highly Volatile EBITDA Margin Undermines Profitability Stability  
+Merck’s EBITDA margin has shown significant volatility over the past three years, dropping from roughly 36% in 2022 to about 11.5% in 2023 before rebounding sharply to 40.1% in 2024. This wide fluctuation highlights instability in core profitability, which increases uncertainty regarding Merck’s ability to generate consistent earnings to sustain debt repayments. The sharp decline in 2023 notably contrasts with sector peer AbbVie, whose EBITDA margin remained more stable in a narrower range of approximately 26-42%, indicating Merck’s earnings are more sensitive to internal or external pressures.
+
+#### 2. Inconsistent Cash Flow Conversion Limits Financial Flexibility  
+Although Merck generates strong Funds From Operations (FFO) and Cash Flow from Operations (CFO), the conversion of EBITDA into CFO and subsequently into Free Cash Flow (FCF) has been inconsistent. The Free Cash Flow ratio to EBITDA declined materially from 48% in 2022 to 26% in 2023, before partially recovering in 2024. This variability suggests volatility in working capital requirements or higher capital expenditures, which may constrain the ability to consistently fund operating needs and debt service without relying on external liquidity sources.
+
+#### 3. Moderate Interest Coverage Offers Limited Buffer Against Earnings Declines  
+Merck’s FFO interest coverage ratio improved to approximately 3.3x in 2024 from 2.5x in 2023, yet it remains only moderate and would weaken materially under a moderate earnings decline. This indicates limited headroom to absorb shocks from adverse market conditions, potentially leading to tighter credit metrics or covenant pressures in the event of lower profitability or cash flow generation.
+
+#### 4. Leverage Levels Are Moderate but Require Careful Monitoring  
+FFO leverage improved to about 1.45x in 2024 from 1.92x in 2023, driven by strong cash flow growth rather than material debt reduction. EBITDA leverage stays relatively stable around 1.44x, reflecting a moderate debt burden relative to earnings. While these leverage ratios appear sustainable at present, the company’s volatility in earnings and cash flow quality means that leverage could deteriorate quickly in stress scenarios, highlighting potential risks in credit profile stability.
+
+#### 5. Large Capital Expenditures Weigh on Free Cash Flow Generation  
+Merck’s capital expenditures have remained high and relatively volatile, ranging from approximately $3.4 billion to $4.4 billion annually, significantly higher than peer AbbVie’s sub-$1 billion CapEx. This substantial CapEx level places pressure on free cash flow and reduces cash available for debt servicing or discretionary uses, increasing the importance of effective capital allocation and cash flow management in maintaining financial flexibility.
+
+#### 6. Strong Liquidity Position Mitigates Near-Term Refinancing Risk but Cash Efficiency Concerns Persist  
+The company’s Cash to Short-Term Debt ratio consistently remains near 5x, reflecting robust liquidity resources relative to near-term debt obligations. However, the Free Cash Flow ratio below 50% indicates somewhat constrained internal cash generation relative to capital spending and debt needs, necessitating continuous focus on sustaining cash flow and liquidity given the operating environment and capital intensity.
+
+---
+
+**Summary:**  
+Merck’s financial profile is characterized by pronounced volatility in profitability and cash flow conversion, moderate leverage, and sustained high capital expenditures. Although liquidity metrics appear strong in the near term, the inconsistent earnings and cash flow generation introduce risk to debt servicing capacity and credit stability, especially under adverse operating conditions. These factors require ongoing vigilance to preserve credit quality in the medium-term.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|    | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner              |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name               |
+|---:|:----------------------------|:-------------------|------------------------:|:-----------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:----------------------------|
+|  0 | A                           | 2025-09-30         |                     nan | Coe Mary Ellen               |      4 | A-Award            | --D                            |                          357.441  |                    28684.7   |             2 |         nan | Phantom Stock               |
+|  1 | A                           | 2025-09-30         |                     nan | GLOCER THOMAS H              |      4 | A-Award            | --D                            |                          580.841  |                   105646     |             2 |         nan | Phantom Stock               |
+|  2 | A                           | 2025-09-30         |                     nan | Seidman Christine E          |      4 | A-Award            | --D                            |                           96.8069 |                    18775.8   |             2 |         nan | Phantom Stock               |
+|  3 | A                           | 2025-08-04         |                     nan | Guindo Chirfi                |      4 | M-Exempt           | --D                            |                        36903      |                   107409     |             1 |         nan | Common Stock                |
+|  4 | A                           | 2025-08-04         |                     nan | Williams David Michael       |      4 | M-Exempt           | --D                            |                        17119      |                    41445.5   |             1 |         nan | Common Stock                |
+|  5 | D                           | 2025-08-04         |                     nan | Guindo Chirfi                |      4 | F-InKind           | --D                            |                        18175      |                    89234     |             2 |         nan | Common Stock                |
+|  6 | D                           | 2025-08-04         |                     nan | Williams David Michael       |      4 | F-InKind           | --D                            |                         8432      |                    33013.5   |             2 |         nan | Common Stock                |
+|  7 | D                           | 2025-08-04         |                     nan | Williams David Michael       |      4 | M-Exempt           | --D                            |                        17119      |                        0     |             3 |         nan | Restricted Stock Unit       |
+|  8 | D                           | 2025-08-04         |                     nan | Guindo Chirfi                |      4 | M-Exempt           | --D                            |                        36903      |                        0     |             4 |         nan | Restricted Stock Unit       |
+|  9 | A                           | 2025-06-30         |                     nan | Coe Mary Ellen               |      4 | A-Award            | --D                            |                          378.979  |                    28051.8   |             2 |         nan | Phantom Stock               |
+| 10 | A                           | 2025-06-30         |                     nan | GLOCER THOMAS H              |      4 | A-Award            | --D                            |                          615.841  |                   104041     |             2 |         nan | Phantom Stock               |
+| 11 | A                           | 2025-06-30         |                     nan | Seidman Christine E          |      4 | A-Award            | --D                            |                          102.64   |                    18495.9   |             2 |         nan | Phantom Stock               |
+| 12 | A                           | 2025-05-30         |                     nan | BAKER DOUGLAS M JR           |      4 | A-Award            | --D                            |                         2863.09   |                     9343.53  |             2 |         nan | Phantom Stock               |
+| 13 | A                           | 2025-05-30         |                     nan | Coe Mary Ellen               |      4 | A-Award            | --D                            |                         2863.09   |                    27672.8   |             2 |         nan | Phantom Stock               |
+| 14 | A                           | 2025-05-30         |                     nan | Craig Pamela J.              |      4 | A-Award            | --D                            |                         2863.09   |                    31990.8   |             2 |         nan | Phantom Stock               |
+| 15 | A                           | 2025-05-30         |                     nan | GLOCER THOMAS H              |      4 | A-Award            | --D                            |                         2863.09   |                   103425     |             2 |         nan | Phantom Stock               |
+| 16 | A                           | 2025-05-30         |                     nan | Karsanbhai Surendralal Lanca |      4 | A-Award            | --D                            |                         2863.09   |                     3421.48  |             2 |         nan | Phantom Stock               |
+| 17 | A                           | 2025-05-30         |                     nan | LAVIZZO-MOUREY RISA J        |      4 | A-Award            | --D                            |                         2863.09   |                    15367.3   |             2 |         nan | Phantom Stock               |
+| 18 | A                           | 2025-05-30         |                     nan | Mayo Stephen                 |      4 | A-Award            | --D                            |                         2863.09   |                    12539.8   |             2 |         nan | Phantom Stock               |
+| 19 | A                           | 2025-05-30         |                     nan | Rothman Paul                 |      4 | A-Award            | --D                            |                         2863.09   |                    31990.8   |             2 |         nan | Phantom Stock               |
+| 20 | A                           | 2025-05-30         |                     nan | RUSSO PATRICIA F             |      4 | A-Award            | --D                            |                         2863.09   |                    58523.4   |             2 |         nan | Phantom Stock               |
+| 21 | A                           | 2025-05-30         |                     nan | Seidman Christine E          |      4 | A-Award            | --D                            |                         2863.09   |                    18393.2   |             2 |         nan | Phantom Stock               |
+| 22 | A                           | 2025-05-30         |                     nan | THULIN INGE G                |      4 | A-Award            | --D                            |                         2863.09   |                    24764.3   |             2 |         nan | Phantom Stock               |
+| 23 | A                           | 2025-05-30         |                     nan | Warden Kathy J               |      4 | A-Award            | --D                            |                         2863.09   |                    15503.6   |             2 |         nan | Phantom Stock               |
+| 24 | A                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          518      |                     8850.8   |             1 |         nan | Common Stock                |
+| 25 | D                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | F-InKind           | --D                            |                          256      |                     8594.8   |             2 |         nan | Common Stock                |
+| 26 | A                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                         1532      |                    10126.8   |             3 |         nan | Common Stock                |
+| 27 | D                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | F-InKind           | --D                            |                          588      |                     9538.8   |             4 |         nan | Common Stock                |
+| 28 | D                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          518      |                        0     |             5 |         nan | Restricted Stock Unit       |
+| 29 | D                           | 2025-05-03         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                         1532      |                        0     |             6 |         nan | Restricted Stock Unit       |
+| 30 | A                           | 2025-05-02         |                     nan | Romanelli Joseph             |      4 | M-Exempt           | --D                            |                         2262      |                    24060.5   |             3 |         nan | Common Stock                |
+| 31 | A                           | 2025-05-02         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          381      |                     8463.8   |             3 |         nan | Common Stock                |
+| 32 | D                           | 2025-05-02         |                     nan | Romanelli Joseph             |      4 | F-InKind           | --D                            |                         1115      |                    22945.5   |             4 |         nan | Common Stock                |
+| 33 | D                           | 2025-05-02         |                     nan | Smart Dalton E. III          |      4 | F-InKind           | --D                            |                          131      |                     8332.8   |             4 |         nan | Common Stock                |
+| 34 | D                           | 2025-05-02         |                     nan | Romanelli Joseph             |      4 | M-Exempt           | --D                            |                         2262      |                     2262     |             6 |         nan | Restricted Stock Unit       |
+| 35 | D                           | 2025-05-02         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          381      |                      383     |             6 |         nan | Restricted Stock Unit       |
+| 36 | A                           | 2025-04-30         |                     nan | Larson Betty D               |      4 | M-Exempt           | --D                            |                        11350      |                    11350     |             1 |         nan | Common Stock                |
+| 37 | A                           | 2025-04-30         |                     nan | Romanelli Joseph             |      4 | M-Exempt           | --D                            |                         2063      |                    22815.5   |             1 |         nan | Common Stock                |
+| 38 | A                           | 2025-04-30         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          464      |                     8241.8   |             1 |         nan | Common Stock                |
+| 39 | D                           | 2025-04-30         |                     nan | Larson Betty D               |      4 | F-InKind           | --D                            |                         5153      |                     6197     |             2 |         nan | Common Stock                |
+| 40 | D                           | 2025-04-30         |                     nan | Romanelli Joseph             |      4 | F-InKind           | --D                            |                         1017      |                    21798.5   |             2 |         nan | Common Stock                |
+| 41 | D                           | 2025-04-30         |                     nan | Smart Dalton E. III          |      4 | F-InKind           | --D                            |                          159      |                     8082.8   |             2 |         nan | Common Stock                |
+| 42 | D                           | 2025-04-30         |                     nan | Larson Betty D               |      4 | M-Exempt           | --D                            |                        11350      |                    22700     |             3 |         nan | Restricted Stock Unit       |
+| 43 | D                           | 2025-04-30         |                     nan | Romanelli Joseph             |      4 | M-Exempt           | --D                            |                         2063      |                     4128     |             5 |         nan | Restricted Stock Unit       |
+| 44 | D                           | 2025-04-30         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                          464      |                      929     |             5 |         nan | Restricted Stock Unit       |
+| 45 | A                           | 2025-04-29         |                     nan | Romanelli Joseph             |      4 | A-Award            | --D                            |                         4722      |                     4722     |             2 |         nan | Restricted Stock Unit       |
+| 46 | A                           | 2025-04-29         |                     nan | Larson Betty D               |      4 | A-Award            | --D                            |                         6257      |                     6257     |             2 |         nan | Restricted Stock Unit       |
+| 47 | A                           | 2025-04-29         |                     nan | Downing Cristal N            |      4 | A-Award            | --D                            |                         3069      |                     3069     |             2 |         nan | Restricted Stock Unit       |
+| 48 | A                           | 2025-04-29         |                     nan | Zachary Jennifer             |      4 | A-Award            | --D                            |                         8854      |                     8854     |             2 |         nan | Restricted Stock Unit       |
+| 49 | A                           | 2025-04-29         |                     nan | Li Dean Y                    |      4 | A-Award            | --D                            |                        14166      |                    14166     |             2 |         nan | Restricted Stock Unit       |
+| 50 | A                           | 2025-04-29         |                     nan | Oosthuizen Johannes Jacobus  |      4 | A-Award            | --D                            |                         4132      |                     4132     |             2 |         nan | Restricted Stock Unit       |
+| 51 | A                           | 2025-04-29         |                     nan | Davis Robert M               |      4 | A-Award            | --D                            |                        39901      |                    39901     |             2 |         nan | Restricted Stock Unit       |
+| 52 | A                           | 2025-04-29         |                     nan | Williams David Michael       |      4 | A-Award            | --D                            |                         4132      |                     4132     |             2 |         nan | Restricted Stock Unit       |
+| 53 | A                           | 2025-04-29         |                     nan | Litchfield Caroline          |      4 | A-Award            | --D                            |                        11805      |                    11805     |             2 |         nan | Restricted Stock Unit       |
+| 54 | A                           | 2025-04-29         |                     nan | Smart Dalton E. III          |      4 | A-Award            | --D                            |                         2833      |                     2833     |             2 |         nan | Restricted Stock Unit       |
+| 55 | A                           | 2025-04-29         |                     nan | Romanelli Joseph             |      4 | A-Award            | --D                            |                         9444      |                     9444     |             3 |         nan | Restricted Stock Unit       |
+| 56 | A                           | 2025-04-29         |                     nan | Guindo Chirfi                |      4 | A-Award            | --D                            |                         5902      |                     5902     |             3 |         nan | Restricted Stock Unit       |
+| 57 | A                           | 2025-04-29         |                     nan | Larson Betty D               |      4 | A-Award            | --D                            |                        28479      |                    28479     |             3 |         nan | Stock Option (Right to Buy) |
+| 58 | A                           | 2025-04-29         |                     nan | Downing Cristal N            |      4 | A-Award            | --D                            |                        13971      |                    13971     |             3 |         nan | Stock Option (Right to Buy) |
+| 59 | A                           | 2025-04-29         |                     nan | Zachary Jennifer             |      4 | A-Award            | --D                            |                        40301      |                    40301     |             3 |         nan | Stock Option (Right to Buy) |
+| 60 | A                           | 2025-04-29         |                     nan | Li Dean Y                    |      4 | A-Award            | --D                            |                        64481      |                    64481     |             3 |         nan | Stock Option (Right to Buy) |
+| 61 | A                           | 2025-04-29         |                     nan | Oosthuizen Johannes Jacobus  |      4 | A-Award            | --D                            |                        18807      |                    18807     |             3 |         nan | Stock Option (Right to Buy) |
+| 62 | A                           | 2025-04-29         |                     nan | Davis Robert M               |      4 | A-Award            | --D                            |                       181623      |                   181623     |             3 |         nan | Stock Option (Right to Buy) |
+| 63 | A                           | 2025-04-29         |                     nan | DeLuca Richard R.            |      4 | A-Award            | --D                            |                         7555      |                     7555     |             3 |         nan | Restricted Stock Unit       |
+| 64 | A                           | 2025-04-29         |                     nan | Williams David Michael       |      4 | A-Award            | --D                            |                        18807      |                    18807     |             3 |         nan | Stock Option (Right to Buy) |
+| 65 | A                           | 2025-04-29         |                     nan | Litchfield Caroline          |      4 | A-Award            | --D                            |                        53735      |                    53735     |             3 |         nan | Stock Option (Right to Buy) |
+| 66 | A                           | 2025-04-29         |                     nan | Smart Dalton E. III          |      4 | A-Award            | --D                            |                         6448      |                     6448     |             3 |         nan | Stock Option (Right to Buy) |
+| 67 | A                           | 2025-04-29         |                     nan | Romanelli Joseph             |      4 | A-Award            | --D                            |                        21494      |                    21494     |             4 |         nan | Stock Option (Right to Buy) |
+| 68 | A                           | 2025-04-29         |                     nan | Guindo Chirfi                |      4 | A-Award            | --D                            |                        26867      |                    26867     |             4 |         nan | Stock Option (Right to Buy) |
+| 69 | A                           | 2025-04-29         |                     nan | DeLuca Richard R.            |      4 | A-Award            | --D                            |                        34390      |                    34390     |             4 |         nan | Stock Option (Right to Buy) |
+| 70 | A                           | 2025-04-29         |                     nan | Chattopadhyay Sanat          |      4 | A-Award            | --D                            |                         7791      |                     7791     |             5 |         nan | Restricted Stock Unit       |
+| 71 | A                           | 2025-04-29         |                     nan | Chattopadhyay Sanat          |      4 | A-Award            | --D                            |                        35465      |                    35465     |             6 |         nan | Stock Option (Right to Buy) |
+| 72 | A                           | 2025-04-25         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                         5000      |                    12039.8   |             1 |         nan | Common Stock                |
+| 73 | D                           | 2025-04-25         |                     nan | Smart Dalton E. III          |      4 | S-Sale             | --D                            |                         4262      |                     7777.8   |             2 |         nan | Common Stock                |
+| 74 | D                           | 2025-04-25         |                     nan | Smart Dalton E. III          |      4 | M-Exempt           | --D                            |                         5000      |                        0     |             3 |         nan | Stock Option (Right to Buy) |
+| 75 | A                           | 2025-03-31         |                     nan | Coe Mary Ellen               |      4 | A-Award            | --D                            |                          334.225  |                    24567.9   |             2 |         nan | Phantom Stock               |
+| 76 | A                           | 2025-03-31         |                     nan | GLOCER THOMAS H              |      4 | A-Award            | --D                            |                          543.115  |                    99578.6   |             2 |         nan | Phantom Stock               |
+| 77 | A                           | 2025-03-31         |                     nan | Seidman Christine E          |      4 | A-Award            | --D                            |                           90.5192 |                    15377.6   |             2 |         nan | Phantom Stock               |
+| 78 | D                           | 2025-02-19         |                     nan | Oosthuizen Johannes Jacobus  |      4 | S-Sale             | --D                            |                         8500      |                    30705.5   |             1 |         nan | Common Stock                |
+| 79 | D                           | 2025-02-13         |                     nan | Williams David Michael       |      4 | S-Sale             | --D                            |                         6000      |                    24123.3   |             1 |         nan | Common Stock                |
+| 80 | A                           | 2025-02-08         |                     nan | Oosthuizen Johannes Jacobus  |      4 | M-Exempt           | --D                            |                        13002      |                    45609.5   |             1 |         nan | Common Stock                |
+| 81 | D                           | 2025-02-08         |                     nan | Oosthuizen Johannes Jacobus  |      4 | F-InKind           | --D                            |                         6404      |                    39205.5   |             2 |         nan | Common Stock                |
+| 82 | D                           | 2025-02-08         |                     nan | Oosthuizen Johannes Jacobus  |      4 | M-Exempt           | --D                            |                        13002      |                        0     |             3 |         nan | Restricted Stock Unit       |
+| 83 | D                           | 2025-02-06         |                     nan | Downing Cristal N            |      4 | S-Sale             | --D                            |                         2361      |                     7085     |             1 |         nan | Common Stock                |
+| 84 | A                           | 2025-02-06         |                     nan | THULIN INGE G                |      4 | P-Purchase         | --D                            |                         2832.86   |                     2932.86  |             1 |         nan | Common Stock                |
+| 85 | A                           | 2025-02-05         |                     nan | BAKER DOUGLAS M JR           |      4 | P-Purchase         | --D                            |                        15000      |                    16000     |             1 |         nan | Common Stock                |
+| 86 | A                           | 2025-01-27         |                     nan | Guindo Chirfi                |      4 | A-Award            | --D                            |                        28158      |                    69143.9   |             1 |         nan | Common Stock                |
+| 87 | A                           | 2025-01-27         |                     nan | Chattopadhyay Sanat          |      4 | A-Award            | --D                            |                        28136      |                    78758     |             1 |         nan | Common Stock                |
+| 88 | A                           | 2025-01-27         |                     nan | Davis Robert M               |      4 | A-Award            | --D                            |                        95275      |                   443602     |             1 |         nan | Common Stock                |
+| 89 | A                           | 2025-01-27         |                     nan | DeLuca Richard R.            |      4 | A-Award            | --D                            |                        25438      |                   178993     |             1 |         nan | Common Stock                |
+| 90 | A                           | 2025-01-27         |                     nan | Downing Cristal N            |      4 | A-Award            | --D                            |                         9446      |                     9446     |             1 |         nan | Common Stock                |
+| 91 | A                           | 2025-01-27         |                     nan | Li Dean Y                    |      4 | A-Award            | --D                            |                        32621      |                    79592.1   |             1 |         nan | Common Stock                |
+| 92 | A                           | 2025-01-27         |                     nan | Litchfield Caroline          |      4 | A-Award            | --D                            |                        23432      |                    74340.2   |             1 |         nan | Common Stock                |
+| 93 | A                           | 2025-01-27         |                     nan | Oosthuizen Johannes Jacobus  |      4 | A-Award            | --D                            |                         8664      |                    32607.5   |             1 |         nan | Common Stock                |
+| 94 | A                           | 2025-01-27         |                     nan | Smart Dalton                 |      4 | A-Award            | --D                            |                         2586      |                     7014.29  |             1 |         nan | Common Stock                |
+| 95 | A                           | 2025-01-27         |                     nan | Williams David Michael       |      4 | A-Award            | --D                            |                        10246      |                    30123.3   |             1 |         nan | Common Stock                |
+| 96 | A                           | 2025-01-27         |                     nan | Zachary Jennifer             |      4 | A-Award            | --D                            |                        25423      |                    55285.7   |             1 |         nan | Common Stock                |
+| 97 | A                           | 2025-01-01         |                     nan | Karsanbhai Surendralal Lanca |      4 | A-Award            | --D                            |                          552.875  |                      552.875 |             2 |         nan | Phantom Stock               |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers: Business Profile (F2)  
+
+#### 1. Elevated Insider Transaction Activity Ahead of Year-End  
+Merck & Co., Inc. exhibited a pronounced concentration of insider acquisitions during the latter part of 2025, especially around September and August, with repeated award transactions reported by multiple insiders across different levels of the organization. The volume and frequency of these insider stock awards, notably phantom stock and common stock, suggest a strategic emphasis on equity-based compensation as a motivational and retention tool. However, this pattern of elevated insider transactions raises concerns regarding potential dilution for existing shareholders and may point to aggressive compensation policies that could misalign management incentives with long-term shareholder value. The clustering of these awards without corresponding disposals or divestitures by insiders also tempers concerns of insider signaling but nonetheless highlights a risk of increasing share count pressure and erosion of financial flexibility.
+
+#### 2. Absence of Insider Dispositions Limits Transparency on Management Confidence  
+The data reveals a clear focus on acquisitions or awards with no reported insider dispositions during 2025. While this may superficially signal confidence from management and key personnel, the lack of disposals also obscures a more nuanced view of insiders’ true risk preferences and assessment of future prospects. The absence of sales or reductions in holdings could alternatively reflect window-dressing or exchange restrictions rather than genuine conviction. This lack of transactional diversity in insider behavior limits the ability to gauge executive confidence proactively and thus injects an element of uncertainty into the assessment of management’s long-term commitment.
+
+#### 3. Substantial Equity Awards Increase Dilution Risk and Potential Incentive Misalignment  
+The considerable volume of equity awards granted to officers during the period—including phantom stock and common stock equity—points to a growing reliance on equity compensation as a core element of the company’s remuneration strategy. While not unusual in the pharmaceutical sector, persistent large-scale issuance of awards can raise concerns over dilution risk, especially if not balanced by share repurchases or robust earnings growth. Moreover, if such compensation is not closely linked to performance metrics aligned with credit stability, it may incentivize short-term risk-taking, including potential shifts in capital allocation away from conservative credit management practices.
+
+#### 4. Complex and Partially Fragmented Group Structure with Multiple Minority Stakes  
+Merck & Co.’s ownership structure includes multiple partial ownership interests (around 10%) in a range of subsidiaries and related biotechnology firms, including BeOne Medicines Ltd., Organon & Co., Harpoon Therapeutics, Inc., and others. While these investments diversify Merck’s portfolio and promote innovation, they also complicate operational oversight and strategic alignment. The minority stakes suggest limited control over these entities, increasing exposure to risks emanating from subsidiaries’ operational or financial challenges that may nonetheless necessitate contingent support from Merck. This fragmented and partially externalized group structure limits consolidation benefits and may dilute management’s ability to implement cohesive risk mitigation strategies across the corporate group.
+
+#### 5. Lack of Evidence for Strategic Realignment or Board Restructuring  
+There is no observable linkage between insider transaction patterns and major management or board restructurings during 2025. The steady insider buying and new awards, without significant ownership concentration changes or dispersal, indicate a status quo approach rather than a strategic shift or realignment of interests. This relative inertia in management and ownership dynamics could be interpreted as a lack of proactive strategic response to emerging operational or credit risks in the business environment, potentially leaving the company more vulnerable to external shocks.
+
+---
+
+**Summary:**  
+The business profile of Merck & Co., Inc. in 2025 is characterized by elevated insider equity awards leading to potential dilution concerns, a fragmented minority ownership structure of subsidiaries increasing operational complexity, and an absence of clear strategic realignment or insider disposition signaling. These factors collectively introduce moderate concerns around management incentives, transparency, and group-level risk aggregation that weigh negatively on the credit risk assessment.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers: Business Profile (F2)  
+
+#### 1. Concentrated Equity Award Activity Raises Dilution Concerns  
+In 2025, Merck & Co., Inc. reported a significant volume of insider acquisitions primarily through equity awards, including phantom stock and common stock grants concentrated in the third quarter. The high frequency and scale of these equity awards suggest considerable reliance on stock-based compensation. While common in the pharmaceutical sector, such reliance increases the risk of shareholder dilution if not offset by share repurchases or corresponding earnings growth, potentially impacting financial flexibility and creditworthiness.
+
+#### 2. Limited Insider Dispositions Reduce Transparency on Management Confidence  
+The absence of reported insider sales or dispositions during the period restricts insight into management’s confidence and risk sentiment. Without observable insider selling, it is difficult to assess whether equity holdings are maintained out of conviction or due to structural constraints, which limits the ability to interpret insider activity as a signal of company prospects or emerging risks.
+
+#### 3. Minority Stakes in Multiple Biotech Entities Increase Complexity and Potential Risk Exposure  
+Merck holds approximately 10% ownership stakes in numerous biotechnology firms and subsidiaries, such as Organon & Co., BeOne Medicines Ltd., and Harpoon Therapeutics, Inc. These minority positions limit operational control and oversight, potentially exposing Merck to risks associated with the subsidiaries’ performance and strategic decisions. The dispersed ownership structure may constrain synergies and complicate effective risk management across the group.
+
+#### 4. No Indications of Strategic or Governance Shifts to Address Emerging Risks  
+Insider transaction patterns and ownership structure remained relatively stable throughout 2025, with no evidence of changes in ownership concentration or significant board and management restructuring. This stability suggests an absence of proactive strategic realignment in response to evolving market or operational challenges, which may limit Merck’s agility in addressing emerging credit risks in a dynamic pharmaceutical environment.
+
+---
+
+This refined assessment highlights dilution risk from equity compensation, operational complexity from minority investments, and the lack of strategic adjustments as key business-profile drivers negatively affecting Merck’s credit risk profile in 2025.
+# V3
+---------------------------------------------------
+### Key Rating Drivers — Operating Environment (F3)
+
+**Political and Regulatory Uncertainty from U.S. Electoral Turbulence**  
+Merck & Co., Inc. has faced elevated political and regulatory uncertainty stemming from the turbulent electoral cycle in the United States between 2020 and 2024. The 2020 presidential election culminated in a highly contested transition of power, marked by a delayed official recognition of results and culminated in significant unrest on January 6, 2021. This environment has contributed to heightened policy unpredictability, especially regarding pharmaceutical pricing reforms, healthcare regulations, and drug approval timelines. Given Merck’s heavy market exposure in the U.S., these uncertainties amplify risk around regulatory compliance costs, reimbursement frameworks, and potential retroactive changes in drug pricing policies which could impair revenue predictability and operational planning.
+
+**Increased Regulatory Scrutiny and Pricing Pressure in the U.S. Pharmaceutical Sector**  
+The pharmaceutical sector, including companies like Merck, operates under increasing regulatory scrutiny and political pressure to limit drug prices and enhance transparency. While the election-related events highlighted concerns over governance and policy direction, the broader U.S. regulatory environment continues to evolve with proposals for more aggressive pricing controls and reforms to Medicare and Medicaid drug coverage. These external pressures pose a downside risk to pricing power, research and development incentives, and profit margins, potentially constraining Merck’s financial flexibility. Persisting political debates and legislative uncertainty, intensified by recent electoral cycles, suggest this environment will remain challenging through 2025.
+
+**Potential for Social and Political Unrest Influencing Market Stability**  
+The protests and riot-triggering events linked to the political environment—such as those following the 2020 election—introduce an element of social instability that could indirectly affect business operations through disrupted supply chains, heightened investor uncertainty, and volatile financial markets. Although Merck’s core pharmaceutical manufacturing and research functions are relatively insulated, broader macroeconomic disruption and uncertainty in capital markets could impair funding availability and valuations, increasing credit risk.
+
+**Limited Exposure to Macroeconomic Downturns in Emerging Markets**  
+While the primary forward-looking risk factors driving the operating environment risk profile relate to U.S. political and regulatory conditions, Merck’s global footprint provides some diversification. However, the latest data and events do not indicate substantial exposure to macroeconomic or geopolitical shocks from emerging markets that might otherwise compound risk. This somewhat limits the overall breadth of operating environment risks but does not mitigate the significant U.S.-centric uncertainties.
+
+---
+
+In summary, Merck’s operating environment risk profile is weighed down by sustained political and regulatory uncertainty arising from the U.S. electoral aftermath and associated governance risks. These factors feed into regulatory pressures on pricing and healthcare policy that could materially constrain earnings potential. While broader social unrest effects are indirect, they add to financial market volatility risks around capital access and stability.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers — Operating Environment (F3)
+
+**Political and Regulatory Uncertainty Following the 2020 U.S. Election Cycle**  
+The contested 2020 U.S. presidential election and the subsequent political turbulence, including delays in power transfer and unrest, have contributed to an environment of heightened regulatory uncertainty. For Merck, which operates primarily within the U.S. pharmaceutical market, this political volatility increases the risk of abrupt or unpredictable policy changes related to drug pricing, healthcare reform, and regulatory oversight. Such uncertainty can complicate strategic planning and increase compliance costs, putting pressure on financial performance.
+
+**Ongoing Pricing Pressure and Policy Reform Risks in the U.S. Pharmaceutical Sector**  
+The U.S. pharmaceutical industry continues to face political and public pressure to reduce drug prices and reform healthcare payment systems. Recent political developments have reinforced the likelihood of tighter regulatory measures and pricing controls, which could negatively impact Merck’s pricing power and profitability. Uncertainty around potential legislative actions in the near term remains a key credit risk factor for the company.
+
+**Exposure to Macroeconomic and Market Volatility Linked to Political Unrest**  
+The heightened social and political tensions arising from the 2020 election aftermath have increased volatility in financial markets. Although Merck’s operations are relatively resilient to direct disruptions, increased market uncertainty can affect the company’s cost of capital and investor confidence, indirectly impacting credit risk.
+
+**Limited Broader Geopolitical Risks Outside the U.S. Context**  
+Based on available data, Merck’s operating environment risks are predominantly centered on the U.S. political and regulatory landscape. There is limited indication of significant exposure to emerging market macroeconomic or geopolitical risks that could amplify the operating environment risk profile at this time. This concentration increases vulnerability to U.S.-specific regulatory and political developments but reduces broader geopolitical uncertainties.
+
+---
+
+The operating environment for Merck is dominated by U.S. political and regulatory risks following a period of electoral volatility, coupled with ongoing sectoral pricing pressures. These factors create a challenging backdrop for regulatory predictability and financial performance stability.
+# FINAL
+---------------------------------------------------
+# Key Rating Drivers — Merck & Co., Inc. (2025)
+
+This section outlines the principal factors underlying Merck’s 2025 credit risk assessment, emphasizing key vulnerabilities and risks identified across its financial profile (F1), business profile (F2), and operating environment (F3). While the company demonstrates certain strengths such as near-term liquidity robustness, we focus primarily on the challenges and risk exposures that weigh on its credit quality and require ongoing monitoring.
+
+---
+
+## Financial Profile (F1)
+
+### 1. Pronounced Volatility in Profitability Heightens Earnings Uncertainty  
+Merck’s EBITDA margin exhibited extreme fluctuations over recent years, plunging from approximately 36% in 2022 to a nadir of 11.5% in 2023, before rebounding sharply to 40.1% in 2024. This pronounced earnings volatility undermines the predictability of core operating profits, complicating cash flow forecasting and raising doubts around consistent debt service capacity. When compared to peers like AbbVie, whose margins have been steadier within a 26–42% band, Merck’s earnings appear more vulnerable to operational disruptions and market shifts.
+
+### 2. Inconsistent Cash Flow Conversion Undermines Financial Flexibility  
+Despite strong nominal cash flow from operations, Merck’s conversion of EBITDA to free cash flow has been uneven, with the free cash flow ratio to EBITDA plunging from 48% in 2022 to a low of 26% in 2023 before partial recovery in 2024. This volatility suggests unpredictable working capital demands and sustained high capital expenditure needs. Such cash flow inconsistency may limit Merck’s ability to internally fund capital investments and debt repayments, increasing dependence on external liquidity.
+
+### 3. Moderate Interest Coverage Ratios Offer Limited Cushion Against Downside  
+The company’s funds from operations (FFO) interest coverage ratio improved to roughly 3.3x in 2024 from 2.5x in 2023 but remains modest compared to typical investment-grade benchmarks. This limited coverage implies minimal room to absorb earnings shocks before credit metrics deteriorate or covenant violations risk materializing in a downturn, highlighting financial resilience concerns.
+
+### 4. Leveraging Profile Requires Caution Given Earnings and Cash Flow Volatility  
+Leverage metrics—specifically FFO leverage at 1.45x and EBITDA leverage around 1.44x in 2024—are currently within moderate ranges. However, these ratios improved primarily due to earnings growth rather than debt reduction. Given Merck’s volatile profitability and cash flow conversion challenges, these leverage levels could quickly worsen under negative operating scenarios, potentially pressuring the company’s credit standing.
+
+### 5. Elevated and Volatile Capital Expenditures Weigh on Free Cash Flow Generation  
+Merck’s capital expenditures remain both large and inconsistent, fluctuating annually between $3.4 billion and $4.4 billion—significantly exceeding peers like AbbVie, whose CapEx is typically below $1 billion. This heavy and unpredictable capital spending burdens free cash flow and reduces discretionary liquidity, heightening the importance of disciplined capital allocation to sustain financial flexibility.
+
+### 6. Strong Near-Term Liquidity Buffers Refinancing Risk but Cash Efficiency Concerns Persist  
+Robust liquidity ratios, such as a Cash to Short-Term Debt ratio near 5x, mitigate immediate refinancing concerns and provide a financial cushion. Nonetheless, the under-50% free cash flow conversion ratio to EBITDA signals constrained internal cash generation relative to capital and working capital demands. This dynamic necessitates vigilant cash management amid the prevailing operating challenges.
+
+---
+
+## Business Profile (F2)
+
+### 1. Elevated Dilution Risk from Concentrated Equity Compensation Activity  
+Merck’s 2025 insider transaction activity reveals substantial equity awards, particularly phantom stock and common stock grants concentrated in Q3. The reliance on stock-based compensation raises dilution risks unless balanced by share repurchases or commensurate earnings growth. Such dilution pressures could impair financial flexibility and weigh on creditworthiness, especially if sustained over time.
+
+### 2. Limited Insider Dispositions Restrict Insight into Management Confidence  
+The absence of notable insider stock disposals restricts market transparency regarding management’s risk outlook and confidence in company prospects. Without observable sales, it is difficult to discern insider sentiment, which diminishes the informational signal content around credit risk shifts from corporate governance perspectives.
+
+### 3. Minority Stakes in Several Biotech Firms Increase Risk Complexity  
+Merck maintains approximately 10% ownership stakes across multiple biotech entities, including Organon & Co., BeOne Medicines Ltd., and Harpoon Therapeutics. These minority holdings limit Merck’s operational control and expose the company to risks relating to these subsidiaries’ performance and strategic decisions. Such dispersed ownership complicates risk oversight and may constrain realization of synergistic benefits that support credit stability.
+
+### 4. Absence of Evident Strategic or Governance Adjustments to Evolving Risks  
+Throughout 2025, Merck’s insider transaction patterns and ownership structure remained stable, with no significant board, management, or ownership shifts indicative of proactive strategic realignment. This inertia may limit the company’s ability to swiftly respond to emerging sector challenges or regulatory pressures, potentially exacerbating credit risk.
+
+---
+
+## Operating Environment (F3)
+
+### 1. Heightened Political and Regulatory Uncertainty in the U.S. Market  
+Merck’s primary operating environment—the U.S. pharmaceutical sector—faces elevated regulatory uncertainty following the 2020 election cycle, marked by political turbulence and contested power transitions. This uncertainty increases the risk of abrupt policy changes around drug pricing, healthcare reforms, and regulatory oversight, complicating Merck’s strategic planning and raising compliance cost risks.
+
+### 2. Persistent Pricing Pressure and Healthcare Policy Reform Threaten Profitability  
+Ongoing political and public scrutiny of pharmaceutical pricing suggests a high probability of continued regulatory interventions to cap drug prices and reform payment mechanisms. These sector-specific headwinds could erode Merck’s pricing power and compress margins, heightening credit risk through adverse effects on earnings volatility and cash flow resilience.
+
+### 3. Market Volatility Stemming from Political Unrest Increases Funding Cost Risks  
+Post-election social and political tensions have amplified volatility in financial markets. While Merck’s operational footprint is relatively insulated from direct disruptions, broader market uncertainty can elevate the company’s cost of capital and weigh on investor confidence, indirectly pressuring the credit profile.
+
+### 4. Concentrated U.S. Regulatory Risks Limit Geographic Risk Diversification  
+Merck’s risk exposure remains heavily concentrated in the U.S. pharmaceutical market, implying limited diversification benefits from other geographic regions. This concentration exacerbates vulnerability to U.S.-centric regulatory and political events, although it reduces exposure to geopolitical and macroeconomic shocks from emerging markets or other jurisdictions.
+
+---
+
+# Conclusion
+
+Merck & Co., Inc.’s 2025 credit risk profile is shaped largely by pronounced financial volatility, substantial capital intensity, and external pressures rooted in an uncertain and evolving U.S. pharmaceutical regulatory landscape. Key challenges include unstable and unpredictable earnings and cash flow conversion, moderate leverage with limited room to withstand earnings shocks, and dilution risks tied to concentrated equity compensation. Additionally, operational complexity from minority biotech investments and a lack of visible strategic management adjustments limit the company’s agility to respond to emerging risks. Though near-term liquidity remains solid, these intersecting factors necessitate vigilant oversight and effective capital and risk management to preserve credit quality amid a demanding operating environment.
+# V0
+---------------------------------------------------
+### Key Rating Drivers for Occidental Petroleum Corp (CIK 0000797468) – 2023
+
+#### 1. Elevated Leverage and Debt Burden (F1 – Financial Profile)  
+Occidental Petroleum continues to operate with a relatively high debt load following its significant acquisition activity in prior years, including the Anadarko Petroleum deal. Despite some deleveraging efforts, the company’s adjusted debt-to-EBITDA ratio remains elevated compared to industry peers, constraining financial flexibility. The high leverage increases vulnerability to oil price volatility and limits Occidental’s capacity to absorb adverse shocks or pursue further strategic investments without additional financial strain.
+
+#### 2. Earnings Volatility Driven by Commodity Price Exposure (F1 – Financial Profile)  
+Occidental’s earnings remain heavily exposed to fluctuations in crude oil and natural gas prices, which are inherently volatile and subject to geopolitical and macroeconomic shifts. Sharp commodity price declines could materially reduce cash flows, impeding the company’s ability to service debt, fund capital expenditures, and maintain dividend policies. The cyclicality of the energy sector thus presents a persistent earnings risk.
+
+#### 3. Execution Risks in Carbon Capture and Sustainability Initiatives (F2 – Business Profile)  
+Occidental has positioned itself as a leader in carbon capture and sequestration (CCS) technology and other sustainability efforts. However, the scale-up of these technologies involves execution risks, including regulatory uncertainties, technological challenges, and significant capital requirements. Failure to deliver expected environmental performance or cost efficiencies could impair the company’s ESG profile and future strategic positioning, potentially affecting investor sentiment and access to capital.
+
+#### 4. High Capital Intensity and Limited Financial Flexibility (F1 – Financial Profile)  
+The upstream oil and gas industry, including Occidental’s operations, is capital intensive, requiring ongoing large investments to sustain production levels and pursue growth opportunities. Coupled with the company’s elevated leverage, this limits Occidental’s ability to reduce debt aggressively or increase shareholder returns during periods of weaker cash flow, heightening credit risk under stressed commodity price scenarios.
+
+#### 5. Exposure to Regulatory and Environmental Risks (F3 – Operating Environment)  
+Occidental operates in an increasingly stringent regulatory landscape, facing evolving environmental regulations both in the U.S. and in international markets. Potential changes in emission standards, permitting restrictions, and environmental litigation pose ongoing risks that could lead to increased compliance costs, asset write-downs, or operational disruptions. These factors add complexity to forward planning and increase business risk.
+
+#### 6. Industry Cyclicality and Macroeconomic Uncertainty (F3 – Operating Environment)  
+The company is highly sensitive to macroeconomic conditions influencing oil demand, including global economic growth, inflationary pressures, and geopolitical tensions. Market downturns or demand shocks could depress commodity prices and volumes, negatively impacting Occidental’s revenue and cash flow generation. This cyclicality makes the credit profile more vulnerable to external shocks beyond the company’s control.
+
+#### 7. Integration and Portfolio Complexity Challenges (F2 – Business Profile)  
+Occidental’s diverse asset base, including conventional and unconventional oil and gas properties as well as chemical operations, creates complexity in portfolio management. Integration of acquired assets and balancing capital allocation across different segments require robust managerial expertise. Any operational inefficiencies or misallocation of resources could undermine financial performance and strategic objectives.
+
+---
+
+This balanced but risk-focused overview highlights the principal credit challenges faced by Occidental Petroleum in 2023, underscoring ongoing leverage pressures, commodity exposure, regulatory risks, and execution uncertainties—all critical factors shaping its credit risk profile in the current environment.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |      Cash |      CapEx |   EBITDA Margin |        FFO |        CFO |        FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|----------:|-----------:|----------------:|-----------:|-----------:|-----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2023-12-31 | 1.4239e+10 | 1.426e+09 | -6.27e+09  |        0.503911 | 1.2968e+10 | 1.2308e+10 | 6.038e+09  |                 6.26299 |        1.35504 |          1.46857  |               0.288748 |        1.35038 |
+| 2022-12-31 | 2.2073e+10 | 9.84e+08  | -4.497e+09 |        0.602528 | 1.5485e+10 | 1.681e+10  | 1.2313e+10 |                 6.93522 |        1.14762 |          0.940742 |               0.592969 |       44.7273  |
+| 2021-12-31 | 1.3766e+10 | 2.764e+09 | -2.87e+09  |        0.530359 | 9.008e+09  | 1.0434e+10 | 7.564e+09  |                 4.56894 |        2.6351  |          2.20747  |               0.248914 |       27.3663  |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1) for Occidental Petroleum Corp (2023)
+
+---
+
+#### 1. Declining Profitability Margins Undermine Debt Servicing Cushion
+
+Occidental’s EBITDA margin has contracted notably from 60.3% in 2022 to 50.4% in 2023, reflecting a significant erosion in operational profitability. While still robust in absolute terms, this downward trend reduces the company’s buffer to absorb earnings volatility and pressure on cash flows, which are critical to supporting ongoing debt repayment obligations. Compared to Diamondback Energy, which maintained stronger EBITDA margins above 73%, Occidental displays weaker profitability within its sector, suggesting less operational efficiency or higher cost structure pressures. This margin contraction raises concerns about sustainability of earnings amid market fluctuations and intensifies credit risk exposure.
+
+---
+
+#### 2. Elevated Leverage Ratios Signal Increased Financial Risk
+
+Leverage metrics for Occidental have increased over the last two years, with EBITDA leverage rising to 1.47x and FFO leverage climbing to 1.36x in 2023 from lower levels in 2022 (0.94x EBITDA leverage and 1.15x FFO leverage). This trend points to expanding debt relative to cash generation capacity and puts Occidental at higher financial risk, especially amid any earnings deterioration. In comparison, Diamondback Energy’s leverage remains structurally lower (1.10x EBITDA leverage and 0.87x FFO leverage in 2023). Occidental’s heightened leverage profile raises concerns about flexibility to raise incremental capital or withstand cyclical downturns without stressing its credit metrics.
+
+---
+
+#### 3. Lower Free Cash Flow Conversion Reduces Buffer for Capital Investment and Debt Repayment
+
+Occidental’s free cash flow (FCF) generation relative to EBITDA has weakened substantially in 2023, with the free cash flow ratio falling to approximately 29% compared to 59% in 2022. Although FCF remains positive at around $6 billion, the decline reflects increased capital expenditure ($6.27 billion in 2023 vs. $4.5 billion in 2022) and potentially less operational cash efficiency. This deterioration in cash conversion efficiency (EBITDA → CFO → FCF) reduces flexibility to fund growth or deleverage without relying on external financing, increasing refinancing and liquidity risks under adverse conditions.
+
+---
+
+#### 4. Interest Coverage Remains Adequate but Vulnerable to Earnings Volatility
+
+The Funds From Operations (FFO) interest coverage ratio stands at 6.26x for 2023, which provides a reasonable cushion to cover interest expenses. However, this represents a decline from 6.93x in 2022, indicating a tightening margin of safety. Stress testing the coverage ratios with a 10-20% decrease in FFO or CFO would likely bring the coverage ratio closer to threshold levels often considered credit negative, indicating limited room to absorb prolonged pressure on profitability or cash flow.
+
+---
+
+#### 5. Near-Term Liquidity and Refinancing Risk Elevated by Low Cash and Short-Term Debt Coverage
+
+Occidental’s liquidity position is a key concern given a relatively low cash balance of $1.43 billion against its short-term debt, yielding a Cash/ST Debt ratio of 1.35x in 2023, down sharply from an exceptionally strong 44.7x in 2022 (reflecting large short-term debt reductions previously). This diminished liquidity cushion heightens near-term refinancing risk, particularly if capital markets tighten or if free cash flow generation weakens. The Free Cash Flow ratio below 0.30 further signals limited excess cash flow to cover debt maturities or fund unexpected expenditures without external funding.
+
+---
+
+#### 6. Cash Flow Volatility and CapEx Profile Suggest Potential Strains in Sustaining Operating Cash Generation
+
+Consistent declines in EBITDA, CFO, and FCF from 2022 to 2023—despite increased CapEx outlays—highlight volatility in cash generation quality. The increase in capital expenditures to $6.27 billion from $4.5 billion, against a backdrop of falling EBITDA and FCF, suggests less efficient allocation of capital or pressure from sustaining high-cost projects. This dynamic may impair the company’s ability to maintain healthy operating cash flows-to-capital intensity ratios, raising questions about future free cash flow generation and its adequacy to meet debt servicing needs without incremental financing.
+
+---
+
+#### 7. Comparative Peer Weakness in Financial Metrics Suggests Elevated Credit Risk
+
+Relative to Diamondback Energy, Occidental exhibits weaker financial profile metrics across multiple dimensions: lower EBITDA margin (50% vs. 74%), higher leverage (FFO leverage 1.36x vs. 0.87x), and weaker free cash flow conversion (29% vs. 18%, though Diamondback also exhibits low FCF ratio trends). The stronger profitability and lower leverage among peers highlight Occidental’s comparatively elevated credit risk profile within the oil & gas sector, underscoring its vulnerability to market and operational headwinds.
+
+---
+
+### Summary
+
+Occidental Petroleum’s financial profile in 2023 is characterized by weakening profitability margins, rising leverage, diminished cash flow conversion, and reduced short-term liquidity buffers—factors that collectively heighten credit risk. While coverage ratios remain adequate, the combination of high capital expenditures, cash flow volatility, and constrained liquidity raises concerns about the company’s capacity to navigate adverse operating environments or downturns in commodity prices without materially weakening its credit metrics. These financial pressures underscore the importance of prudent capital management and risk mitigation to preserve credit stability.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1) for Occidental Petroleum Corp (2023)
+
+---
+
+#### 1. Declining Profitability Margins Reduce Financial Cushion
+
+Occidental’s EBITDA margin declined significantly from 60.3% in 2022 to 50.4% in 2023, indicating lower operational profitability. Although still above 50%, this deterioration reduces the company’s ability to generate cash from operations to support debt servicing. Compared to a peer like Diamondback Energy, which maintained EBITDA margins above 73% in 2023, Occidental’s profitability metrics indicate weaker operational efficiency or higher cost pressures, increasing vulnerability to market volatility.
+
+---
+
+#### 2. Elevated and Increasing Leverage Elevates Financial Risk
+
+Leverage ratios increased in 2023, with EBITDA leverage rising to 1.47x and FFO leverage increasing to 1.36x from significantly lower levels in 2022 (0.94x EBITDA leverage and 1.15x FFO leverage). Rising leverage levels signal higher indebtedness relative to cash flow generation and suggest greater risk in meeting debt obligations, especially if operating cash flow deteriorates. This contrasts with Diamondback Energy, which reported lower EBITDA leverage (1.10x) and FFO leverage (0.87x) in 2023, highlighting Occidental’s relatively higher financial risk.
+
+---
+
+#### 3. Weakened Free Cash Flow Conversion Limits Financial Flexibility
+
+The free cash flow ratio (FCF/EBITDA) declined to approximately 29% in 2023 from 59% in 2022, reflecting lower free cash flow generation relative to earnings. Although free cash flow remained positive at roughly $6.0 billion, the steep decline is driven by increased capital expenditure (CapEx) spending rising to $6.27 billion in 2023 from $4.5 billion in 2022. This dynamic reduces available cash after investment needs, thereby limiting the company’s ability to reduce debt or invest without external financing.
+
+---
+
+#### 4. Moderate Interest Coverage Ratios Show Some Cushion But Are Trending Downward
+
+FFO interest coverage stood at 6.26x in 2023, down from 6.93x in 2022. While this level provides a moderate buffer to interest expense, the downward trend suggests declining earnings power relative to financing costs. Coverage remains adequate but leaves less room to absorb potential earnings shocks or increased interest expenses in a rising rate environment.
+
+---
+
+#### 5. Diminished Liquidity and Lower Cash Reserves Increase Refinancing Risks
+
+Cash on hand increased slightly to $1.43 billion in 2023 but remains low relative to short-term debt obligations, with a Cash/ST Debt ratio at 1.35x—sharply lower than the 44.7x ratio posted in 2022 (likely reflecting significant changes in short-term debt). This reduced liquidity cushion elevates near-term refinancing risk, especially given the sizeable capital expenditure program and reduced free cash flow conversion. Limited immediate cash resources also raise the company’s vulnerability to short-term market disruptions or tightening credit conditions.
+
+---
+
+#### 6. Increasing Capital Expenditures Amidst Declining Cash Flow Generation Signals Potential Stress
+
+Capital expenditures increased materially from $4.5 billion in 2022 to $6.3 billion in 2023, while key cash flow metrics—FFO, CFO, and FCF—all declined over the same period. This combination reduces free cash flow generation and indicates that incremental investments are not currently supported by corresponding growth in operating cash flows. Such an imbalance may pressure liquidity and leverage metrics, increasing credit risk if cash flow does not improve.
+
+---
+
+#### 7. Discrepancies Between EBITDA, CFO, and Free Cash Flow Point to Cash Flow Quality Concerns
+
+Although EBITDA declined from $22.1 billion in 2022 to $14.2 billion in 2023, CFO decreased more moderately from $16.8 billion to $12.3 billion, and free cash flow dropped significantly from $12.3 billion to $6.0 billion. The sharper decline in free cash flow compared to CFO and EBITDA points to cash uses (primarily CapEx) increasing relative to cash generated from operations. This divergence raises concerns about the quality and sustainability of cash generation amid elevated capital spending.
+
+---
+
+#### 8. Compared to Sector Peers, Occidental Exhibits Weaker Profitability, Higher Leverage, and Tighter Liquidity
+
+Relative to Diamondback Energy, Occidental reports significantly lower EBITDA margins (50% vs. 74%), higher leverage ratios, and weaker free cash flow conversion. While Diamondback’s CapEx-to-EBITDA ratio is also high, its cash/ST debt coverage and liquidity appear stronger. This comparison highlights Occidental’s relatively weaker financial profile within the oil and gas sector, exposing it to elevated credit risk under adverse market conditions.
+
+---
+
+### Summary
+
+Occidental Petroleum’s 2023 financial profile reveals multiple credit risk pressures stemming from deteriorating profitability margins, rising leverage, decreased free cash flow conversion, and constrained liquidity. Increased capital expenditures amid declining cash flow exacerbate concerns regarding cash generation quality and financial flexibility. Although coverage ratios currently provide some buffer, the overall trend signals elevated refinancing and liquidity risk, particularly if market or operational challenges persist. Compared to sector peers, Occidental’s financial metrics indicate a comparatively higher risk profile demanding close monitoring of cash flow and capital structure management.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|     | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner         |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name           |
+|----:|:----------------------------|:-------------------|------------------------:|:------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:------------------------|
+| 168 | A                           | 2023-12-21         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.74312e+06 |                  2.43716e+08 |             4 |         nan | Common Stock            |
+| 169 | A                           | 2023-12-21         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.74312e+06 |                  2.43716e+08 |             4 |         nan | Common Stock            |
+| 170 | A                           | 2023-12-20         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.81251e+06 |                  2.41973e+08 |             3 |         nan | Common Stock            |
+| 171 | A                           | 2023-12-20         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.81251e+06 |                  2.41973e+08 |             3 |         nan | Common Stock            |
+| 172 | A                           | 2023-12-19         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  747861           |                  2.39281e+08 |             1 |         nan | Common Stock            |
+| 173 | A                           | 2023-12-19         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  747861           |                  2.39281e+08 |             1 |         nan | Common Stock            |
+| 174 | A                           | 2023-12-19         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  879122           |                  2.4016e+08  |             2 |         nan | Common Stock            |
+| 175 | A                           | 2023-12-19         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  879122           |                  2.4016e+08  |             2 |         nan | Common Stock            |
+| 176 | A                           | 2023-12-13         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.67591e+06 |                  2.37008e+08 |             4 |         nan | Common Stock            |
+| 177 | A                           | 2023-12-13         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.67591e+06 |                  2.37008e+08 |             4 |         nan | Common Stock            |
+| 178 | A                           | 2023-12-13         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.52489e+06 |                  2.38533e+08 |             5 |         nan | Common Stock            |
+| 179 | A                           | 2023-12-13         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.52489e+06 |                  2.38533e+08 |             5 |         nan | Common Stock            |
+| 180 | A                           | 2023-12-12         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       5.026e+06   |                  2.35227e+08 |             2 |         nan | Common Stock            |
+| 181 | A                           | 2023-12-12         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       5.026e+06   |                  2.35227e+08 |             2 |         nan | Common Stock            |
+| 182 | A                           | 2023-12-12         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  105557           |                  2.35332e+08 |             3 |         nan | Common Stock            |
+| 183 | A                           | 2023-12-12         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  105557           |                  2.35332e+08 |             3 |         nan | Common Stock            |
+| 184 | A                           | 2023-12-11         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       2.1498e+06  |                  2.30201e+08 |             1 |         nan | Common Stock            |
+| 185 | A                           | 2023-12-11         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       2.1498e+06  |                  2.30201e+08 |             1 |         nan | Common Stock            |
+| 186 | A                           | 2023-10-25         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.04007e+06 |                  2.28051e+08 |             3 |         nan | Common Stock            |
+| 187 | A                           | 2023-10-25         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.04007e+06 |                  2.28051e+08 |             3 |         nan | Common Stock            |
+| 188 | A                           | 2023-10-24         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.1954e+06  |                  2.27011e+08 |             2 |         nan | Common Stock            |
+| 189 | A                           | 2023-10-24         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.1954e+06  |                  2.27011e+08 |             2 |         nan | Common Stock            |
+| 190 | A                           | 2023-10-23         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.68637e+06 |                  2.25816e+08 |             1 |         nan | Common Stock            |
+| 191 | A                           | 2023-10-23         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.68637e+06 |                  2.25816e+08 |             1 |         nan | Common Stock            |
+| 192 | D                           | 2023-10-02         |                     nan | Kerrigan Sylvia J       |      4 | F-InKind           | --D                            |                    3595           |              80536           |             1 |         nan | Common Stock            |
+| 193 | A                           | 2023-06-28         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  260769           |                  2.24129e+08 |             3 |         nan | Common Stock            |
+| 194 | A                           | 2023-06-28         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  260769           |                  2.24129e+08 |             3 |         nan | Common Stock            |
+| 195 | A                           | 2023-06-27         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.23918e+06 |                  2.23868e+08 |             2 |         nan | Common Stock            |
+| 196 | A                           | 2023-06-27         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.23918e+06 |                  2.23868e+08 |             2 |         nan | Common Stock            |
+| 197 | A                           | 2023-06-26         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  638301           |                  2.22629e+08 |             1 |         nan | Common Stock            |
+| 198 | A                           | 2023-06-26         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  638301           |                  2.22629e+08 |             1 |         nan | Common Stock            |
+| 199 | A                           | 2023-05-30         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       2.20375e+06 |                  2.21991e+08 |             3 |         nan | Common Stock            |
+| 200 | A                           | 2023-05-30         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       2.20375e+06 |                  2.21991e+08 |             3 |         nan | Common Stock            |
+| 201 | A                           | 2023-05-26         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.50031e+06 |                  2.19787e+08 |             2 |         nan | Common Stock            |
+| 202 | A                           | 2023-05-26         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.50031e+06 |                  2.19787e+08 |             2 |         nan | Common Stock            |
+| 203 | A                           | 2023-05-25         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  956750           |                  2.18287e+08 |             1 |         nan | Common Stock            |
+| 204 | A                           | 2023-05-25         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  956750           |                  2.18287e+08 |             1 |         nan | Common Stock            |
+| 205 | A                           | 2023-05-18         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.21794e+06 |                  2.1733e+08  |             3 |         nan | Common Stock            |
+| 206 | A                           | 2023-05-18         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.21794e+06 |                  2.1733e+08  |             3 |         nan | Common Stock            |
+| 207 | A                           | 2023-05-17         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  614020           |                  2.16112e+08 |             2 |         nan | Common Stock            |
+| 208 | A                           | 2023-05-17         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  614020           |                  2.16112e+08 |             2 |         nan | Common Stock            |
+| 209 | A                           | 2023-05-16         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.62526e+06 |                  2.15498e+08 |             1 |         nan | Common Stock            |
+| 210 | A                           | 2023-05-16         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.62526e+06 |                  2.15498e+08 |             1 |         nan | Common Stock            |
+| 211 | A                           | 2023-05-15         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  993494           |                  2.13873e+08 |             4 |         nan | Common Stock            |
+| 212 | A                           | 2023-05-15         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  993494           |                  2.13873e+08 |             4 |         nan | Common Stock            |
+| 213 | A                           | 2023-05-12         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  370062           |                  2.12879e+08 |             3 |         nan | Common Stock            |
+| 214 | A                           | 2023-05-12         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  370062           |                  2.12879e+08 |             3 |         nan | Common Stock            |
+| 215 | A                           | 2023-05-11         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  156989           |                  2.11864e+08 |             1 |         nan | Common Stock            |
+| 216 | A                           | 2023-05-11         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  156989           |                  2.11864e+08 |             1 |         nan | Common Stock            |
+| 217 | A                           | 2023-05-11         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  645247           |                  2.12509e+08 |             2 |         nan | Common Stock            |
+| 218 | A                           | 2023-05-11         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  645247           |                  2.12509e+08 |             2 |         nan | Common Stock            |
+| 219 | A                           | 2023-05-08         |                     nan | Shearer Bob             |      4 | A-Award            | --D                            |                    3817           |              53048           |             1 |         nan | Common Stock            |
+| 220 | A                           | 2023-05-08         |                     nan | KLESSE WILLIAM R        |      4 | A-Award            | --D                            |                    3817           |             180801           |             1 |         nan | Common Stock            |
+| 221 | A                           | 2023-05-08         |                     nan | Robinson Kenneth B.     |      4 | A-Award            | --D                            |                    3393           |               3943           |             1 |         nan | Common Stock            |
+| 222 | A                           | 2023-05-08         |                     nan | BAILEY VICKY A          |      4 | A-Award            | --D                            |                    3393           |               7409           |             1 |         nan | Common Stock            |
+| 223 | A                           | 2023-05-08         |                     nan | GUTIERREZ CARLOS M      |      4 | A-Award            | --D                            |                    3393           |              52390           |             1 |         nan | Common Stock            |
+| 224 | A                           | 2023-05-08         |                     nan | GOULD ANDREW            |      4 | A-Award            | --D                            |                    3817           |              34112           |             1 |         nan | Common Stock            |
+| 225 | A                           | 2023-05-08         |                     nan | ONeill Claire           |      4 | A-Award            | --D                            |                    3393           |               4117           |             1 |         nan | Common Stock            |
+| 226 | A                           | 2023-05-08         |                     nan | POLADIAN AVEDICK BARUYR |      4 | A-Award            | --D                            |                    3817           |              70774           |             1 |         nan | Common Stock            |
+| 227 | A                           | 2023-05-08         |                     nan | MOORE JACK B            |      4 | A-Award            | --D                            |                    5682           |              56613           |             1 |         nan | Common Stock            |
+| 228 | D                           | 2023-05-08         |                     nan | KLESSE WILLIAM R        |      4 | F-InKind           | --D                            |                     840           |             179961           |             2 |         nan | Common Stock            |
+| 229 | D                           | 2023-05-08         |                     nan | BAILEY VICKY A          |      4 | F-InKind           | --D                            |                    1112           |               6297           |             2 |         nan | Common Stock            |
+| 230 | D                           | 2023-05-08         |                     nan | GOULD ANDREW            |      4 | F-InKind           | --D                            |                     840           |              33272           |             2 |         nan | Common Stock            |
+| 231 | D                           | 2023-05-08         |                     nan | ONeill Claire           |      4 | F-InKind           | --D                            |                    1018           |               3099           |             2 |         nan | Common Stock            |
+| 232 | D                           | 2023-05-08         |                     nan | MOORE JACK B            |      4 | F-InKind           | --D                            |                    1251           |              55362           |             2 |         nan | Common Stock            |
+| 233 | A                           | 2023-03-27         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  546804           |                  2.10464e+08 |             3 |         nan | Common Stock            |
+| 234 | A                           | 2023-03-27         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  546804           |                  2.10464e+08 |             3 |         nan | Common Stock            |
+| 235 | A                           | 2023-03-27         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.24272e+06 |                  2.11707e+08 |             4 |         nan | Common Stock            |
+| 236 | A                           | 2023-03-27         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.24272e+06 |                  2.11707e+08 |             4 |         nan | Common Stock            |
+| 237 | A                           | 2023-03-23         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.09912e+06 |                  2.0914e+08  |             1 |         nan | Common Stock            |
+| 238 | A                           | 2023-03-23         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.09912e+06 |                  2.0914e+08  |             1 |         nan | Common Stock            |
+| 239 | A                           | 2023-03-23         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  778066           |                  2.09918e+08 |             2 |         nan | Common Stock            |
+| 240 | A                           | 2023-03-23         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  778066           |                  2.09918e+08 |             2 |         nan | Common Stock            |
+| 241 | A                           | 2023-03-15         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.40778e+06 |                  2.0793e+08  |             7 |         nan | Common Stock            |
+| 242 | A                           | 2023-03-15         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.40778e+06 |                  2.0793e+08  |             7 |         nan | Common Stock            |
+| 243 | A                           | 2023-03-15         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  110216           |                  2.0804e+08  |             8 |         nan | Common Stock            |
+| 244 | A                           | 2023-03-15         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  110216           |                  2.0804e+08  |             8 |         nan | Common Stock            |
+| 245 | A                           | 2023-03-14         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  845778           |                  2.04145e+08 |             4 |         nan | Common Stock            |
+| 246 | A                           | 2023-03-14         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  845778           |                  2.04145e+08 |             4 |         nan | Common Stock            |
+| 247 | A                           | 2023-03-14         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.91595e+06 |                  2.06061e+08 |             5 |         nan | Common Stock            |
+| 248 | A                           | 2023-03-14         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.91595e+06 |                  2.06061e+08 |             5 |         nan | Common Stock            |
+| 249 | A                           | 2023-03-14         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  461341           |                  2.06522e+08 |             6 |         nan | Common Stock            |
+| 250 | A                           | 2023-03-14         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  461341           |                  2.06522e+08 |             6 |         nan | Common Stock            |
+| 251 | A                           | 2023-03-13         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  258823           |                  2.00412e+08 |             1 |         nan | Common Stock            |
+| 252 | A                           | 2023-03-13         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  258823           |                  2.00412e+08 |             1 |         nan | Common Stock            |
+| 253 | A                           | 2023-03-13         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.54259e+06 |                  2.01955e+08 |             2 |         nan | Common Stock            |
+| 254 | A                           | 2023-03-13         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.54259e+06 |                  2.01955e+08 |             2 |         nan | Common Stock            |
+| 255 | A                           | 2023-03-13         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.34448e+06 |                  2.03299e+08 |             3 |         nan | Common Stock            |
+| 256 | A                           | 2023-03-13         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.34448e+06 |                  2.03299e+08 |             3 |         nan | Common Stock            |
+| 257 | A                           | 2023-03-07         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.72e+06    |                  2.00113e+08 |             6 |         nan | Common Stock            |
+| 258 | A                           | 2023-03-07         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.72e+06    |                  2.00113e+08 |             6 |         nan | Common Stock            |
+| 259 | A                           | 2023-03-07         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                   40687           |                  2.00153e+08 |             7 |         nan | Common Stock            |
+| 260 | A                           | 2023-03-07         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                   40687           |                  2.00153e+08 |             7 |         nan | Common Stock            |
+| 261 | A                           | 2023-03-06         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.56851e+06 |                  1.98283e+08 |             4 |         nan | Common Stock            |
+| 262 | A                           | 2023-03-06         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.56851e+06 |                  1.98283e+08 |             4 |         nan | Common Stock            |
+| 263 | A                           | 2023-03-06         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  109504           |                  1.98393e+08 |             5 |         nan | Common Stock            |
+| 264 | A                           | 2023-03-06         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  109504           |                  1.98393e+08 |             5 |         nan | Common Stock            |
+| 265 | A                           | 2023-03-03         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  452431           |                  1.94804e+08 |             1 |         nan | Common Stock            |
+| 266 | A                           | 2023-03-03         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  452431           |                  1.94804e+08 |             1 |         nan | Common Stock            |
+| 267 | A                           | 2023-03-03         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                       1.40952e+06 |                  1.96214e+08 |             2 |         nan | Common Stock            |
+| 268 | A                           | 2023-03-03         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                       1.40952e+06 |                  1.96214e+08 |             2 |         nan | Common Stock            |
+| 269 | A                           | 2023-03-03         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                  501135           |                  1.96715e+08 |             3 |         nan | Common Stock            |
+| 270 | A                           | 2023-03-03         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                  501135           |                  1.96715e+08 |             3 |         nan | Common Stock            |
+| 271 | A                           | 2023-03-01         |                     nan | Kerrigan Sylvia J       |      4 | A-Award            | --D                            |                   43544           |              84131           |             1 |         nan | Common Stock            |
+| 272 | A                           | 2023-03-01         |                     nan | Bennett Peter J.        |      4 | A-Award            | --D                            |                   17418           |             100179           |             2 |         nan | Common Stock            |
+| 273 | A                           | 2023-03-01         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                   11724           |              59720           |             2 |         nan | Common Stock            |
+| 274 | A                           | 2023-03-01         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                   23447           |             211214           |             2 |         nan | Common Stock            |
+| 275 | A                           | 2023-03-01         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                   75365           |             632610           |             2 |         nan | Common Stock            |
+| 276 | A                           | 2023-03-01         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                   23447           |             140949           |             2 |         nan | Common Stock            |
+| 277 | A                           | 2023-03-01         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                   21437           |             167310           |             2 |         nan | Common Stock            |
+| 278 | D                           | 2023-02-28         |                     nan | Bennett Peter J.        |      4 | F-InKind           | --D                            |                    6546           |              82761           |             1 |         nan | Common Stock            |
+| 279 | D                           | 2023-02-28         |                     nan | Champion Christopher O  |      4 | F-InKind           | --D                            |                    4977           |              47996           |             1 |         nan | Common Stock            |
+| 280 | D                           | 2023-02-28         |                     nan | Dillon Kenneth          |      4 | F-InKind           | --D                            |                    8807           |             187767           |             1 |         nan | Common Stock            |
+| 281 | D                           | 2023-02-28         |                     nan | Hollub Vicki A.         |      4 | F-InKind           | --D                            |                   33191           |             557245           |             1 |         nan | Common Stock            |
+| 282 | D                           | 2023-02-28         |                     nan | Jackson Richard A.      |      4 | F-InKind           | --D                            |                    9528           |             117502           |             1 |         nan | Common Stock            |
+| 283 | D                           | 2023-02-28         |                     nan | Peterson Robert L       |      4 | F-InKind           | --D                            |                    9370           |             145873           |             1 |         nan | Common Stock            |
+| 284 | A                           | 2023-02-17         |                     nan | Robinson Kenneth B.     |      4 | A-Award            | --D                            |                     549           |                549           |             1 |         nan | Common Stock            |
+| 285 | A                           | 2023-02-15         |                     nan | Bennett Peter J.        |      4 | A-Award            | --D                            |                   24340           |              98948           |             1 |         nan | Common Stock            |
+| 286 | A                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                   12171           |              45078           |             1 |         nan | Common Stock            |
+| 287 | A                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                   20515           |             183187           |             1 |         nan | Common Stock            |
+| 288 | A                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                   73015           |             540297           |             1 |         nan | Common Stock            |
+| 289 | A                           | 2023-02-15         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                   30598           |             139123           |             1 |         nan | Common Stock            |
+| 290 | A                           | 2023-02-15         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                   29206           |             166782           |             1 |         nan | Common Stock            |
+| 291 | D                           | 2023-02-15         |                     nan | Bennett Peter J.        |      4 | F-InKind           | --D                            |                    9641           |              89307           |             2 |         nan | Common Stock            |
+| 292 | A                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                   21034           |              66112           |             2 |         nan | Common Stock            |
+| 293 | A                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                   35458           |             218645           |             2 |         nan | Common Stock            |
+| 294 | A                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                  126202           |             666499           |             2 |         nan | Common Stock            |
+| 295 | D                           | 2023-02-15         |                     nan | Jackson Richard A.      |      4 | F-InKind           | --D                            |                   12093           |             127030           |             2 |         nan | Common Stock            |
+| 296 | D                           | 2023-02-15         |                     nan | Peterson Robert L       |      4 | F-InKind           | --D                            |                   11539           |             155243           |             2 |         nan | Common Stock            |
+| 297 | D                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | F-InKind           | --D                            |                   13139           |              52973           |             3 |         nan | Common Stock            |
+| 298 | D                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | F-InKind           | --D                            |                   22071           |             196574           |             3 |         nan | Common Stock            |
+| 299 | D                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | F-InKind           | --D                            |                   76063           |             590436           |             3 |         nan | Common Stock            |
+| 300 | A                           | 2023-02-15         |                     nan | Bennett Peter J.        |      4 | A-Award            | --D                            |                    2495           |              10676           |             4 |         nan | Warrants (Right to buy) |
+| 301 | A                           | 2023-02-15         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                    3136           |              13187           |             4 |         nan | Warrants (Right to buy) |
+| 302 | A                           | 2023-02-15         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                    2994           |              18170           |             4 |         nan | Warrants (Right to buy) |
+| 303 | D                           | 2023-02-15         |                     nan | Bennett Peter J.        |      4 | F-InKind           | --D                            |                     982           |               9694           |             5 |         nan | Warrants (Right to buy) |
+| 304 | A                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                    1248           |               1248           |             5 |         nan | Warrants (Right to buy) |
+| 305 | A                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                    2103           |              16446           |             5 |         nan | Warrants (Right to buy) |
+| 306 | A                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                    7483           |              48194           |             5 |         nan | Warrants (Right to buy) |
+| 307 | D                           | 2023-02-15         |                     nan | Jackson Richard A.      |      4 | F-InKind           | --D                            |                    1235           |              11952           |             5 |         nan | Warrants (Right to buy) |
+| 308 | D                           | 2023-02-15         |                     nan | Peterson Robert L       |      4 | F-InKind           | --D                            |                    1179           |              16991           |             5 |         nan | Warrants (Right to buy) |
+| 309 | A                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                    1315           |               2563           |             6 |         nan | Warrants (Right to buy) |
+| 310 | A                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                    2217           |              18663           |             6 |         nan | Warrants (Right to buy) |
+| 311 | A                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                    7888           |              56082           |             6 |         nan | Warrants (Right to buy) |
+| 312 | D                           | 2023-02-15         |                     nan | Champion Christopher O  |      4 | F-InKind           | --D                            |                    1010           |               1553           |             7 |         nan | Warrants (Right to buy) |
+| 313 | D                           | 2023-02-15         |                     nan | Dillon Kenneth          |      4 | F-InKind           | --D                            |                    1701           |              16962           |             7 |         nan | Warrants (Right to buy) |
+| 314 | D                           | 2023-02-15         |                     nan | Hollub Vicki A.         |      4 | F-InKind           | --D                            |                    6049           |              50033           |             7 |         nan | Warrants (Right to buy) |
+| 315 | A                           | 2023-01-18         |                     nan | ONeill Claire           |      4 | A-Award            | --D                            |                    1035           |               1035           |             1 |         nan | Common Stock            |
+| 316 | D                           | 2023-01-18         |                     nan | ONeill Claire           |      4 | F-InKind           | --D                            |                     311           |                724           |             2 |         nan | Common Stock            |
+---------------------------------------------------
+#### OWNER TABLE
+|    | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Issuer                         |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Issuer CIK | Security Name                                     |
+|---:|:----------------------------|:-------------------|------------------------:|:-------------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|-------------:|:--------------------------------------------------|
+|  2 | D                           | 2023-09-12         |                     nan | Western Midstream Partners, LP |      4 | S-Sale             | --I                            |                           5.1e+06 |                  1.85182e+08 |             1 |      1423902 | COMMON UNITS (LIMITED PARTNER INTERESTS)          |
+|  3 | D                           | 2023-09-12         |                     nan | Western Midstream Partners, LP |      4 | S-Sale             | --I                            |                           5.1e+06 |                  1.85182e+08 |             1 |      1423902 | COMMON UNITS (LIMITED PARTNER INTERESTS)          |
+|  4 | -                           | 2023-06-20         |                     nan | NET Power Inc.                 |      3 | -                  | --I                            |                         nan       |                  3.4e+07     |             1 |      1845437 | Class A common stock, par value $0.0001 per share |
+|  5 | -                           | 2023-06-20         |                     nan | NET Power Inc.                 |      3 | -                  | --I                            |                         nan       |                  5.55532e+07 |             2 |      1845437 | Class B common stock, par value $0.0001 per share |
+|  6 | -                           | 2023-06-20         |                     nan | NET Power Inc.                 |      3 | -                  | --I                            |                         nan       |                nan           |             3 |      1845437 | Class A units                                     |
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Elevated Insider Transaction Activity Indicative of Strategic Adjustments and Potential Governance Concerns  
+In 2023, Occidental Petroleum Corp experienced a notably high volume of insider transactions involving purchases and dispositions of common stock and warrants. Significant insider activity was observed especially in December, with multiple transactions linked to Berkshire Hathaway Inc. and Warren Buffett—both substantial shareholders—with the purchase of over 1.7 million shares on consecutive days. This high-frequency and sizable transaction pattern may reflect strategic repositioning or reactions to shifts in company outlook or sector dynamics. However, the clustering of these trades late in the year raises potential concerns regarding unequal access to material non-public information or a reactive stance to operational or market developments. The lack of clearly denoted execution dates further clouds transparency on the timing and intent, posing unanswered questions on governance robustness and the alignment of insider actions with broader shareholder interests.
+
+#### 2. Concentration of Ownership Among Key External Shareholders Limits Internal Control and May Constrain Strategic Flexibility  
+Ownership remains significantly concentrated, with Berkshire Hathaway Inc. holding a sizeable equity stake (noted partial ownership of around 10%) alongside Occidental Petroleum’s strategic stakes in multiple subsidiaries, such as Plains GP Holdings LP and Premier subsidiaries. While external ownership by a heavyweight such as Berkshire Hathaway provides some stability, it may also restrict the company’s managerial freedom and heighten dependency on external shareholder agendas. Internally, while key executives and directors such as Claire O’Neill and Vicki A. Hollub (CEO) engaged in transactions including stock awards and dispositions, their activities are relatively limited in volume compared to large external holders. This disparity may result in weaker direct managerial ownership, thereby potentially diluting the incentives of executives to drive long-term value creation. The current structure suggests possible misalignment between insider incentives and overarching shareholder expectations, a risk factor for credit quality if strategic decisions prioritize short-term external pressures over sustained operational performance.
+
+#### 3. Complex Subsidiary and Equity Stakes Potentially Increasing Operational and Financial Interdependencies  
+Occidental’s equity ownership spans a diverse portfolio of related companies and subsidiaries including California Resources Corp, Plains All American Pipeline LP, and NET Power Inc., with stakes typically around the 10% level but inclusive of director-level influence (e.g., at NET Power Inc.). This layered group structure offers potential strategic synergies but also introduces significant complexity and risk concentration. Financial or operational weaknesses emerging in these partially controlled affiliates could transmit vulnerabilities to Occidental’s consolidated credit risk profile. In particular, exposure to midstream and power generation entities, sectors characterized by regulatory and commodity price volatility, may impair cash flow stability. Furthermore, the partial ownership in entities with diverse balance sheets reduces Occidental’s flexibility to fully control capital allocation and risk management, undermining the resilience of its business profile amidst external shocks or tightening credit markets.
+
+#### 4. Increased Issuance of Stock-Based Awards Reflects Potential Dilution Risk and Questionable Alignment of Executive Compensation  
+Insider transactions include multiple awards of common stock to executives and directors during 2023, evidencing an active use of stock-based compensation. While equity awards can align management interests with shareholders, excessive dilution from new issuance creates downside pressure on existing equity holders and may signal heightened operating or financial pressures necessitating retention incentives. The frequency of these stock awards amid significant insider dispositions suggests a possible tension between retaining key personnel and maintaining shareholder value. If executive compensation structures are not sufficiently performance-based, this could weaken governance oversight and increase credit risk through suboptimal capital allocation and incentives. The dilution risk is compounded by the presence of warrants transactions by insiders, heightening the potential expansion of the share base.
+
+#### 5. Limited Evidence of Strategic Share Dispositions Beyond Normal Portfolio Rebalancing Heightens Uncertainty on Long-Term Ownership Stability  
+While insider selling activity was prevalent in smaller transactions across various executives and directors (e.g., Claire O’Neill, Kenneth Dillon, Christopher Champion), large-scale dispositions in related entities such as Western Midstream Partners, LP (over 5 million units sold by insiders) suggest selective portfolio reshuffling rather than wholesale divestment. The absence of a clear trend toward reducing overall insider exposure in Occidental’s core business could be interpreted as management maintaining belief in the company’s prospects. However, the mixed signals from concurrent stock awards and warrant dispositions complicate this interpretation, raising risks around potential shifts in insider confidence or emerging governance realignment that may not be transparent to external creditors.
+
+---
+
+**Summary:** Occidental Petroleum’s business profile in 2023 is marked by active insider trading—especially involving large external shareholders—complex ownership across subsidiaries, and increasing use of stock awards with dilution implications. These factors together raise concerns over governance transparency, strategic autonomy, and incentive alignment, thus exerting a negative influence on the company’s credit risk assessment. The structural complexity and mixed insider behavior underscore potential vulnerabilities in sustaining long-term credit quality, particularly amid an evolving regulatory and commodity price environment.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Significant Insider Transaction Volume Highlights Potential Governance and Strategic Considerations  
+In 2023, Occidental Petroleum Corp saw a notable frequency of insider transactions involving purchases and sales of common stock and warrants. Particularly, Berkshire Hathaway Inc. and Warren Buffett engaged in substantial purchases in December, reflecting continued significant external shareholder influence. While these transactions indicate active trading by major shareholders, the concentration of activity within a short period could suggest tactical portfolio adjustments amid market or company-specific developments. The volume and timing of these insider trades warrant close monitoring, as concentrated insider activity may reflect shifting views on company prospects and has implications for governance transparency.
+
+#### 2. Concentrated Ownership by External Investors May Limit Management Flexibility  
+Ownership remains notably concentrated, with Berkshire Hathaway holding a substantial equity stake alongside Occidental’s partial stakes in several subsidiaries and affiliates. This concentration provides some operational stability but also potentially limits internal management’s strategic autonomy. Compared to external investors, insider ownership by key executives and directors is relatively limited, which may indicate a weaker alignment of management interests with long-term shareholder value. This ownership structure could constrain management’s ability to pursue strategic initiatives independently, potentially affecting the company’s ability to adapt swiftly to sector or market challenges.
+
+#### 3. Complex and Partial Ownership in Multiple Affiliates Increases Operational and Financial Interdependencies  
+Occidental’s equity holdings in several related companies and subsidiaries—including Plains GP Holdings LP, California Resources Corp, and NET Power Inc.—introduce operational complexity and financial interdependencies. These partial ownership stakes expose Occidental to risks originating in these affiliates, such as regulatory changes, commodity price volatility, or operational difficulties, which may affect consolidated cash flows and credit metrics. The partial nature of these stakes reduces Occidental’s control over these businesses, potentially limiting its ability to manage risks cohesively across the group and increasing overall business profile uncertainty.
+
+#### 4. Use of Stock-Based Compensation Raises Dilution and Governance Concerns  
+The issuance of stock awards to executives and directors during 2023 has increased, reflecting reliance on equity-based compensation to retain talent. While aligning management incentives with shareholder interests is a typical practice, increased stock awards combined with insider sales of warrants signal dilution risks to existing shareholders. The balance between retention needs and shareholder value protection appears delicate, underlining potential governance challenges around compensation policies and their impact on shareholder dilution and credit risk.
+
+#### 5. Insider Sales in Affiliate Entities Suggest Portfolio Rebalancing, Introducing Uncertainty Around Long-Term Commitment  
+Insider sales of units in affiliated companies such as Western Midstream Partners, LP were significant during 2023, indicating active portfolio management but also raising questions about the long-term stability of Occidental’s affiliate interests. While these sales might be part of routine diversification, they introduce some uncertainty around the sustained strategic rationale for these investments and the potential impact on Occidental’s consolidated business profile and credit standing.
+
+---
+
+Overall, Occidental Petroleum’s business profile reflects concentrated external ownership, complex subsidiary relationships, and elevated insider transaction activity involving stock awards and sales. These factors contribute to governance and strategic risks that may constrain operational flexibility and introduce dilution pressure, adding to the company’s credit risk considerations amid a volatile sector environment.
+# V3
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+#### 1. Volatility and Regulatory Uncertainty in the U.S. Energy Sector  
+Occidental Petroleum operates primarily in the crude petroleum and natural gas sector within the United States, an environment characterized by ongoing regulatory shifts and political developments. Although no major recent U.S. presidential transitions have occurred between 2020 and 2023, the residual uncertainty from prior administrations’ energy policies continues to influence investment decision-making and regulatory frameworks. This regulatory ambiguity increases the risk of abrupt changes in permitting, environmental compliance, and taxes, which can adversely affect Occidental’s operational costs and project timelines, thereby elevating credit risk through potential cash flow volatility.
+
+#### 2. Exposure to Macroeconomic and Geopolitical Energy Market Risks  
+As a key player in the crude petroleum and natural gas industry, Occidental is inherently susceptible to global macroeconomic and geopolitical factors impacting the energy markets. Despite the absence of specific recent destabilizing events from 2021 to 2023 outlined in the available data, the sector remains vulnerable to global supply-demand imbalances, fluctuating crude prices, and international trade tensions. These external pressures can compress margins and constrain capital expenditure, putting strain on Occidental’s financial flexibility and increasing downside credit risk exposure.
+
+#### 3. Limited Impact from Political Power Transfers in Recent Years  
+No recent U.S. political power transfers since 2017 have directly impacted Occidental Petroleum, distinguishing it from some other energy companies that faced transitional uncertainties affecting regulatory and fiscal environments. This relative political stability reduces immediate event-driven operational risk; however, the company remains exposed to the longer-term policy shifts typical of this sector. Lack of recent disruptive power transitions is a mitigating factor, but it does not eliminate broader operating environment risks linked to political and regulatory volatility.
+
+#### 4. Sectorwide Environmental and Climate Policy Pressures  
+Beyond direct political events, Occidental faces increasing regulatory and societal pressures related to climate change and environmental governance that are reshaping the energy sector landscape. This trend manifests in stricter emissions standards, carbon pricing mechanisms, and shareholder activism, all of which can elevate compliance costs and necessitate capital reallocation toward cleaner technologies or offset programs. Although exact recent regulatory actions are not detailed in the data, such sector-wide pressures represent a continuing headwind for the company’s credit profile by potentially limiting growth and generating incremental liabilities.
+
+---
+
+In summary, Occidental Petroleum’s operating environment in 2023 is marked by ongoing regulatory uncertainty and macroeconomic volatility inherent to the energy sector, coupled with heightened climate and environmental policy risks. While recent political transitions have not significantly disrupted its operating context, these factors collectively constrain the firm’s credit profile by introducing meaningful downside risks to profitability and cash flow stability.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers: Operating Environment (F3)
+
+#### 1. Regulatory Uncertainty and Environmental Policy Pressure  
+Occidental Petroleum operates in a regulatory environment with increasing focus on environmental and climate-related policies. Although there have been no specific new U.S. political power transfers from 2020 to 2023 directly affecting the company, evolving regulations on emissions and environmental compliance remain a significant risk. These policies may lead to higher operating costs, increased capital expenditures for compliance, and potential restrictions on production activities, all of which can negatively impact cash flow predictability and credit quality.
+
+#### 2. Exposure to Commodity Price Volatility  
+As a crude petroleum and natural gas producer, Occidental remains highly sensitive to fluctuations in global energy prices. Market volatility driven by geopolitical tensions, macroeconomic shifts, and global supply-demand imbalances continues to pose a risk to revenue stability and profitability. This exposure limits the company’s ability to consistently generate free cash flow and maintain financial flexibility, increasing overall credit risk.
+
+#### 3. Limited Impact from Recent Political Events  
+Since 2017, there have been no significant political or regulatory events specifically disrupting Occidental’s operating environment. The absence of recent major U.S. political power transfers or sector-wide policy shocks that directly affected Occidental reduces immediate event-driven credit risk. However, the company remains exposed to the broader ongoing regulatory and market pressures typical for its sector.
+
+#### 4. Sectoral Transition Risks and Long-term Industry Challenges  
+The broader crude petroleum and natural gas sector faces structural challenges associated with the global energy transition toward lower-carbon alternatives. While not captured in specific recent events, these longer-term external pressures heighten regulatory uncertainty and may affect investor sentiment, access to capital, and strategic positioning. Occidental’s ability to adapt to these evolving market conditions will be critical to managing its credit risk profile over time.
+
+---
+
+This revised assessment reflects the core operating environment risks relevant to Occidental Petroleum’s 2023 credit profile, focusing on tangible regulatory, market, and sectoral factors without overextending beyond available data.
+# FINAL
+---------------------------------------------------
+# Occidental Petroleum Corp  
+## 2023 Credit Risk Report  
+### Key Rating Drivers  
+
+This section outlines the principal factors influencing Occidental Petroleum Corp’s (CIK: 0000797468) credit risk profile in 2023. Emphasis is placed primarily on vulnerabilities and pressures, with some interlinking across financial, business, and operating environment dimensions to provide a coherent risk perspective.
+
+---
+
+## F1 - Financial Profile: Rising Vulnerabilities Amid Profitability and Liquidity Pressures  
+
+### 1. Declining Profitability Margins Reduce Operating Cash Flow Cushion  
+Occidental's EBITDA margin contracted sharply from 60.3% in 2022 to 50.4% in 2023. This decline signals worsening operational efficiency and higher cost pressures relative to revenue, undermining the company’s capability to generate robust cash flows needed for debt servicing and investment. Compared to peers such as Diamondback Energy, which maintained EBITDA margins above 73%, Occidental’s weakened margins reflect increased vulnerability to commodity price shocks and operational risks, thereby elevating credit risk.
+
+### 2. Elevated and Increasing Leverage Amplifies Debt Servicing Risk  
+Leverage metrics have deteriorated, with EBITDA leverage increasing significantly to 1.47x and FFO leverage to 1.36x, from much lower levels in 2022 (0.94x and 1.15x, respectively). This indicates rising reliance on debt relative to cash generation. The heightened leverage restricts financial flexibility and increases refinancing and credit default risk, particularly under scenarios of cash flow volatility or rising interest rates. This is further highlighted when benchmarked against peers that maintain materially lower leverage.
+
+### 3. Weakened Free Cash Flow Conversion and Rising Capital Expenditures Limit Cushion  
+Free cash flow (FCF) conversion dropped by half, from approximately 59% of EBITDA in 2022 to 29% in 2023, despite still positive absolute free cash flow figures (~$6.0 billion). This substantial decline is driven mainly by an aggressive increase in capital expenditures, which rose to $6.27 billion from $4.5 billion. The imbalance between cash inflows and heavy investment outflows constrains discretionary financial resources, putting pressure on liquidity and limiting Occidental’s ability to deleverage or withstand adverse cash flow shocks.
+
+### 4. Reduced Liquidity and Cash Reserves Elevate Near-Term Refinancing Risks  
+Occidental’s cash on hand grew modestly to $1.43 billion but remains marginal relative to short-term debt, with a cash-to-short-term debt ratio plummeting to 1.35x from an unusually high 44.7x in 2022. This stark reduction reflects higher near-term debt maturities and decreased liquidity buffer, exacerbating risk from potential capital market tightening or operational disruptions. Insufficient liquidity coverage amid sizable capital commitments heightens the probability of refinancing stress.
+
+### 5. Declining Interest Coverage Ratios Diminish Margins of Safety  
+Interest coverage based on funds from operations (FFO) contracted to 6.26x from 6.93x, reflecting eroding earnings relative to financing costs. While coverage remains moderate, the downward trajectory signifies less headroom to absorb earnings volatility, raising vulnerability in an environment of fluctuating commodity prices or rising interest expenses. This contributes to elevated credit risk if earnings weaken further.
+
+### 6. Cash Flow Quality Concerns Evident from Discrepancies Between EBITDA, CFO, and FCF  
+A sharper decline in free cash flow compared to EBITDA and cash flow from operations (CFO) underscores concerns over cash flow sustainability and quality. The substantial increase in capital spending not matched by proportional growth in operating cash flow suggests that investment is not yet generating expected returns, which may suppress future cash flow generation and exacerbate liquidity strain.
+
+---
+
+## F2 - Business Profile: Governance and Strategic Constraints Increase Operational Risk  
+
+### 1. Concentrated External Ownership Limits Managerial Autonomy  
+Large equity stakes held by Berkshire Hathaway and other major external investors dominate Occidental’s shareholder base, while insider (management and director) ownership remains relatively limited. This ownership concentration may constrain management's strategic flexibility, as decisions could be influenced or restricted by dominant external shareholders. Such dynamics potentially slow responsive strategic initiatives needed to adapt to market changes and may impact long-term credit quality.
+
+### 2. Complex and Partial Ownership in Affiliates Increases Operational Interdependencies  
+Occidental’s partial stakes in several related entities — including Plains GP Holdings LP, California Resources Corp, and NET Power Inc. — create a complex ownership and operational tapestry. This complexity diminishes overall control and complicates risk management efforts, exposing Occidental’s consolidated cash flows and credit metrics to uncertainties from affiliate performance, regulatory changes, or market shocks originating outside of its direct operations.
+
+### 3. Elevated Insider Transaction Activity and Stock-Based Compensation Raise Governance and Dilution Concerns  
+2023 saw heightened insider trading activity involving the purchase and sale of stock and warrants, including substantial transactions by Berkshire Hathaway. Concurrently, the company increased stock-based compensation awards to executives and directors to retain talent. This combination raises potential governance red flags related to management incentive alignment and shareholder dilution risk, which can weigh negatively on investor confidence and credit metrics, particularly shareholders’ equity value.
+
+### 4. Active Insider Sales in Affiliate Entities Suggest Strategic Uncertainty  
+Notable insider sales of units in affiliated companies such as Western Midstream Partners introduce questions over Occidental’s long-term strategic stance regarding asset holdings. These portfolio adjustments contribute to uncertainty about future cash flow contributions and overall strategic coherence, complicating the company’s credit profile as it blurs visibility on asset base stability.
+
+---
+
+## F3 - Operating Environment: Regulatory, Market, and Sectoral Risks Compound Credit Challenges  
+
+### 1. Regulatory Uncertainty and Environmental Policy Pressures Cast Long-Term Costs  
+Although Occidental has not faced recent abrupt regulatory shocks, evolving U.S. and global environmental policies targeting emissions and sustainable operations represent intensifying headwinds. These regulations potentially drive higher operating costs, require increased capital outlays for compliance and technology upgrades, and impose constraints on production growth, thereby hampering cash flow stability and credit quality over time.
+
+### 2. High Exposure to Commodity Price Volatility Undermines Revenue Stability  
+Occidental’s core business remains inherently vulnerable to crude oil and natural gas price swings driven by geopolitical tensions, macroeconomic shifts, and global energy demand fluctuations. This volatility restricts reliable free cash flow generation needed for steady debt repayment and capital investment, leaving the company exposed to sudden credit rating pressures during downturns or price shocks.
+
+### 3. Structural Sectoral Transition Risks May Affect Access to Capital and Executive Strategy  
+Broader energy sector challenges related to the global energy transition introduce medium- to long-term risks around capital availability, investor sentiment, and operational positioning. While not acutely evident in recent reported events, these factors underpin potential credit risk volatility, particularly if Occidental’s strategic initiatives do not sufficiently adapt to evolving low-carbon priorities and market expectations.
+
+---
+
+## Summary and Credit Implications  
+
+Occidental Petroleum Corp’s 2023 credit profile is marked by multiple financial stress signals—declining profitability and free cash flow conversion, elevated leverage, and compressed liquidity—that jointly heighten refinancing and cash flow risk. These financial pressures are amplified by a business profile characterized by concentrated external ownership, complex affiliate structures, and governance concerns related to insider transactions and stock-based compensation dilutions. Meanwhile, the operating environment remains challenging due to regulatory uncertainties, commodity price volatility, and evolving energy transition dynamics.
+
+Together, these factors elevate Occidental’s credit risk relative to sector peers, necessitating vigilant monitoring of cash flow trends, capital expenditure execution, and strategic governance effectiveness. The company’s ability to restore profitability margins, optimize leverage, and sustain liquidity buffers will be critical to stabilizing its credit standing amid a volatile market and regulatory landscape.
+# V0
+---------------------------------------------------
+### Key Rating Drivers for Occidental Petroleum Corp. (CIK 0000797468) – 2025
+
+---
+
+#### F1: Elevated Debt Burden and Leverage Pressure  
+Occidental Petroleum maintains a high absolute level of debt following aggressive acquisition activity and capital-intensive investments, notably in upstream oil and gas assets and enhanced oil recovery technologies. Despite efforts to optimize capital allocation, the company’s leverage ratios, including adjusted debt-to-EBITDA, remain elevated relative to peers and historical norms. This heightened indebtedness increases the company’s refinancing risk and reduces financial flexibility, particularly under scenarios of sustained commodity price volatility or downturns in cash flow generation. The sizable interest expense burden also constrains free cash flow availability and limits discretionary capital deployment.
+
+---
+
+#### F1: Volatile and Sensitivity to Oil Price Movements  
+Occidental’s financial performance exhibits significant sensitivity to fluctuations in global crude oil prices, which remain subject to geopolitical tensions, OPEC+ production decisions, and shifting demand patterns due to the ongoing energy transition. This volatility translates directly into earnings and cash flow variability, complicating financial planning and credit metrics stability. The company’s breakeven costs, although moderately improved, remain higher than some competitors, increasing vulnerability during extended periods of price weakness.
+
+---
+
+#### F2: Strategic Risk from Carbon Capture and Low-Carbon Investments  
+Occidental has positioned itself as a leader in carbon capture utilization and storage (CCUS) technologies, representing substantial capital commitment and technological risk. While this aligns with the decarbonization trend and potential regulatory incentives, the success of these investments depends on evolving regulatory frameworks, credit markets for carbon offsets, and technological scalability. Failure to realize anticipated returns or policy support could impair cash flow and increase credit risk in the medium term.
+
+---
+
+#### F2: Complex Organizational Structure and Integration Challenges  
+The company’s diversified portfolio across upstream, midstream, and low-carbon solutions involves multiple subsidiaries operating in different regulatory jurisdictions. This complexity poses ongoing execution risks, increases administrative overhead, and could limit operational agility. Moreover, integration of acquired businesses continues to demand significant managerial attention and raises the potential for cost overruns or synergy shortfalls that would impact profitability and liquidity.
+
+---
+
+#### F3: Increasing Regulatory and Environmental Compliance Costs  
+Occidental operates in a sector exposed to tightening environmental regulations, including emissions standards, methane leakage controls, and carbon pricing mechanisms in key jurisdictions such as the U.S. and Europe. Compliance with these evolving requirements entails incremental capital expenditures and ongoing operational expenses, pressuring margins. Regulatory uncertainty also complicates long-term investment planning and heightens litigation risk, particularly as public scrutiny of oil and gas companies intensifies.
+
+---
+
+#### F3: Exposure to Macroeconomic and Geopolitical Volatility  
+The company’s operations and market access remain vulnerable to macroeconomic headwinds including inflationary cost pressures, currency fluctuations, and shifting global energy demand influenced by economic growth trajectories. Geopolitical tensions in oil-producing regions and supply chain disruptions may negatively affect production continuity and input costs. Such external shocks can abruptly impair Occidental’s financial performance and creditworthiness.
+
+---
+
+These key rating drivers highlight the principal vulnerabilities in Occidental Petroleum’s credit profile for 2025, predominantly centered on elevated leverage, commodity price exposure, regulatory pressures, and execution risks amid strategic transformation efforts.
+---------------------------------------------------
+# V1
+---------------------------------------------------
+| Period     |     EBITDA |      Cash |      CapEx |   EBITDA Margin |        FFO |        CFO |        FCF |   FFO Interest Coverage |   FFO leverage |   EBITDA leverage |   Free Cash Flow Ratio |   Cash/ST Debt |
+|:-----------|-----------:|----------:|-----------:|----------------:|-----------:|-----------:|-----------:|------------------------:|---------------:|------------------:|-----------------------:|---------------:|
+| 2024-12-31 | 1.2616e+10 | 2.132e+09 | -7.018e+09 |        0.472067 | 1.1461e+10 | 1.1439e+10 | 4.421e+09  |                 5.31839 |        1.92023 |          2.14838  |               0.163112 |        2.12562 |
+| 2023-12-31 | 1.4239e+10 | 1.426e+09 | -6.27e+09  |        0.503911 | 1.2968e+10 | 1.2308e+10 | 6.038e+09  |                 6.26299 |        1.35504 |          1.46857  |               0.288748 |        1.35038 |
+| 2022-12-31 | 2.2073e+10 | 9.84e+08  | -4.497e+09 |        0.602528 | 1.5485e+10 | 1.681e+10  | 1.2313e+10 |                 6.93522 |        1.14762 |          0.940742 |               0.592969 |       44.7273  |
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+#### 1. Declining Profitability Pressure EBITDA Margins and Debt Servicing Capacity  
+Occidental Petroleum Corp’s EBITDA margin has shown a notable downward trend from 60.3% in 2022 to 47.2% in 2024. While still within an acceptable range, this contraction signals a weakening profitability buffer to absorb operational challenges or market volatility. Compared to peer Diamondback Energy, which maintains much stronger profitability margins around 69-75%, Occidental faces pressure in sustaining returns sufficient to reliably support its ongoing debt servicing needs. This margin compression could stem from pricing, cost inflation, or operational inefficiencies, underscoring vulnerability to margin shocks affecting free cash flow generation.
+
+#### 2. Deterioration in Cash Flow Generation and Conversion Efficiency   
+Although funds from operations (FFO), cash from operations (CFO), and free cash flow (FCF) remain positive, these metrics exhibit signs of weakening cash conversion efficiency. Between 2022 and 2024, FCF fell from approximately $12.3 billion to $4.4 billion despite only a moderate decline in EBITDA, reflecting increased capital expenditure and potentially working capital pressures. The Free Cash Flow Ratio dropped precipitously from 0.59 to 0.16 in the same period, indicating that the company retains a lower proportion of EBITDA as discretionary cash flow. This deterioration in cash quality raises concerns about operational cash sustainability, especially in a capital-intensive industry challenged by macroeconomic uncertainties.
+
+#### 3. Rising Leverage and Erosion of Financial Flexibility  
+Leverage ratios, including EBITDA leverage (Debt/EBITDA) and FFO leverage (Debt/FFO), have trended upwards, with EBITDA leverage increasing from 0.94x in 2022 to 2.15x in 2024, relatively higher than Diamondback’s 1.74x in 2024. Similarly, the FFO leverage rose from 1.15x to 1.92x over this period. While these levels remain moderate, the upward trajectory reflects an increased debt burden relative to cash generation, limiting Occidental’s financial flexibility. Elevated leverage constrains the company’s ability to absorb cash flow shocks and increases refinancing risk, particularly if capital markets tighten or if operational performance deteriorates.
+
+#### 4. Declining Interest Coverage Poses Margin of Safety Concerns  
+Interest coverage, measured by FFO interest coverage, declined significantly from 6.94x in 2022 to 5.32x in 2024. Though this ratio remains above the typical low-risk threshold (generally 3.0x), the weakening trend reduces the margin of safety against potential downside scenarios such as commodity price drops or unexpected cost increases. Stress analysis under a hypothetical 10-20% decline in FFO would likely push this ratio closer to critical levels, increasing credit risk by impairing the company’s ability to comfortably service interest expenses.
+
+#### 5. Liquidity Metrics Highlight Near-Term Refinancing Vulnerabilities  
+Occidental’s Cash to Short-Term Debt ratio, while healthy at 2.13x in 2024, has decreased substantially from an exceptionally robust 44.7x in 2022. This decline suggests a meaningful erosion of immediate liquidity buffers, increasing dependency on external financing sources. Meanwhile, the Free Cash Flow Ratio of 0.16 indicates limited excess cash after capital investments, raising concerns about the company’s ability to self-fund near-term debt maturities and growth-related expenditures without additional capital market access. Given the sector’s capital intensity, any disruption in liquidity sources could stress the firm’s financial profile.
+
+#### 6. Capital Expenditure Trends Weigh on Free Cash Generation  
+Occidental’s CapEx increased sharply from approximately $4.5 billion in 2022 to $7.0 billion in 2024, outpacing EBITDA growth declines and leading to stretched free cash flow. In contrast, Diamondback Energy has managed somewhat more sustainable CapEx relative to cash flow. The elevated investment spending limits free cash availability, constraining the company's ability to reduce leverage or augment liquidity organically. If operational cash flows weaken further, the company may be forced to delay or reduce CapEx, potentially impairing long-term growth and competitiveness.
+
+---
+
+**Summary:** Occidental Petroleum’s financial profile in 2025 reflects several key risk factors: declining profitability and cash flow conversion efficiency, rising leverage levels, weakening interest coverage, and reduced liquidity cushions driven by aggressive capital expenditures. These trends collectively pressure the firm’s creditworthiness, increasing sensitivity to adverse macroeconomic or operational developments and elevating refinancing and liquidity risk over the near to medium term.
+# V1 corrected
+---------------------------------------------------
+### Key Rating Drivers – Financial Profile (F1)
+
+1. **Declining Profitability Pressure on Debt Servicing Capacity**  
+Occidental Petroleum’s EBITDA margin has declined significantly from 60.3% in 2022 to 47.2% in 2024, reflecting reduced profitability. This contraction limits the company’s cushion to absorb adverse market conditions or operational setbacks, weakening its ability to generate stable earnings to support debt repayments. Compared to peer Diamondback Energy, which maintains EBITDA margins above 69%, Occidental’s profitability is substantially lower, indicating a less efficient cost structure or more challenging operational environment.
+
+2. **Deteriorating Cash Flow Conversion and Reduced Free Cash Flow**  
+Despite positive EBITDA and FFO, the company’s free cash flow has trended downward from $12.3 billion in 2022 to $4.4 billion in 2024. The Free Cash Flow Ratio fell sharply to 0.16 in 2024 from 0.59 in 2022, signaling that a much smaller portion of EBITDA is translating into discretionary cash. This deterioration is exacerbated by rising capital expenditures, which increasingly absorb cash resources, thereby reducing financial flexibility and increasing reliance on external funding.
+
+3. **Increasing Leverage Ratios Limit Financial Flexibility**  
+EBITDA leverage has more than doubled from 0.94x in 2022 to 2.15x in 2024, and FFO leverage has increased from 1.15x to 1.92x over the same period. These elevated leverage levels reduce Occidental’s capacity to weather earnings volatility and limit its ability to raise additional debt on favorable terms. The upward trend in leverage increases refinancing risk amid potentially tighter capital market conditions.
+
+4. **Reduced Interest Coverage Ratio Weakens Earnings Cushion**  
+FFO interest coverage decreased to 5.32x in 2024 from 6.94x in 2022, reducing the margin by which the company can cover interest expenses. While still above stress thresholds, this decline raises concern in case of commodity price volatility or operational disruptions that could reduce cash flow and impair debt servicing capacity.
+
+5. **Eroding Liquidity and Rising Near-Term Refinancing Risk**  
+Cash on hand relative to short-term debt has dropped markedly from an exceptionally strong 44.7x in 2022 to 2.13x in 2024. Although still above 1x coverage, this decline indicates diminished liquidity buffers. Coupled with a low free cash flow ratio, the company faces increased refinancing risk for upcoming maturities and may need to rely on external financing sources under less favorable conditions.
+
+6. **High Capital Expenditures Compress Free Cash Flow and Limit Flexibility**  
+Capital expenditures surged from $4.5 billion in 2022 to $7.0 billion in 2024, reducing free cash flow despite declining EBITDA. This investment intensity restricts Occidental’s ability to deleverage or build liquidity organically, heightening credit risk especially if cash flows soften further.
+
+---
+
+Overall, Occidental Petroleum’s financial profile reflects rising credit risk driven by weakening profitability, declining cash flow conversion, escalating leverage, diminished liquidity, and heavy capital spending. These factors collectively constrain financial flexibility and increase vulnerability to adverse market or operational conditions in the near to medium term.
+/tmp/ipykernel_25200/3378488874.py:23: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  issuer_table = pd.read_html(str(tableCompany_issuer),header=0)[0]
+/tmp/ipykernel_25200/3378488874.py:28: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  owner_table = pd.read_html(str(tableCompany_owner),header=0)[0]
+# V2
+---------------------------------------------------
+#### ISSUEAR TABLE
+|    | Acquistion or Disposition   | Transaction Date   |   Deemed Execution Date | Reporting Owner         |   Form | Transaction Type   | Direct or Indirect Ownership   |   Number of Securities Transacted |   Number of Securities Owned |   Line Number |   Owner CIK | Security Name           |
+|---:|:----------------------------|:-------------------|------------------------:|:------------------------|-------:|:-------------------|:-------------------------------|----------------------------------:|-----------------------------:|--------------:|------------:|:------------------------|
+|  0 | D                           | 2025-10-02         |                     nan | Kerrigan Sylvia J       |      4 | F-InKind           | --D                            |                              5324 |             148837           |             1 |         nan | Common Stock            |
+|  1 | A                           | 2025-10-01         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                             31434 |             298822           |             1 |         nan | Common Stock            |
+|  2 | A                           | 2025-05-09         |                     nan | GUTIERREZ CARLOS M      |      4 | G-Gift             | -ED                            |                              3723 |              75261           |             1 |         nan | Common Stock            |
+|  3 | A                           | 2025-05-05         |                     nan | ONeill Claire           |      4 | A-Award            | --D                            |                              5798 |              12473           |             1 |         nan | Common Stock            |
+|  4 | A                           | 2025-05-05         |                     nan | MOORE JACK B            |      4 | A-Award            | --D                            |                             10436 |              72316           |             1 |         nan | Common Stock            |
+|  5 | A                           | 2025-05-05         |                     nan | Shearer Bob             |      4 | A-Award            | --D                            |                              5798 |              62729           |             1 |         nan | Common Stock            |
+|  6 | A                           | 2025-05-05         |                     nan | Robinson Kenneth B.     |      4 | A-Award            | --D                            |                              6442 |              13283           |             1 |         nan | Common Stock            |
+|  7 | A                           | 2025-05-05         |                     nan | POLADIAN AVEDICK BARUYR |      4 | A-Award            | --D                            |                              6442 |              90426           |             1 |         nan | Common Stock            |
+|  8 | A                           | 2025-05-05         |                     nan | GUTIERREZ CARLOS M      |      4 | A-Award            | --D                            |                              5798 |              71538           |             1 |         nan | Common Stock            |
+|  9 | A                           | 2025-05-05         |                     nan | KLESSE WILLIAM R        |      4 | A-Award            | --D                            |                              6442 |             215331           |             1 |         nan | Common Stock            |
+| 10 | A                           | 2025-05-05         |                     nan | GOULD ANDREW            |      4 | A-Award            | --D                            |                              6442 |              44783           |             1 |         nan | Common Stock            |
+| 11 | A                           | 2025-05-05         |                     nan | BAILEY VICKY A          |      4 | A-Award            | --D                            |                              6442 |              15089           |             1 |         nan | Common Stock            |
+| 12 | D                           | 2025-05-05         |                     nan | MOORE JACK B            |      4 | F-InKind           | --D                            |                              2296 |              70020           |             2 |         nan | Common Stock            |
+| 13 | D                           | 2025-05-05         |                     nan | Robinson Kenneth B.     |      4 | F-InKind           | --D                            |                              1418 |              11865           |             2 |         nan | Common Stock            |
+| 14 | D                           | 2025-05-05         |                     nan | KLESSE WILLIAM R        |      4 | F-InKind           | --D                            |                              1418 |             213913           |             2 |         nan | Common Stock            |
+| 15 | D                           | 2025-05-05         |                     nan | GOULD ANDREW            |      4 | F-InKind           | --D                            |                              1933 |              42850           |             2 |         nan | Common Stock            |
+| 16 | D                           | 2025-05-05         |                     nan | BAILEY VICKY A          |      4 | F-InKind           | --D                            |                              2110 |              12979           |             2 |         nan | Common Stock            |
+| 17 | A                           | 2025-03-31         |                     nan | Mathew Sunil            |      4 | X-InTheMoney       | --D                            |                              4491 |             212095           |             1 |         nan | Common Stock            |
+| 18 | A                           | 2025-03-31         |                     nan | KLESSE WILLIAM R        |      4 | X-InTheMoney       | --D                            |                             25900 |             208889           |             1 |         nan | Common Stock            |
+| 19 | A                           | 2025-03-31         |                     nan | GOULD ANDREW            |      4 | X-InTheMoney       | --D                            |                              2351 |              38341           |             1 |         nan | Common Stock            |
+| 20 | A                           | 2025-03-31         |                     nan | POLADIAN AVEDICK BARUYR |      4 | X-InTheMoney       | --D                            |                              9327 |              83984           |             1 |         nan | Common Stock            |
+| 21 | D                           | 2025-03-31         |                     nan | KLESSE WILLIAM R        |      4 | X-InTheMoney       | --D                            |                             25900 |               3860           |             2 |         nan | Warrants (Right to buy) |
+| 22 | D                           | 2025-03-31         |                     nan | GOULD ANDREW            |      4 | X-InTheMoney       | --D                            |                              2351 |                  0           |             2 |         nan | Warrants (Right to buy) |
+| 23 | D                           | 2025-03-31         |                     nan | POLADIAN AVEDICK BARUYR |      4 | X-InTheMoney       | --D                            |                              9327 |                  0           |             2 |         nan | Warrants (Right to buy) |
+| 24 | D                           | 2025-03-31         |                     nan | Mathew Sunil            |      4 | X-InTheMoney       | --D                            |                              4491 |                  0           |             3 |         nan | Warrants (Right to buy) |
+| 25 | A                           | 2025-03-01         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                             14743 |             129924           |             2 |         nan | Common Stock            |
+| 26 | A                           | 2025-03-01         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                             30304 |             343320           |             2 |         nan | Common Stock            |
+| 27 | A                           | 2025-03-01         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                            100328 |                  1.01181e+06 |             2 |         nan | Common Stock            |
+| 28 | A                           | 2025-03-01         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                             30304 |             267388           |             2 |         nan | Common Stock            |
+| 29 | A                           | 2025-03-01         |                     nan | Kerrigan Sylvia J       |      4 | A-Award            | --D                            |                             53236 |             154161           |             2 |         nan | Common Stock            |
+| 30 | A                           | 2025-03-01         |                     nan | Mathew Sunil            |      4 | A-Award            | --D                            |                             27028 |             207604           |             2 |         nan | Common Stock            |
+| 31 | A                           | 2025-03-01         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                             26209 |             287910           |             2 |         nan | Common Stock            |
+| 32 | A                           | 2025-03-01         |                     nan | Simmons Jeff F          |      4 | A-Award            | --D                            |                             26209 |             318047           |             2 |         nan | Common Stock            |
+| 33 | D                           | 2025-02-28         |                     nan | Champion Christopher O  |      4 | F-InKind           | --D                            |                              4371 |             115181           |             1 |         nan | Common Stock            |
+| 34 | D                           | 2025-02-28         |                     nan | Dillon Kenneth          |      4 | F-InKind           | --D                            |                              8826 |             313016           |             1 |         nan | Common Stock            |
+| 35 | D                           | 2025-02-28         |                     nan | Hollub Vicki A.         |      4 | F-InKind           | --D                            |                             27416 |             911484           |             1 |         nan | Common Stock            |
+| 36 | D                           | 2025-02-28         |                     nan | Jackson Richard A.      |      4 | F-InKind           | --D                            |                              8597 |             237084           |             1 |         nan | Common Stock            |
+| 37 | D                           | 2025-02-28         |                     nan | Kerrigan Sylvia J       |      4 | F-InKind           | --D                            |                             10904 |             100925           |             1 |         nan | Common Stock            |
+| 38 | D                           | 2025-02-28         |                     nan | Mathew Sunil            |      4 | F-InKind           | --D                            |                             10567 |             180576           |             1 |         nan | Common Stock            |
+| 39 | D                           | 2025-02-28         |                     nan | Peterson Robert L       |      4 | F-InKind           | --D                            |                              7991 |             261701           |             1 |         nan | Common Stock            |
+| 40 | D                           | 2025-02-28         |                     nan | Simmons Jeff F          |      4 | F-InKind           | --D                            |                             10526 |             291838           |             1 |         nan | Common Stock            |
+| 41 | A                           | 2025-02-12         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                             20360 |             120165           |             1 |         nan | Common Stock            |
+| 42 | A                           | 2025-02-12         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                             40718 |             322922           |             1 |         nan | Common Stock            |
+| 43 | A                           | 2025-02-12         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                             37228 |             246681           |             1 |         nan | Common Stock            |
+| 44 | A                           | 2025-02-12         |                     nan | Mathew Sunil            |      4 | A-Award            | --D                            |                             41039 |             207374           |             1 |         nan | Common Stock            |
+| 45 | A                           | 2025-02-12         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                             37228 |             270695           |             1 |         nan | Common Stock            |
+| 46 | A                           | 2025-02-12         |                     nan | Simmons Jeff F          |      4 | A-Award            | --D                            |                             42455 |             319154           |             1 |         nan | Common Stock            |
+| 47 | A                           | 2025-02-12         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                            113426 |             938557           |             1 |         nan | Common Stock            |
+| 48 | A                           | 2025-02-12         |                     nan | Champion Christopher O  |      4 | A-Award            | --D                            |                             12384 |             132549           |             2 |         nan | Common Stock            |
+| 49 | A                           | 2025-02-12         |                     nan | Dillon Kenneth          |      4 | A-Award            | --D                            |                             24766 |             347688           |             2 |         nan | Common Stock            |
+| 50 | A                           | 2025-02-12         |                     nan | Jackson Richard A.      |      4 | A-Award            | --D                            |                             22643 |             269324           |             2 |         nan | Common Stock            |
+| 51 | D                           | 2025-02-12         |                     nan | Mathew Sunil            |      4 | F-InKind           | --D                            |                             16231 |             191143           |             2 |         nan | Common Stock            |
+| 52 | A                           | 2025-02-12         |                     nan | Peterson Robert L       |      4 | A-Award            | --D                            |                             22643 |             293338           |             2 |         nan | Common Stock            |
+| 53 | D                           | 2025-02-12         |                     nan | Simmons Jeff F          |      4 | F-InKind           | --D                            |                             16790 |             302364           |             2 |         nan | Common Stock            |
+| 54 | A                           | 2025-02-12         |                     nan | Hollub Vicki A.         |      4 | A-Award            | --D                            |                             68989 |                  1.00755e+06 |             2 |         nan | Common Stock            |
+| 55 | D                           | 2025-02-12         |                     nan | Champion Christopher O  |      4 | F-InKind           | --D                            |                             12997 |             119552           |             3 |         nan | Common Stock            |
+| 56 | D                           | 2025-02-12         |                     nan | Dillon Kenneth          |      4 | F-InKind           | --D                            |                             25846 |             321842           |             3 |         nan | Common Stock            |
+| 57 | D                           | 2025-02-12         |                     nan | Jackson Richard A.      |      4 | F-InKind           | --D                            |                             23643 |             245681           |             3 |         nan | Common Stock            |
+| 58 | D                           | 2025-02-12         |                     nan | Peterson Robert L       |      4 | F-InKind           | --D                            |                             23646 |             269692           |             3 |         nan | Common Stock            |
+| 59 | D                           | 2025-02-12         |                     nan | Hollub Vicki A.         |      4 | F-InKind           | --D                            |                             68646 |             938900           |             3 |         nan | Common Stock            |
+| 60 | A                           | 2025-02-07         |                     nan | BERKSHIRE HATHAWAY INC  |      4 | P-Purchase         | --I                            |                            763017 |                  2.64941e+08 |             1 |         nan | Common Stock            |
+| 61 | A                           | 2025-02-07         |                     nan | BUFFETT WARREN E        |      4 | P-Purchase         | --I                            |                            763017 |                  2.64941e+08 |             1 |         nan | Common Stock            |
+---------------------------------------------------
+#### OWNER TABLE
+| Acquistion or Disposition   | Transaction Date   | Deemed Execution Date   | Issuer   | Form   | Transaction Type   | Direct or Indirect Ownership   | Number of Securities Transacted   | Number of Securities Owned   | Line Number   | Issuer CIK   | Security Name   |
+|-----------------------------|--------------------|-------------------------|----------|--------|--------------------|--------------------------------|-----------------------------------|------------------------------|---------------|--------------|-----------------|
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Elevated Insider Transaction Activity Suggests Potential Strategic Uncertainty  
+Throughout 2025, Occidental Petroleum Corp (OXY) has exhibited unusually high volumes and frequencies of insider transactions, particularly in the form of awards, gifts, and in-kind dispositions. Multiple executives and key managers, including board members, have been involved in significant share transactions concentrated in the first and last quarters of 2025. This pattern may indicate ongoing strategic repositioning or response to specific internal or external challenges. The cluster of share dispositions in October 2025, coupled with earlier blocks of acquisitions and awards, could reflect management recalibration amidst volatile sector conditions or gearing towards opportunistic capital redeployment. Such active insider dealings often reflect a lack of uniform confidence in near-term prospects or potentially signal material non-public developments influencing stakeholder behavior, consequently heightening credit risk premia.
+
+#### 2. Ownership Concentration Under a Major Shareholder Limits Strategic Flexibility  
+Berkshire Hathaway Inc. remains a dominant partial owner of Occidental Petroleum, holding roughly 10% equity as of 2024, with consistent share purchases continuing into 2025. While the backing by a large, financially strong parent provides some stability, Berkshire Hathaway’s significant influence may constrain Occidental’s strategic and operational autonomy. The firm’s credit profile could be vulnerable to shifts in the parent’s broader investment priorities or capital allocation policies during economic downturns or sectoral stress. The ownership concentration risks subordination of Occidental’s standalone credit considerations to the parent’s interests, complicating creditor recourse in adverse scenarios. Furthermore, strategic directions determined or influenced by the partial parent ownership structure could prioritize long-term industrial aims over near-term financial flexibility, increasing credit profile uncertainty.
+
+#### 3. Complex and Diverse Subsidiary Structure Raises Operational Integration Risks  
+Occidental’s group structure includes ownership stakes in numerous subsidiaries such as Premcor Inc., California Resources Corp, Lyondell Chemical Co, Plains GP Holdings LP, and Western Midstream Partners, with ownership values typically around 10 percent or specified as “other.” While diversification may provide some operational synergies, the relatively modest stakes limit Occidental’s full control over operational decisions and financial outcomes at these entities. The complexity and breadth of interests across oilfield services, chemicals, and midstream pipeline operations increase managerial and governance challenges, heightening the risk of diluted focus and slower response to market volatility. Disparate strategic priorities across subsidiaries could encumber overall group coherence, potentially impairing cash flow visibility, financial reporting clarity, and coordinated risk management, all of which weigh negatively on credit assessment.
+
+#### 4. Concentration of Insider Transactions Among Top Executives Raises Corporate Governance Concerns  
+A significant share of insider transactions in 2025 concentrates among key executives such as Richard A. Jackson and several board members, suggesting potentially uneven alignment between management and broader shareholder interests. The issuance of frequent awards and gifts during the year, often to a limited number of insiders, could indicate aggressive compensation practices that risk shareholder dilution over time. Moreover, persistent insider sales amidst volatile commodity prices could reflect waning confidence in the firm’s short- to mid-term operational outlook. This concentration and pattern of insider trading raise governance questions, especially regarding transparency and long-term strategic commitment, which can undermine investor and creditor confidence and thereby elevate the firm’s credit risk profile.
+
+#### 5. Lack of Clear Insider Stake Growth Signals Moderated Commitment to Long-Term Value Creation  
+Despite active trading, there is no clear trend of increasing insider ownership stakes in Occidental Petroleum throughout 2025. The roughly stable or slightly declining aggregate insider holdings point toward a lack of growing internal conviction in the company’s value appreciation potential. This restrained insider ownership trajectory may result from portfolio diversification or personal liquidity needs, but it also signals potentially weakened alignment with long-term shareholder value creation. For credit risk purposes, subdued insider ownership growth is a negative factor, as it may reduce management’s incentive to aggressively pursue deleveraging or value-accretive initiatives that underpin credit stability, thereby heightening default risk under adverse business conditions.
+
+---
+
+In summary, Occidental Petroleum’s Business Profile in 2025 reflects notable risks stemming from insider transaction volatility, concentrated but potentially constraining partial parent ownership, complex subsidiary operations with limited control, insider trading patterns concentrated among top managers, and lack of growing insider ownership. These factors collectively underscore strategic uncertainty, governance and alignment issues, and operational complexity that weigh on the company’s creditworthiness.
+# V2 corrected
+---------------------------------------------------
+### Key Rating Drivers – Business Profile (F2)
+
+#### 1. Elevated Insider Transaction Activity Reflects Potential Strategic or Governance Uncertainty  
+Throughout 2025, Occidental Petroleum has experienced active insider transactions including acquisitions, awards, gifts, and in-kind dispositions by multiple insiders. The frequency and volume of these transactions at various points during the year, particularly clustered in early and late 2025, may indicate ongoing management adjustments or uncertainty regarding future strategic direction. Such activity can imply varying degrees of confidence among insiders and can be perceived negatively by external investors and creditors, potentially signaling governance challenges or anticipations of operational headwinds.
+
+#### 2. Significant Ownership by Berkshire Hathaway Limits Strategic Independence  
+Berkshire Hathaway holds a significant partial ownership stake in Occidental Petroleum, approximately 10%, representing a strong external influence over strategic decisions. While this relationship provides financial support, it could limit Occidental’s operational and financial flexibility. The partial ownership structure poses risks that the company’s strategy may be subordinated to the broader investment objectives of Berkshire Hathaway, which may not always align with Occidental’s standalone credit interests, especially during periods of economic or sectoral stress.
+
+#### 3. Complex Group Structure Incorporates Multiple Minority Stakes Reducing Control  
+Occidental Petroleum’s ownership includes numerous minority stakes (approximately 10% or other) in various subsidiaries and affiliates such as Premcor Inc., California Resources Corp, Lyondell Chemical Co, Plains GP Holdings LP, and Western Midstream Partners. The limited control over these entities restricts Occidental’s ability to influence operational performance and cash flow generation from these investments. The diversified and complex corporate structure adds layers of operational and financial complexity, which may obscure transparency and hinder the alignment of interests across the group, elevating corporate risk.
+
+#### 4. Concentration of Insider Transactions Among Select Executives Raises Governance Risks  
+Key individuals, including top executives and board members, dominate insider transactions in 2025, with frequent awards and gifts alongside periodic disposals of shares. This concentration of transactions could reflect compensation structures that risk shareholder dilution and potentially indicate uneven alignment between management incentives and long-term shareholder value. Furthermore, significant insider selling could signal cautious internal sentiment toward the firm’s near-term prospects, which may weaken creditor confidence.
+
+#### 5. Stable or Declining Insider Ownership Limits Management’s Alignment with Long-Term Value  
+Despite active trading, insider ownership in Occidental does not exhibit a clear upward trend in 2025 and in some cases indicates slight reductions. This steady or declining equity stake suggests a lack of growing management commitment to the company’s long-term value appreciation, which can be a negative signal for credit risk. Reduced insider ownership alignment may diminish incentives for aggressive financial discipline or strategic initiatives essential for improving the company’s credit profile under adverse market conditions.
+
+---
+
+Overall, Occidental Petroleum’s business profile credit risks reflect concerns about concentrated external ownership potentially constraining strategic flexibility, a complex and partially controlled subsidiary structure, elevated insider trading activity suggesting governance risks, and relatively flat insider ownership limiting incentives for long-term credit stability.
+# V3
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+#### 1. Elevated Regulatory and Policy Uncertainty in the U.S. Energy Sector  
+The U.S. crude petroleum and natural gas sector continues to face significant regulatory uncertainty catalyzed by shifting government policies. Although no major regulatory overhaul has been noted in 2024, the transition in U.S. political leadership since 2017 and the evolving stance on environmental regulations create a volatile policy environment. Occidental Petroleum, with its asset base concentrated in the United States, faces risks stemming from potential tightening of emissions standards, methane regulations, and restrictions on drilling activities. This uncertainty complicates long-term capital planning and may constrain operational flexibility, increasing the company's exposure to compliance costs and potential project delays.
+
+#### 2. Persistent Volatility in Commodity Prices and Market Demand  
+The crude oil and natural gas sector's profitability, and thus credit profile, remains heavily influenced by highly volatile commodity prices driven by global macroeconomic factors and geopolitical tensions. Although price shocks are not new, recent years have featured heightened instability due to fluctuating global demand patterns, partially linked to the COVID-19 pandemic recovery, supply chain disruptions, and changing energy consumption trends. Occidental Petroleum’s revenue and cash flow are sensitive to these external price swings, impairing its ability to maintain consistent debt servicing capacity under adverse price scenarios.
+
+#### 3. Limited Impact from Political “Power Transfers” but Potential Latent Risk  
+Historical sector-level events such as political “power transfers” observed during U.S. presidential transitions (e.g., the inauguration of President Donald Trump in 2017) have had sector-wide implications that could influence regulatory priorities. While no recent power transfers have directly disrupted Occidental’s operations, the company remains exposed to latent risks tied to administrative policy reversals or shifts in trade and energy policy that could affect market access and operational costs. The company’s strategic positioning must account for such political uncertainties given its concentration in the U.S. market.
+
+#### 4. Increasing Pressure from the Energy Transition and Climate-Related Regulations  
+The broader operating environment includes growing regulatory and societal pressures to transition toward lower-carbon energy sources. While Occidental Petroleum has taken steps to position itself within this evolving landscape, new regulations and carbon pricing mechanisms expected in the coming years pose a material risk to its business model. Compliance with evolving climate regulations can increase Capex requirements and operating costs, weaken demand for hydrocarbons, and constrain reserve valuations, all negatively impacting credit metrics over time.
+
+---
+
+Overall, Occidental Petroleum’s credit risk is materially influenced by an operating environment characterized by regulatory ambiguity, price volatility, and emerging sustainability mandates. These external risks collectively challenge the company’s ability to deliver stable cash flows and maintain financial flexibility in the near- to medium-term.
+# V3 corrected
+---------------------------------------------------
+### Key Rating Drivers – Operating Environment (F3)
+
+#### 1. Regulatory Uncertainty and Environmental Policy Risks  
+Occidental Petroleum operates in a U.S. energy sector environment marked by ongoing regulatory uncertainty, particularly around environmental regulations related to emissions and drilling activities. While recent years have not seen major regulatory changes, evolving federal and state-level policies aimed at reducing carbon emissions and tightening methane and other pollutants' controls increase compliance costs and operational risks. This regulatory environment limits operational flexibility and may lead to increased capital expenditures to meet new standards, adversely impacting the company’s cost structure and credit profile.
+
+#### 2. Exposure to Commodity Price Volatility  
+The company’s credit risk remains highly sensitive to fluctuations in crude oil and natural gas prices, driven by global economic conditions, geopolitical events, and supply-demand imbalances. Price volatility affects Occidental’s revenue streams and cash flow generation capacity, which creates challenges in maintaining stable debt servicing capabilities and financial flexibility, especially under sustained low-price periods or sudden market disruptions.
+
+#### 3. Sector Exposure to Energy Transition Pressures  
+Occidental faces increasing pressure from the global energy transition trend, including tighter climate policies, emission reduction targets, and the gradual shift toward renewable energy sources. These external forces heighten operational risks and may limit growth opportunities within the hydrocarbon sector. The evolving regulatory landscape requires ongoing investments in sustainability initiatives, which could constrain free cash flow and credit metrics, especially if fossil fuel demand declines over the medium term.
+
+---
+
+The external operating environment for Occidental Petroleum is characterized by regulatory challenges, commodity price volatility, and transition-related risks, all of which present material headwinds to its credit stability and financial resilience in the coming years.
+# FINAL
+---------------------------------------------------
+# Occidental Petroleum Corp  
+## Credit Risk Report 2025  
+### Key Rating Drivers  
+
+This section outlines the principal factors shaping Occidental Petroleum’s credit risk profile as of 2025. The analysis focuses predominantly on downside risks across financial, business, and operating environment dimensions, which collectively amplify uncertainties around the company’s debt servicing capacity and financial resilience.
+
+---
+
+## Financial Profile (F1)
+
+### 1. Declining Profitability Pressures Debt Servicing Capacity  
+Occidental has experienced a marked contraction in EBITDA margin, falling from 60.3% in 2022 to 47.2% in 2024. This pronounced erosion of profitability limits the company’s buffer against adverse shocks, reducing operating income available to meet growing debt obligations. Relative to peers such as Diamondback Energy, which sustain EBITDA margins exceeding 69%, Occidental’s lower profitability signals cost inefficiencies or challenging asset performance, raising concerns about earnings stability going forward.
+
+### 2. Weakened Cash Flow Conversion and Compressed Free Cash Flow  
+Although EBITDA and funds from operations remain positive, Occidental’s free cash flow has declined sharply from $12.3 billion in 2022 to $4.4 billion in 2024. The Free Cash Flow Ratio plunged from 0.59 to 0.16 over the same period, reflecting that fewer cash resources are available after capital expenditures and other operational needs. Rising capex—up from $4.5 billion to $7.0 billion during this interval—exacerbates this shortfall, limiting cash available for debt reduction or liquidity accumulation and increasing reliance on external financing.
+
+### 3. Escalating Leverage Heightens Refinancing and Credit Risks  
+Leverage metrics have deteriorated significantly, with EBITDA leverage rising from 0.94x in 2022 to 2.15x in 2024, and FFO leverage increasing from 1.15x to 1.92x. Elevated leverage constrains Occidental’s capacity to absorb volatility in earnings and narrows options for raising incremental debt at favorable terms. The trend exposes the company to refinancing risk at a time when capital markets could tighten, jeopardizing financial flexibility and potentially elevating funding costs.
+
+### 4. Reduced Interest Coverage Weakens Cushion Against Earnings Volatility  
+Interest coverage based on FFO declined to 5.32x in 2024 from 6.94x in 2022. While still above critical stress levels, this contraction lowers the margin of safety in servicing interest expenses during periods of commodity price weakness or operational disruptions, increasing the risk of financial distress if cash flows deteriorate further.
+
+### 5. Diminished Liquidity and Rising Near-Term Refinancing Risk  
+Liquidity buffers have contracted sharply, with cash on hand relative to short-term debt declining from a robust 44.7x in 2022 to barely 2.13x in 2024. Although Occidental maintains slight coverage above immediate obligations, this sharp drop signals erosion in short-term financial flexibility. The combination of weaker free cash flow and shrinking cash reserves heightens refinancing risk on upcoming debt maturities, compelling potential reliance on capital markets under less favorable terms.
+
+---
+
+## Business Profile (F2)
+
+### 6. Elevated and Concentrated Insider Transaction Activity Suggests Governance and Strategic Uncertainty  
+Throughout 2025, Occidental witnessed frequent insider transactions—including acquisitions, disposals, awards, and gifts—clustered especially in early and late parts of the year. These transactions are concentrated among a few top executives and board members, raising governance concerns related to potential misalignment between management incentives and long-term shareholder or creditor interests. The pattern implies ongoing strategic recalibrations or internal uncertainty, which could unsettle external stakeholders’ confidence.
+
+### 7. Significant Berkshire Hathaway Ownership May Limit Strategic and Operational Autonomy  
+Berkshire Hathaway’s approximate 10% ownership stake imparts substantial influence over Occidental’s strategic decisions. While financial backing is beneficial, the partial ownership structure risks subordinating Occidental’s interests to Berkshire’s broader investment objectives, possibly constraining nimble operational responses and impacting credit stability during industry downturns or financial stress episodes.
+
+### 8. Complex Ownership Structure with Multiple Minority Stakes Reduces Control and Transparency  
+Occidental’s portfolio of minority investments in various affiliates and subsidiaries, including Premcor Inc., California Resources Corp, and others, limits its direct operational control and cash flow predictability from these segments. This complexity increases corporate governance challenges and may obscure consolidated performance metrics, complicating credit assessments and elevating execution risks.
+
+### 9. Stable or Declining Insider Ownership Weakens Long-Term Commitment Indicator  
+Despite active insider transactions, overall insider equity holdings have not shown growth and, in some instances, reflect slight declines in 2025. This static or eroding ownership stake signals potentially weaker alignment between management interests and sustainable creditworthiness, undermining incentives for disciplined capital allocation and strategic actions that strengthen the company’s credit profile through economic cycles.
+
+---
+
+## Operating Environment (F3)
+
+### 10. Regulatory Uncertainty and Intensifying Environmental Compliance Costs  
+Occidental operates within an increasingly complex U.S. regulatory framework focused on reducing carbon emissions and tightening controls on drilling and methane releases. Emerging federal and state policies drive up compliance and capital investment requirements, compressing operating margins and free cash flow. The evolving regulatory landscape presents ongoing operational constraints and cost inflation risks, limiting strategic flexibility in the core hydrocarbon business.
+
+### 11. Persistent Exposure to Commodity Price Volatility Compromises Revenue Stability  
+The company’s revenue and cash flow remain highly sensitive to fluctuations in crude oil and natural gas prices against a backdrop of geopolitical tensions, global demand shifts, and supply-chain disruptions. This endemic volatility undermines earnings predictability, complicating debt service planning and exacerbating refinancing risks in downturns.
+
+### 12. Sectoral Pressure from Energy Transition Threatens Long-Term Demand and Growth Prospects  
+Macro trends toward decarbonization and renewable energy adoption impose structural risks on Occidental’s core hydrocarbons business. Increasingly stringent climate policies and shifting capital allocation by investors heighten barriers for growth, necessitating costly sustainability investments that may further strain cash flows and credit metrics. Over the medium term, diminishing fossil fuel demand poses existential threats to revenue and asset viability.
+
+---
+
+## Conclusion  
+
+Occidental Petroleum’s 2025 credit risk profile is weighed down by a confluence of deteriorating financial fundamentals, governance and strategic ambiguities, and a challenging external operating environment. Significant declines in profitability, cash flow generation, and liquidity coupled with rising leverage have materially increased refinancing and credit vulnerabilities. Governance signals—namely concentrated insider trading activity and partial control by a major external investor—amplify uncertainty about strategic direction and managerial alignment. Externally, an evolving and stringent regulatory framework alongside volatile commodity markets and energy transition pressures compound operational risks. Collectively, these drivers constrain Occidental’s financial flexibility and heighten the risk of credit stress in a potentially volatile macroeconomic and sectoral context.
