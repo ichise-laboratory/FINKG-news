@@ -13,8 +13,8 @@ Generation Using News-Centric Financial Knowledge Graph* paper:
 
 This repository contains two main modules. See each module's README for details:
 
-- FinKG-News-Framework — pipeline to build the financial knowledge graph. (/FinKG-News-Framework/README.md)
-- Credit Risk Report Generation — generates credit risk reports using the graph and external data sources. (/Credit-Risk-Report-Generation/README.md)
+- **[FinKG-News-Framework](FinKG-News-Framework/README.md)**: pipeline to build the financial knowledge graph.
+- **[Credit Risk Report Generation](Credit-Risk-Report-Generation/README.md)**: framework to generate credit risk reports using the graph and external data sources.
 
 
 ## Citation
