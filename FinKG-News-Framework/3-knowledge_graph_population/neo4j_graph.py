@@ -1,44 +1,18 @@
 import re
+import os
 
 from neo4j import GraphDatabase
-from sys import platform
+from dotenv import load_dotenv
+
+load_dotenv("../../.env")
 
 class Neo4jGraph:
     # init method
     def __init__(self):
-        # See https://neo4j.com/developer/aura-connect-driver/ for Aura specific connection URL.
-        scheme = "bolt"  # connecting to Aura. use the "neo4j+s" URI scheme
-        # host_name = "localhost"
-        host_name = "172.17.96.1" # if running the code in wsl and neo4j in windows
-
-        """
-        host: neo4j://localhost:7687
-        user: neo4j
-        password: nedo
-        """
-        # user = "russell3000"
-        user = "neo4j"
-        password = "finkg v2"
-        port = 7687
-        database = "finkg-news"
-        # database = "finkg-testing" # use this for testing
-
-        # different os use different neo4j port
-        if platform == "linux" or platform == "linux2":
-            print(platform)
-            # password = "nedo"
-            port = 7687
-            # linux
-        elif platform == "darwin":
-            print(platform)
-            # OS X
-        elif platform == "win32":
-            print(platform)
-
-        url = "{scheme}://{host_name}:{port}".format(
-            scheme=scheme, host_name=host_name, port=port)
-
-        print("url:",url)
+        url = os.environ.get("NEO_URL", "bolt://localhost:7687")
+        user = os.environ.get("NEO_USERNAME", "neo4j")
+        password = os.environ.get("NEO_PASSWORD")
+        database = os.environ.get("NEO_DATABASE", "finkg-news")
 
         self.driver = GraphDatabase.driver(url, database=database, auth=(user, password))
         

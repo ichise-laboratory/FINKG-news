@@ -2,6 +2,7 @@
 # event_detection/output_detection/*.jsonl
 */.env
 venv
+.venv
 __pycache__
 entity
 html
