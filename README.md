@@ -22,7 +22,3 @@ This repository contains two main modules. See each module's README for details:
 If you use this work, please cite the corresponding paper:
 
 (bibtex to do)
-
-## License
-
-(to do)
